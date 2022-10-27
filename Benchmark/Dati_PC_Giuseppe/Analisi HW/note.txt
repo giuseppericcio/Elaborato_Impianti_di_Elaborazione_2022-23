@@ -1,0 +1,6 @@
+Software aperti in background:
+MATLAB
+JMP
+Teams
+HW Monitor
+Performance Monitor
