@@ -1,0 +1,75 @@
+1167669940 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669940 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669940 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669940 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669941 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669941 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669941 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669941 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669942 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669942 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669942 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669943 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669943 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669943 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669943 tg-c238 DEV +Platform Specific Error Info Section
+1167669943 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669943 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669943 tg-c238 DEV + Platform Specific Error Detail:
+1167669944 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669944 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669944 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669945 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669945 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669946 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669946 tg-c238 DEV +Platform Specific Error Info Section
+1167669946 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669946 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669946 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669947 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669947 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669948 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669948 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669948 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669949 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669949 tg-c238 MEM + Mem Error Detail:
+1167669950 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669950 tg-c238 DEV +Platform Specific Error Info Section
+1167669950 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669950 tg-c238 MEM + Mem Error Detail:
+1167669950 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669950 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669951 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669951 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669951 tg-c238 DEV + Platform Specific Error Detail:
+1167669952 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669952 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669953 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669953 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669953 tg-c238 MEM + Mem Error Detail:
+1167669954 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669954 tg-c238 DEV +Platform PCI Component Error Info Section
+1167669954 tg-c238 DEV +Platform Specific Error Info Section
+1167669954 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669954 tg-c238 DEV + Platform Specific Error Detail:
+1167669954 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669954 tg-c238 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1167669955 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669955 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669955 tg-c238 DEV +Platform Specific Error Info Section
+1167669955 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669955 tg-c238 DEV + Platform Specific Error Detail:
+1167669956 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167669956 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167669956 tg-c238 DEV +Platform Specific Error Info Section
+1167669956 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167669956 tg-c238 DEV + Platform Specific Error Detail:
+1167670030 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167670031 tg-c238 DEV +Platform PCI Component Error Info Section
+1167670041 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167670041 tg-c238 DEV +Platform PCI Component Error Info Section
+1167670048 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167670048 tg-c238 DEV +Platform PCI Component Error Info Section
+1167670049 tg-c238 DEV +Platform PCI Component Error Info Section
+1167670066 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167670066 tg-c238 DEV +Platform PCI Component Error Info Section

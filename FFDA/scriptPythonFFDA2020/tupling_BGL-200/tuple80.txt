@@ -1,0 +1,12 @@
+1130088160 R30-M1-NF J17-U01  external input interrupt (unit=0x02 bit=0x0e): torus sender z- retransmission error was corrected
+1130088160 R30-M1-NF J17-U01  rts panic! - stopping execution
+1130088161 R30-M1-NF J13-U01  external input interrupt (unit=0x02 bit=0x0a): torus sender x- retransmission error was corrected
+1130088161 R10-M0-NE J05-U01  external input interrupt (unit=0x02 bit=0x09): torus sender x+ retransmission error was corrected
+1130088161 R30-M1-NF J17-U11  external input interrupt (unit=0x02 bit=0x0c): torus sender y- retransmission error was corrected
+1130088161 R30-M1-NF J13-U01  rts panic! - stopping execution
+1130088162 R10-M0-NE J05-U01  rts panic! - stopping execution
+1130088162 R31-M1-N9 J15-U01  external input interrupt (unit=0x02 bit=0x0d): torus sender z+ retransmission error was corrected
+1130088165 R30-M1-NF J17-U11  rts panic! - stopping execution
+1130088165 R30-M1-NF J16-U11  external input interrupt (unit=0x02 bit=0x0b): torus sender y+ retransmission error was corrected
+1130088170 R31-M1-N9 J15-U01  rts panic! - stopping execution
+1130088175 R30-M1-NF J16-U11  rts panic! - stopping execution

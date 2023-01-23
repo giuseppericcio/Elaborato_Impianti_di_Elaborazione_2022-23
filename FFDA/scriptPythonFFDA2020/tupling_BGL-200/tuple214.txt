@@ -1,0 +1,46 @@
+1132454976 R47-M1-N3 J17-U01  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1132454976 R47-M1-N3 J17-U01  instruction address: 0x0014c8c0
+1132454976 R47-M1-N3 J17-U01  machine check status register: 0x91800000
+1132454976 R47-M1-N3 J17-U01  summary...........................1
+1132454977 R47-M1-N3 J17-U01  instruction plb error.............0
+1132454977 R47-M1-N3 J17-U01  data read plb error...............0
+1132454977 R47-M1-N3 J17-U01  data write plb error..............1
+1132454977 R47-M1-N3 J17-U01  tlb error.........................0
+1132454978 R47-M1-N3 J17-U01  i-cache parity error..............0
+1132454978 R47-M1-N3 J17-U01  d-cache search parity error.......0
+1132454978 R47-M1-N3 J17-U01  d-cache flush parity error........1
+1132454979 R47-M1-N3 J17-U01  imprecise machine check...........1
+1132454979 R47-M1-N3 J17-U01  machine state register: 0x0002f900
+1132454979 R47-M1-N3 J17-U01  wait state enable.................0
+1132454980 R47-M1-N3 J17-U01  critical input interrupt enable...1
+1132454984 R47-M1-N3 J17-U01  external input interrupt enable...1
+1132454994 R47-M1-N3 J17-U01  problem state (0=sup,1=usr).......1
+1132455005 R47-M1-N3 J17-U01  floating point instr. enabled.....1
+1132455017 R47-M1-N3 J17-U01  machine check enable..............1
+1132455030 R47-M1-N3 J17-U01  floating pt ex mode 0 enable......1
+1132455044 R47-M1-N3 J17-U01  debug wait enable.................0
+1132455055 R47-M1-N3 J17-U01  debug interrupt enable............0
+1132455061 R47-M1-N3 J17-U01  floating pt ex mode 1 enable......1
+1132455063 R47-M1-N3 J17-U01  instruction address space.........0
+1132455064 R47-M1-N3 J17-U01  data address space................0
+1132455064 R47-M1-N3 J17-U01  core configuration register: 0x00002000
+1132455065 R47-M1-N3 J17-U01  disable store gathering..................0
+1132455065 R47-M1-N3 J17-U01  disable apu instruction broadcast........0
+1132455065 R47-M1-N3 J17-U01  disable trace broadcast..................0
+1132455066 R47-M1-N3 J17-U01  guaranteed instruction cache block touch.0
+1132455066 R47-M1-N3 J17-U01  guaranteed data cache block touch........1
+1132455066 R47-M1-N3 J17-U01  force load/store alignment...............0
+1132455067 R47-M1-N3 J17-U01  icache prefetch depth....................0
+1132455067 R47-M1-N3 J17-U01  icache prefetch threshold................0
+1132455067 R47-M1-N3 J17-U01  general purpose registers:
+1132455067 R47-M1-N3 J17-U01  0:00000010 1:0fea03d0 2:1eeeeeee 3:00000050
+1132455068 R47-M1-N3 J17-U01  4:ffffffe0 5:01bb8190 6:0a1ab860 7:00000018
+1132455068 R47-M1-N3 J17-U01  8:01bb8348 9:00000028 10:ffffffe8 11:01bb8290
+1132455068 R47-M1-N3 J17-U01  12:01bb81c8 13:1eeeeeee 14:0000fff3 15:0fee1024
+1132455068 R47-M1-N3 J17-U01  16:00000075 17:000000c1 18:000000c2 19:0fea0700
+1132455069 R47-M1-N3 J17-U01  20:0000012a 21:0022536c 22:0a175ec0 23:01bb80c0
+1132455069 R47-M1-N3 J17-U01  24:01e73000 25:00368a80 26:01c4dc00 27:0a1ab840
+1132455069 R47-M1-N3 J17-U01  28:01bb9e00 29:0a175ec0 30:00000008 31:003b7710
+1132455069 R47-M1-N3 J17-U01  special purpose registers:
+1132455070 R47-M1-N3 J17-U01  lr:0014ae24 cr:2a404828 xer:20000002 ctr:0014ac7c
+1132455070 R47-M1-N3 J17-U01  rts panic! - stopping execution

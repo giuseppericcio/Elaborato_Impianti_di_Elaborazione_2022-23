@@ -1,0 +1,4 @@
+1131366800 R71-M0-N4 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366800 R71-M0-N4 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366908 R71-M0-N4 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366908 R71-M0-N4 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied

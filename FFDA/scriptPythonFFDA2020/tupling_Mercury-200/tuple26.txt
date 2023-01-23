@@ -1,0 +1,19 @@
+1167798435 tg-c781 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167798435 tg-c781 DEV +Platform PCI Component Error Info Section
+1167798435 tg-c781 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167798587 tg-s176 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167798587 tg-s176 DEV +END HARDWARE ERROR STATE AT CPE
+1167798587 tg-s176 DEV +Platform PCI Component Error Info Section
+1167798587 tg-s176 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167798634 tg-c781 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167798634 tg-c781 DEV +Platform PCI Component Error Info Section
+1167798634 tg-c781 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167798759 tg-c781 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167798759 tg-c781 DEV +Platform PCI Component Error Info Section
+1167798759 tg-c781 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167798892 tg-s176 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167798892 tg-s176 DEV +END HARDWARE ERROR STATE AT CPE
+1167798892 tg-s176 DEV +Platform PCI Component Error Info Section
+1167798892 tg-s176 DEV +Platform Specific Error Info Section
+1167798892 tg-s176 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167798892 tg-s176 DEV + Platform Specific Error Detail:

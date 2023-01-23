@@ -1,0 +1,11 @@
+1168516967 tg-c757 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168516967 tg-c757 DEV +Platform PCI Component Error Info Section
+1168516967 tg-c757 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168516967 tg-c757 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168516967 tg-c757 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168516968 tg-c757 DEV +END HARDWARE ERROR STATE AT CPE
+1168516968 tg-c757 DEV +Platform Specific Error Info Section
+1168516968 tg-c757 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168516968 tg-c757 DEV + Platform Specific Error Detail:
+1168516968 tg-c757 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1168516968 tg-c757 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,

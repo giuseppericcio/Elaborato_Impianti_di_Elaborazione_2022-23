@@ -1,0 +1,22 @@
+1131935482 R07-M1-N2 J17-U01  machine check interrupt (bit=0x06): L3 major internal error
+1131935482 R07-M1-N2 J17-U01  instruction address: 0x0046851c
+1131935482 R07-M1-N2 J17-U01  machine check status register: 0xa0000000
+1131935483 R07-M1-N2 J17-U01  summary...........................1
+1131935483 R07-M1-N2 J17-U01  instruction plb error.............0
+1131935483 R07-M1-N2 J17-U01  data read plb error...............1
+1131935483 R07-M1-N2 J17-U01  data write plb error..............0
+1131935484 R07-M1-N2 J17-U01  tlb error.........................0
+1131935484 R07-M1-N2 J17-U01  i-cache parity error..............0
+1131935484 R07-M1-N2 J17-U01  d-cache search parity error.......0
+1131935485 R07-M1-N2 J17-U01  d-cache flush parity error........0
+1131935485 R07-M1-N2 J17-U01  imprecise machine check...........0
+1131935485 R07-M1-N2 J17-U01  machine state register: 0x0002f900
+1131935486 R07-M1-N2 J17-U01  wait state enable.................0
+1131935486 R07-M1-N2 J17-U01  critical input interrupt enable...1
+1131935488 R07-M1-N2 J17-U01  external input interrupt enable...1
+1131935491 R07-M1-N2 J17-U01  problem state (0=sup,1=usr).......1
+1131935497 R07-M1-N2 J17-U01  floating point instr. enabled.....1
+1131935507 R07-M1-N2 J17-U01  machine check enable..............1
+1131935517 R07-M1-N2 J17-U01  floating pt ex mode 0 enable......1
+1131935529 R07-M1-N2 J17-U01  debug wait enable.................0
+1131935544 R07-M1-N2 J17-U01  debug interrupt enable............0

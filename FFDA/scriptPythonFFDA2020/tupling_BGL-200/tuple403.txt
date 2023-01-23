@@ -1,0 +1,8 @@
+1136390405 R50-M1-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R31-M1-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R20-M1-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R00-M0-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R36-M0-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R30-M0-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R31-M0-NC J18-U11  idoproxy communication failure: socket closed
+1136390405 R34-M0-NC J18-U11  idoproxy communication failure: socket closed

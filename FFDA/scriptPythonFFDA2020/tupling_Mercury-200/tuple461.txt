@@ -1,0 +1,4 @@
+1174353316 tg-s176 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174353316 tg-s176 DEV +Platform PCI Component Error Info Section
+1174353316 tg-s176 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174353317 tg-s176 DEV +END HARDWARE ERROR STATE AT CPE

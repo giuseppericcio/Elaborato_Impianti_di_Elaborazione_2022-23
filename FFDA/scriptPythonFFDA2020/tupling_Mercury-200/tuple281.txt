@@ -1,0 +1,28 @@
+1171204613 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171204613 tg-c242 DEV +Platform PCI Component Error Info Section
+1171204613 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204613 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204613 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204614 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171204614 tg-c242 DEV +Platform PCI Component Error Info Section
+1171204614 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204614 tg-c242 DEV + Platform Specific Error Detail:
+1171204614 tg-c242 MEM + Mem Error Detail:
+1171204614 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204614 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204618 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171204618 tg-c242 DEV +Platform PCI Component Error Info Section
+1171204618 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204619 tg-c242 DEV +Platform Specific Error Info Section
+1171204619 tg-c242 DEV + Platform Specific Error Detail:
+1171204619 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204619 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204626 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171204626 tg-c242 DEV +Platform PCI Component Error Info Section
+1171204626 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204626 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171204626 tg-c242 DEV + Platform Specific Error Detail:
+1171204626 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204626 tg-c242 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1171204627 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171204627 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

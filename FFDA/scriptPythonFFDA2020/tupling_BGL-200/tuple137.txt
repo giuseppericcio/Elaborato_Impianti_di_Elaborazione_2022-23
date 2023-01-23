@@ -1,0 +1,18 @@
+1131154140 R77-M1-NA J02-U11  machine check interrupt
+1131154140 R77-M1-NA J02-U11  instruction address: 0x000022f0
+1131154140 R77-M1-NA J02-U11  machine check status register: 0x81000000
+1131154141 R77-M1-NA J02-U11  summary...........................1
+1131154141 R77-M1-NA J02-U11  instruction plb error.............0
+1131154141 R77-M1-NA J02-U11  data read plb error...............0
+1131154142 R77-M1-NA J02-U11  data write plb error..............0
+1131154142 R77-M1-NA J02-U11  tlb error.........................0
+1131154142 R77-M1-NA J02-U11  i-cache parity error..............0
+1131154143 R77-M1-NA J02-U11  d-cache search parity error.......0
+1131154143 R77-M1-NA J02-U11  d-cache flush parity error........1
+1131154144 R77-M1-NA J02-U11  imprecise machine check...........0
+1131154146 R77-M1-NA J02-U11  machine state register: 0x00021000
+1131154149 R77-M1-NA J02-U11  wait state enable.................0
+1131154157 R77-M1-NA J02-U11  critical input interrupt enable...1
+1131154167 R77-M1-NA J02-U11  external input interrupt enable...0
+1131154179 R77-M1-NA J02-U11  problem state (0=sup,1=usr).......0
+1131154193 R77-M1-NA J02-U11  floating point instr. enabled.....0

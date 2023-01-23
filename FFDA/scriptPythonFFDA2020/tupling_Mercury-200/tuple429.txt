@@ -1,0 +1,23 @@
+1174011576 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174011576 tg-c401 DEV +END HARDWARE ERROR STATE AT CPE
+1174011576 tg-c401 DEV +Platform PCI Component Error Info Section
+1174011576 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174011709 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174011709 tg-c401 DEV +Platform PCI Component Error Info Section
+1174011709 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174011736 tg-c106 NET connection down
+1174011843 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174011843 tg-c401 DEV +Platform PCI Component Error Info Section
+1174011843 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174011979 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174011979 tg-c401 DEV +Platform PCI Component Error Info Section
+1174011979 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174012117 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174012118 tg-c401 DEV +Platform PCI Component Error Info Section
+1174012118 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174012261 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174012261 tg-c401 DEV +Platform PCI Component Error Info Section
+1174012261 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174012416 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174012416 tg-c401 DEV +Platform PCI Component Error Info Section
+1174012416 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

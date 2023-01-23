@@ -1,0 +1,18 @@
+1132448130 R66-M1-N1 J08-U11  machine check interrupt
+1132448130 R66-M1-N1 J08-U11  instruction address: 0x0018c96c
+1132448131 R66-M1-N1 J08-U11  machine check status register: 0x81000000
+1132448131 R66-M1-N1 J08-U11  summary...........................1
+1132448131 R66-M1-N1 J08-U11  instruction plb error.............0
+1132448132 R66-M1-N1 J08-U11  data read plb error...............0
+1132448132 R66-M1-N1 J08-U11  data write plb error..............0
+1132448132 R66-M1-N1 J08-U11  tlb error.........................0
+1132448133 R66-M1-N1 J08-U11  i-cache parity error..............0
+1132448133 R66-M1-N1 J08-U11  d-cache search parity error.......0
+1132448133 R66-M1-N1 J08-U11  d-cache flush parity error........1
+1132448134 R66-M1-N1 J08-U11  imprecise machine check...........0
+1132448137 R66-M1-N1 J08-U11  machine state register: 0x0002f900
+1132448147 R66-M1-N1 J08-U11  wait state enable.................0
+1132448160 R66-M1-N1 J08-U11  critical input interrupt enable...1
+1132448174 R66-M1-N1 J08-U11  external input interrupt enable...1
+1132448190 R66-M1-N1 J08-U11  problem state (0=sup,1=usr).......1
+1132448206 R66-M1-N1 J08-U11  floating point instr. enabled.....1

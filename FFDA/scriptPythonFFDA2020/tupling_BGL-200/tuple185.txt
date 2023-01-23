@@ -1,0 +1,46 @@
+1132144099 R44-M1-N7 J02-U11  machine check interrupt
+1132144099 R44-M1-N7 J02-U11  instruction address: 0x0014bd40
+1132144099 R44-M1-N7 J02-U11  machine check status register: 0x82000000
+1132144099 R44-M1-N7 J02-U11  summary...........................1
+1132144099 R44-M1-N7 J02-U11  instruction plb error.............0
+1132144099 R44-M1-N7 J02-U11  data read plb error...............0
+1132144099 R44-M1-N7 J02-U11  data write plb error..............0
+1132144099 R44-M1-N7 J02-U11  tlb error.........................0
+1132144100 R44-M1-N7 J02-U11  i-cache parity error..............0
+1132144100 R44-M1-N7 J02-U11  d-cache search parity error.......1
+1132144100 R44-M1-N7 J02-U11  d-cache flush parity error........0
+1132144100 R44-M1-N7 J02-U11  imprecise machine check...........0
+1132144100 R44-M1-N7 J02-U11  machine state register: 0x0002f900
+1132144100 R44-M1-N7 J02-U11  wait state enable.................0
+1132144100 R44-M1-N7 J02-U11  critical input interrupt enable...1
+1132144100 R44-M1-N7 J02-U11  external input interrupt enable...1
+1132144101 R44-M1-N7 J02-U11  problem state (0=sup,1=usr).......1
+1132144101 R44-M1-N7 J02-U11  floating point instr. enabled.....1
+1132144101 R44-M1-N7 J02-U11  machine check enable..............1
+1132144101 R44-M1-N7 J02-U11  floating pt ex mode 0 enable......1
+1132144101 R44-M1-N7 J02-U11  debug wait enable.................0
+1132144101 R44-M1-N7 J02-U11  debug interrupt enable............0
+1132144101 R44-M1-N7 J02-U11  floating pt ex mode 1 enable......1
+1132144101 R44-M1-N7 J02-U11  instruction address space.........0
+1132144101 R44-M1-N7 J02-U11  data address space................0
+1132144102 R44-M1-N7 J02-U11  core configuration register: 0x00002000
+1132144102 R44-M1-N7 J02-U11  disable store gathering..................0
+1132144102 R44-M1-N7 J02-U11  disable apu instruction broadcast........0
+1132144102 R44-M1-N7 J02-U11  disable trace broadcast..................0
+1132144102 R44-M1-N7 J02-U11  guaranteed instruction cache block touch.0
+1132144103 R44-M1-N7 J02-U11  guaranteed data cache block touch........1
+1132144104 R44-M1-N7 J02-U11  force load/store alignment...............0
+1132144105 R44-M1-N7 J02-U11  icache prefetch depth....................0
+1132144105 R44-M1-N7 J02-U11  icache prefetch threshold................0
+1132144105 R44-M1-N7 J02-U11  general purpose registers:
+1132144106 R44-M1-N7 J02-U11  0:00000000 1:0fea0580 2:1eeeeeee 3:003b7760
+1132144106 R44-M1-N7 J02-U11  4:003b0000 5:003b0000 6:006598d8 7:0039aede
+1132144107 R44-M1-N7 J02-U11  8:003552ec 9:00000028 10:ffffffe8 11:0014ac7c
+1132144107 R44-M1-N7 J02-U11  12:00a0cd30 13:1eeeeeee 14:00659978 15:00a0cf40
+1132144107 R44-M1-N7 J02-U11  16:003b7678 17:003b78a0 18:00000102 19:00000010
+1132144107 R44-M1-N7 J02-U11  20:00000008 21:00000008 22:00000028 23:ffffff68
+1132144107 R44-M1-N7 J02-U11  24:00000008 25:00000008 26:0065afa0 27:0bfa1880
+1132144107 R44-M1-N7 J02-U11  28:00000010 29:0bfea6c0 30:0bfea4c0 31:0bfa19c0
+1132144107 R44-M1-N7 J02-U11  special purpose registers:
+1132144107 R44-M1-N7 J02-U11  lr:0014ada4 cr:2a404888 xer:20000002 ctr:0014ac7c
+1132144107 R44-M1-N7 J02-U11  rts panic! - stopping execution

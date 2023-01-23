@@ -1,0 +1,2 @@
+1131035416 R71-M0-N4 J18-U11  ciod: Error loading /tmp/kubota/inferno: invalid or missing program image, No such file or directory
+1131035416 R71-M0-N4 J18-U01  ciod: Error loading /tmp/kubota/inferno: invalid or missing program image, No such file or directory

@@ -1,0 +1,46 @@
+1129749423 R75-M0-N1 J14-U01  machine check interrupt
+1129749423 R75-M0-N1 J14-U01  instruction address: 0x001263e4
+1129749423 R75-M0-N1 J14-U01  machine check status register: 0x81000000
+1129749423 R75-M0-N1 J14-U01  summary...........................1
+1129749423 R75-M0-N1 J14-U01  instruction plb error.............0
+1129749424 R75-M0-N1 J14-U01  data read plb error...............0
+1129749424 R75-M0-N1 J14-U01  data write plb error..............0
+1129749424 R75-M0-N1 J14-U01  tlb error.........................0
+1129749424 R75-M0-N1 J14-U01  i-cache parity error..............0
+1129749424 R75-M0-N1 J14-U01  d-cache search parity error.......0
+1129749424 R75-M0-N1 J14-U01  d-cache flush parity error........1
+1129749425 R75-M0-N1 J14-U01  imprecise machine check...........0
+1129749425 R75-M0-N1 J14-U01  machine state register: 0x0002f900
+1129749425 R75-M0-N1 J14-U01  wait state enable.................0
+1129749425 R75-M0-N1 J14-U01  critical input interrupt enable...1
+1129749425 R75-M0-N1 J14-U01  external input interrupt enable...1
+1129749425 R75-M0-N1 J14-U01  problem state (0=sup,1=usr).......1
+1129749426 R75-M0-N1 J14-U01  floating point instr. enabled.....1
+1129749426 R75-M0-N1 J14-U01  machine check enable..............1
+1129749426 R75-M0-N1 J14-U01  floating pt ex mode 0 enable......1
+1129749426 R75-M0-N1 J14-U01  debug wait enable.................0
+1129749426 R75-M0-N1 J14-U01  debug interrupt enable............0
+1129749426 R75-M0-N1 J14-U01  floating pt ex mode 1 enable......1
+1129749427 R75-M0-N1 J14-U01  instruction address space.........0
+1129749427 R75-M0-N1 J14-U01  data address space................0
+1129749427 R75-M0-N1 J14-U01  core configuration register: 0x40002000
+1129749427 R75-M0-N1 J14-U01  disable store gathering..................0
+1129749427 R75-M0-N1 J14-U01  disable apu instruction broadcast........0
+1129749427 R75-M0-N1 J14-U01  disable trace broadcast..................0
+1129749428 R75-M0-N1 J14-U01  guaranteed instruction cache block touch.0
+1129749428 R75-M0-N1 J14-U01  guaranteed data cache block touch........1
+1129749430 R75-M0-N1 J14-U01  force load/store alignment...............0
+1129749433 R75-M0-N1 J14-U01  icache prefetch depth....................0
+1129749437 R75-M0-N1 J14-U01  icache prefetch threshold................0
+1129749442 R75-M0-N1 J14-U01  general purpose registers:
+1129749448 R75-M0-N1 J14-U01  0:000000c0 1:1f7e9dd0 2:1eeeeeee 3:00000004
+1129749454 R75-M0-N1 J14-U01  4:03f2f208 5:03f2ed90 6:03f2f268 7:03f2edf0
+1129749459 R75-M0-N1 J14-U01  8:04d80980 9:04d80920 10:04d80e00 11:04d80da0
+1129749461 R75-M0-N1 J14-U01  12:04d80678 13:1eeeeeee 14:03f2ea80 15:03f2e600
+1129749462 R75-M0-N1 J14-U01  16:000004e8 17:04d80918 18:04d80978 19:04d80d98
+1129749463 R75-M0-N1 J14-U01  20:04d80df8 21:03f2e900 22:03f2ed20 23:03f2e8a0
+1129749463 R75-M0-N1 J14-U01  24:03f2ed80 25:00000006 26:03f2ea20 27:00000008
+1129749463 R75-M0-N1 J14-U01  28:0000000c 29:000000c0 30:03f2e5a0 31:1f7e9dd0
+1129749463 R75-M0-N1 J14-U01  special purpose registers:
+1129749464 R75-M0-N1 J14-U01  lr:00125fbc cr:44842484 xer:00000002 ctr:0000000c
+1129749464 R75-M0-N1 J14-U01  rts panic! - stopping execution

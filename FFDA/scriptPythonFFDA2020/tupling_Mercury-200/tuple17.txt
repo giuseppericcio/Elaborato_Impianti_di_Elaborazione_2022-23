@@ -1,0 +1,30 @@
+1167676614 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676614 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676614 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676615 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676615 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676615 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676618 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676618 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676618 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676620 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676620 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676620 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676621 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676621 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676621 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676622 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676622 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676622 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676623 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676623 tg-c846 DEV +END HARDWARE ERROR STATE AT CPE
+1167676623 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676623 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676624 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676624 tg-c846 DEV +END HARDWARE ERROR STATE AT CPE
+1167676624 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676624 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167676625 tg-c846 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167676625 tg-c846 DEV +END HARDWARE ERROR STATE AT CPE
+1167676625 tg-c846 DEV +Platform PCI Component Error Info Section
+1167676625 tg-c846 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

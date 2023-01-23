@@ -1,0 +1,4 @@
+1168800291 tg-c860 I-O OTH panic: REISERFS: panic (device x:x): journal-x, buffer write failed
+1168800291 tg-c860 I-O journal-x, buffer write failed
+1168800291 tg-c860 OTH OTH panic: REISERFS: panic (device x:x): journal-x, buffer write failed
+1168800291 tg-c860 OTH OTH panic: REISERFS: panic (device x:x): journal-x, buffer write failed

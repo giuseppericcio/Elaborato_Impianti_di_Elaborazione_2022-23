@@ -1,0 +1,3 @@
+1171163147 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171163171 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171163171 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

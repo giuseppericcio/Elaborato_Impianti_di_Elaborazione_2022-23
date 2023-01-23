@@ -1,0 +1,1563 @@
+1128641377 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40373: Link has been severed
+1128641377 R12-M0-N0 J18-U01  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40374: Link has been severed
+1128970789 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58325: Link has been severed
+1128970789 R12-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58326: Link has been severed
+1129165922 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129165922 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166693 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166693 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129204950 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129204950 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129208275 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1129208275 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1129208376 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+1129208376 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+1129289579 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location
+1129391885 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391885 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391997 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391997 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129418635 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image, Permission denied
+1129418635 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image, Permission denied
+1129501521 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:48119: Link has been severed
+1129501521 R12-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:48120: Link has been severed
+1129547476 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image, No such file or directory
+1129547477 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image, No such file or directory
+1129820600 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129820600 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129896041 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image, Permission denied
+1129896041 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image, Permission denied
+1129903425 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image, Permission denied
+1129903425 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image, Permission denied
+1130078200 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078201 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078360 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078360 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130140309 R12-M0-N0 J18-U11  ciod: Error loading ./ddcMDbglV: invalid or missing program image, Permission denied
+1130140310 R12-M0-N0 J18-U01  ciod: Error loading ./ddcMDbglV: invalid or missing program image, Permission denied
+1130157517 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image, No such file or directory
+1130157517 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image, No such file or directory
+1130251549 R12-M0-N0 J18-U11  ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image, No such file or directory
+1130251549 R12-M0-N0 J18-U01  ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image, No such file or directory
+1130251589 R12-M0-N0 J18-U11  ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1130251589 R12-M0-N0 J18-U01  ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1130443760 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location
+1130443787 R12-M0-N0 J18-U01  Lustre mount FAILED : bglio162 : block_id : location
+1130688133 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1130688133 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1130695772 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory
+1130695773 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory
+1131021322 R12-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image, Permission denied
+1131021322 R12-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image, Permission denied
+1131030155 R12-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image, Permission denied
+1131030155 R12-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image, Permission denied
+1131030258 R12-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied
+1131030259 R12-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied
+1131036221 R12-M0-N0 J18-U11  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036221 R12-M0-N0 J18-U01  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036470 R12-M0-N0 J18-U11  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036470 R12-M0-N0 J18-U01  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036720 R12-M0-N0 J18-U11  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036720 R12-M0-N0 J18-U01  ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131041164 R12-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1131041164 R12-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1131366737 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366737 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366901 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366901 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1132066472 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied
+1132066473 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied
+1132317425 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied
+1132317487 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied
+1132341296 R12-M0-N0 J18-U11  ciod: Error loading -mode VN: invalid or missing program image, No such file or directory
+1132341296 R12-M0-N0 J18-U01  ciod: Error loading -mode VN: invalid or missing program image, No such file or directory
+1132583727 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43474: Link has been severed
+1132583727 R12-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43473: Link has been severed
+1132609381 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52815, Connection reset by peer
+1132609381 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52814, Connection reset by peer
+1132613223 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40986, Connection timed out
+1132613223 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40985, Connection timed out
+1132614033 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43302, Connection timed out
+1132614033 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43301, Connection timed out
+1132841335 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47061, Link has been severed
+1132841450 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47062, Link has been severed
+1132853873 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41501, Link has been severed
+1132853873 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41500, Link has been severed
+1132898890 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54083, Link has been severed
+1132898890 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54082, Link has been severed
+1132912196 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54079, Link has been severed
+1132912196 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54078, Link has been severed
+1132940756 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39822, Link has been severed
+1132940757 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39821, Link has been severed
+1133009348 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59735, Link has been severed
+1133009499 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59736, Link has been severed
+1133044937 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46925, Link has been severed
+1133044937 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46924, Link has been severed
+1133052089 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54410, Link has been severed
+1133052089 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54409, Link has been severed
+1133059952 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52563, Link has been severed
+1133060000 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52562, Link has been severed
+1133062820 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58656, Link has been severed
+1133062821 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58655, Link has been severed
+1133066187 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39406, Link has been severed
+1133066237 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39407, Link has been severed
+1133135337 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40808, Link has been severed
+1133135337 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40807, Link has been severed
+1133150712 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47256, Link has been severed
+1133150712 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47255, Link has been severed
+1133314650 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57767, Link has been severed
+1133314650 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57766, Link has been severed
+1133409338 R12-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409481 R12-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409481 R12-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409629 R12-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409764 R12-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409764 R12-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133555710 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52241, Link has been severed
+1133555710 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52240, Link has been severed
+1133622119 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39938, Link has been severed
+1133622119 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39937, Link has been severed
+1133846535 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133846535 R12-M0-N0 J12-U01  machine check summary.............1
+1133846535 R12-M0-N0 J12-U01  instruction plb error.............0
+1133846535 R12-M0-N0 J12-U01  data read plb error...............1
+1133846535 R12-M0-N0 J12-U01  data write plb error..............0
+1133846535 R12-M0-N0 J12-U01  tlb error.........................0
+1133846535 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133846536 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133846536 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133846536 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133846536 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133846536 R12-M0-N0 J12-U01  wait state enable.................0
+1133846536 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133846536 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133846537 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133846537 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133846537 R12-M0-N0 J12-U01  machine check enable..............1
+1133846537 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133846537 R12-M0-N0 J12-U01  debug wait enable.................0
+1133846537 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133846538 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133846538 R12-M0-N0 J12-U01  instruction address space.........0
+1133846538 R12-M0-N0 J12-U01  data address space................0
+1133846538 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133846538 R12-M0-N0 J12-U01  disable store gathering..................0
+1133846539 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133846539 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133846539 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133846539 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133846539 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133846539 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133846540 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133846540 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133846540 R12-M0-N0 J12-U01  start initialization.....................0
+1133846540 R12-M0-N0 J12-U01  start retagging..........................0
+1133846540 R12-M0-N0 J12-U01  start flushing...........................0
+1133846540 R12-M0-N0 J12-U01  start prefetching........................0
+1133846540 R12-M0-N0 J12-U01  disable speculative access...............0
+1133846541 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133846541 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133846541 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133846541 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133846541 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133846541 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133846542 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133846542 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133846542 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133846542 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133846542 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133846542 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133846542 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133846543 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133846543 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133846543 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133846543 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133846543 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133846543 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133846544 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133846544 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133846544 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133846544 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133846544 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133846544 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133846545 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133846545 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133846545 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133846545 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133846545 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133846545 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133846545 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133846546 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133846546 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133846546 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133846546 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133846546 R12-M0-N0 J12-U01  interrupt threshold...0
+1133846546 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133846546 R12-M0-N0 J12-U01  interrupt threshold...0
+1133846547 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133846547 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133846547 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133846547 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133846547 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133846547 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133846548 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133846548 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133846548 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133846548 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133846548 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133846548 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133846549 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133846549 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133846549 R12-M0-N0 J12-U01  state machine....................................0
+1133846549 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133846549 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133846549 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133846549 R12-M0-N0 J12-U01  capture valid.........0
+1133846550 R12-M0-N0 J12-U01  symbol................0
+1133846550 R12-M0-N0 J12-U01  mask..................0x00
+1133846550 R12-M0-N0 J12-U01  miscompare............0
+1133846550 R12-M0-N0 J12-U01  uncorrectable error...0
+1133846550 R12-M0-N0 J12-U01  address parity error..0
+1133846550 R12-M0-N0 J12-U01  correctable error.....0
+1133846550 R12-M0-N0 J12-U01  qw trapped............0
+1133846551 R12-M0-N0 J12-U01  chip select...........0
+1133846551 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133846551 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846551 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846551 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846551 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133846551 R12-M0-N0 J12-U01  General Purpose Registers:
+1133846552 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133846552 R12-M0-N0 J12-U01  r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000
+1133846552 R12-M0-N0 J12-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133846552 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133846552 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133846552 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133846552 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133846553 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133846553 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133846553 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133846553 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133846553 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133846553 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133846553 R12-M0-N0 J12-U01  exception summary........................0
+1133846554 R12-M0-N0 J12-U01  enabled exception summary................0
+1133846554 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133846554 R12-M0-N0 J12-U01  overflow exception.......................0
+1133846554 R12-M0-N0 J12-U01  underflow exception......................0
+1133846554 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133846554 R12-M0-N0 J12-U01  inexact exception........................0
+1133846554 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133846555 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133846555 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133846555 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133846555 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133846555 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133846555 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133846555 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133846556 R12-M0-N0 J12-U01  quiet NaN................................0
+1133846556 R12-M0-N0 J12-U01  minus inf................................0
+1133846556 R12-M0-N0 J12-U01  minus normalized number..................0
+1133846556 R12-M0-N0 J12-U01  minus denormalized number................0
+1133846556 R12-M0-N0 J12-U01  minus zero...............................0
+1133846556 R12-M0-N0 J12-U01  plus zero................................0
+1133846556 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133846557 R12-M0-N0 J12-U01  plus normalized number...................0
+1133846557 R12-M0-N0 J12-U01  plus infinity............................0
+1133846557 R12-M0-N0 J12-U01  reserved.................................0
+1133846557 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133846557 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133846557 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133846557 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133846558 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133846558 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133846558 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133846558 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133846558 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133846558 R12-M0-N0 J12-U01  round nearest............................0
+1133846558 R12-M0-N0 J12-U01  round toward zero........................0
+1133846559 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133846559 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133846559 R12-M0-N0 J12-U01  Floating Point Registers:
+1133846559 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133846559 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133846559 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133846559 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133846560 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133846561 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133846562 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133846563 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133846564 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133846564 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133846826 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133846826 R12-M0-N0 J12-U01  machine check summary.............1
+1133846826 R12-M0-N0 J12-U01  instruction plb error.............0
+1133846826 R12-M0-N0 J12-U01  data read plb error...............1
+1133846827 R12-M0-N0 J12-U01  data write plb error..............0
+1133846827 R12-M0-N0 J12-U01  tlb error.........................0
+1133846827 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133846827 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133846827 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133846827 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133846827 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133846828 R12-M0-N0 J12-U01  wait state enable.................0
+1133846828 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133846828 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133846828 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133846828 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133846828 R12-M0-N0 J12-U01  machine check enable..............1
+1133846828 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133846829 R12-M0-N0 J12-U01  debug wait enable.................0
+1133846829 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133846829 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133846829 R12-M0-N0 J12-U01  instruction address space.........0
+1133846829 R12-M0-N0 J12-U01  data address space................0
+1133846829 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133846829 R12-M0-N0 J12-U01  disable store gathering..................0
+1133846830 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133846830 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133846830 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133846830 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133846830 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133846831 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133846831 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133846831 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133846831 R12-M0-N0 J12-U01  start initialization.....................0
+1133846831 R12-M0-N0 J12-U01  start retagging..........................0
+1133846831 R12-M0-N0 J12-U01  start flushing...........................0
+1133846831 R12-M0-N0 J12-U01  start prefetching........................0
+1133846832 R12-M0-N0 J12-U01  disable speculative access...............0
+1133846832 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133846832 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133846832 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133846832 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133846832 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133846832 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133846833 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133846833 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133846833 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133846833 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133846833 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133846833 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133846834 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133846834 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133846834 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133846834 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133846834 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133846834 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133846834 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133846835 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133846835 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133846835 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133846835 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133846835 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133846836 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133846836 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133846836 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133846836 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133846836 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133846836 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133846836 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133846837 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133846837 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133846837 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133846837 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133846837 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133846837 R12-M0-N0 J12-U01  interrupt threshold...0
+1133846837 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133846838 R12-M0-N0 J12-U01  interrupt threshold...0
+1133846838 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133846838 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133846838 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133846838 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133846838 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133846838 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133846839 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133846839 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133846839 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133846839 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133846839 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133846839 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133846840 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133846840 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133846840 R12-M0-N0 J12-U01  state machine....................................0
+1133846840 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133846840 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133846840 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133846841 R12-M0-N0 J12-U01  capture valid.........0
+1133846841 R12-M0-N0 J12-U01  symbol................0
+1133846841 R12-M0-N0 J12-U01  mask..................0x00
+1133846841 R12-M0-N0 J12-U01  miscompare............0
+1133846841 R12-M0-N0 J12-U01  uncorrectable error...0
+1133846841 R12-M0-N0 J12-U01  address parity error..0
+1133846841 R12-M0-N0 J12-U01  correctable error.....0
+1133846842 R12-M0-N0 J12-U01  qw trapped............0
+1133846842 R12-M0-N0 J12-U01  chip select...........0
+1133846842 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133846842 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846842 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846842 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133846842 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133846843 R12-M0-N0 J12-U01  General Purpose Registers:
+1133846843 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133846843 R12-M0-N0 J12-U01  r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000
+1133846843 R12-M0-N0 J12-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133846843 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133846843 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133846843 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133846844 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133846844 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133846844 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133846844 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133846844 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133846844 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133846844 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133846845 R12-M0-N0 J12-U01  exception summary........................0
+1133846845 R12-M0-N0 J12-U01  enabled exception summary................0
+1133846845 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133846845 R12-M0-N0 J12-U01  overflow exception.......................0
+1133846845 R12-M0-N0 J12-U01  underflow exception......................0
+1133846845 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133846846 R12-M0-N0 J12-U01  inexact exception........................0
+1133846846 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133846846 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133846846 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133846846 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133846846 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133846846 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133846847 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133846847 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133846847 R12-M0-N0 J12-U01  quiet NaN................................0
+1133846847 R12-M0-N0 J12-U01  minus inf................................0
+1133846847 R12-M0-N0 J12-U01  minus normalized number..................0
+1133846847 R12-M0-N0 J12-U01  minus denormalized number................0
+1133846847 R12-M0-N0 J12-U01  minus zero...............................0
+1133846847 R12-M0-N0 J12-U01  plus zero................................0
+1133846848 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133846848 R12-M0-N0 J12-U01  plus normalized number...................0
+1133846848 R12-M0-N0 J12-U01  plus infinity............................0
+1133846848 R12-M0-N0 J12-U01  reserved.................................0
+1133846848 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133846848 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133846848 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133846849 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133846849 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133846849 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133846849 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133846849 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133846849 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133846849 R12-M0-N0 J12-U01  round nearest............................0
+1133846849 R12-M0-N0 J12-U01  round toward zero........................0
+1133846850 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133846850 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133846850 R12-M0-N0 J12-U01  Floating Point Registers:
+1133846850 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133846850 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133846850 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133846850 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133846851 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133846852 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133846853 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133846854 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133847122 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133847122 R12-M0-N0 J12-U01  machine check summary.............1
+1133847122 R12-M0-N0 J12-U01  instruction plb error.............0
+1133847122 R12-M0-N0 J12-U01  data read plb error...............1
+1133847122 R12-M0-N0 J12-U01  data write plb error..............0
+1133847123 R12-M0-N0 J12-U01  tlb error.........................0
+1133847123 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133847123 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133847123 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133847123 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133847123 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133847123 R12-M0-N0 J12-U01  wait state enable.................0
+1133847124 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133847124 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133847124 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133847124 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133847124 R12-M0-N0 J12-U01  machine check enable..............1
+1133847124 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133847124 R12-M0-N0 J12-U01  debug wait enable.................0
+1133847125 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133847125 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133847125 R12-M0-N0 J12-U01  instruction address space.........0
+1133847125 R12-M0-N0 J12-U01  data address space................0
+1133847125 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133847125 R12-M0-N0 J12-U01  disable store gathering..................0
+1133847126 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133847126 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133847126 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133847126 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133847126 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133847126 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133847127 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133847127 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133847127 R12-M0-N0 J12-U01  start initialization.....................0
+1133847127 R12-M0-N0 J12-U01  start retagging..........................0
+1133847127 R12-M0-N0 J12-U01  start flushing...........................0
+1133847127 R12-M0-N0 J12-U01  start prefetching........................0
+1133847128 R12-M0-N0 J12-U01  disable speculative access...............0
+1133847128 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133847128 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133847128 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133847128 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133847128 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133847128 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133847129 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133847129 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133847129 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133847129 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133847129 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133847129 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133847129 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133847130 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133847130 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133847130 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133847130 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133847130 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133847130 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133847130 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133847131 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133847131 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133847131 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133847131 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133847131 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133847131 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133847132 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133847132 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133847132 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133847132 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133847132 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133847132 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133847132 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133847132 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133847133 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133847133 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133847133 R12-M0-N0 J12-U01  interrupt threshold...0
+1133847133 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133847133 R12-M0-N0 J12-U01  interrupt threshold...0
+1133847133 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133847133 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133847134 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133847134 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133847134 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133847134 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133847134 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133847134 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133847134 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133847135 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133847135 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133847135 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133847135 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133847135 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133847135 R12-M0-N0 J12-U01  state machine....................................0
+1133847135 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133847136 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133847136 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133847136 R12-M0-N0 J12-U01  capture valid.........0
+1133847136 R12-M0-N0 J12-U01  symbol................0
+1133847136 R12-M0-N0 J12-U01  mask..................0x00
+1133847136 R12-M0-N0 J12-U01  miscompare............0
+1133847137 R12-M0-N0 J12-U01  uncorrectable error...0
+1133847137 R12-M0-N0 J12-U01  address parity error..0
+1133847137 R12-M0-N0 J12-U01  correctable error.....0
+1133847137 R12-M0-N0 J12-U01  qw trapped............0
+1133847137 R12-M0-N0 J12-U01  chip select...........0
+1133847137 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133847138 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847138 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847138 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847138 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133847138 R12-M0-N0 J12-U01  General Purpose Registers:
+1133847138 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133847138 R12-M0-N0 J12-U01  r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000
+1133847139 R12-M0-N0 J12-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133847139 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133847139 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133847139 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133847139 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133847139 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133847139 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133847139 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133847140 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133847140 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133847140 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133847140 R12-M0-N0 J12-U01  exception summary........................0
+1133847140 R12-M0-N0 J12-U01  enabled exception summary................0
+1133847140 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133847140 R12-M0-N0 J12-U01  overflow exception.......................0
+1133847141 R12-M0-N0 J12-U01  underflow exception......................0
+1133847141 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133847141 R12-M0-N0 J12-U01  inexact exception........................0
+1133847141 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133847141 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133847141 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133847142 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133847142 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133847142 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133847142 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133847142 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133847142 R12-M0-N0 J12-U01  quiet NaN................................0
+1133847142 R12-M0-N0 J12-U01  minus inf................................0
+1133847142 R12-M0-N0 J12-U01  minus normalized number..................0
+1133847143 R12-M0-N0 J12-U01  minus denormalized number................0
+1133847143 R12-M0-N0 J12-U01  minus zero...............................0
+1133847143 R12-M0-N0 J12-U01  plus zero................................0
+1133847143 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133847143 R12-M0-N0 J12-U01  plus normalized number...................0
+1133847143 R12-M0-N0 J12-U01  plus infinity............................0
+1133847144 R12-M0-N0 J12-U01  reserved.................................0
+1133847144 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133847144 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133847144 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133847144 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133847144 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133847144 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133847145 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133847145 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133847145 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133847145 R12-M0-N0 J12-U01  round nearest............................0
+1133847145 R12-M0-N0 J12-U01  round toward zero........................0
+1133847145 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133847145 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133847145 R12-M0-N0 J12-U01  Floating Point Registers:
+1133847146 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133847146 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133847146 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133847146 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133847146 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133847146 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133847147 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133847148 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133847149 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133847150 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133847417 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133847417 R12-M0-N0 J12-U01  machine check summary.............1
+1133847417 R12-M0-N0 J12-U01  instruction plb error.............0
+1133847417 R12-M0-N0 J12-U01  data read plb error...............1
+1133847417 R12-M0-N0 J12-U01  data write plb error..............0
+1133847418 R12-M0-N0 J12-U01  tlb error.........................0
+1133847418 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133847418 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133847418 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133847418 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133847419 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133847419 R12-M0-N0 J12-U01  wait state enable.................0
+1133847419 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133847419 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133847419 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133847419 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133847419 R12-M0-N0 J12-U01  machine check enable..............1
+1133847420 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133847420 R12-M0-N0 J12-U01  debug wait enable.................0
+1133847420 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133847420 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133847420 R12-M0-N0 J12-U01  instruction address space.........0
+1133847420 R12-M0-N0 J12-U01  data address space................0
+1133847420 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133847421 R12-M0-N0 J12-U01  disable store gathering..................0
+1133847421 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133847421 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133847421 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133847421 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133847421 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133847422 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133847422 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133847422 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133847422 R12-M0-N0 J12-U01  start initialization.....................0
+1133847422 R12-M0-N0 J12-U01  start retagging..........................0
+1133847422 R12-M0-N0 J12-U01  start flushing...........................0
+1133847422 R12-M0-N0 J12-U01  start prefetching........................0
+1133847423 R12-M0-N0 J12-U01  disable speculative access...............0
+1133847423 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133847423 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133847423 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133847423 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133847423 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133847424 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133847424 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133847424 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133847424 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133847424 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133847424 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133847424 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133847425 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133847425 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133847425 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133847425 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133847425 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133847425 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133847425 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133847426 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133847426 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133847426 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133847426 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133847427 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133847427 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133847427 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133847427 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133847427 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133847427 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133847427 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133847428 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133847428 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133847428 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133847428 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133847428 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133847428 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133847429 R12-M0-N0 J12-U01  interrupt threshold...0
+1133847429 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133847429 R12-M0-N0 J12-U01  interrupt threshold...0
+1133847429 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133847429 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133847429 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133847430 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133847430 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133847430 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133847430 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133847430 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133847430 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133847430 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133847431 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133847431 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133847431 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133847431 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133847431 R12-M0-N0 J12-U01  state machine....................................0
+1133847431 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133847431 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133847432 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133847432 R12-M0-N0 J12-U01  capture valid.........0
+1133847432 R12-M0-N0 J12-U01  symbol................0
+1133847432 R12-M0-N0 J12-U01  mask..................0x00
+1133847432 R12-M0-N0 J12-U01  miscompare............0
+1133847432 R12-M0-N0 J12-U01  uncorrectable error...0
+1133847432 R12-M0-N0 J12-U01  address parity error..0
+1133847433 R12-M0-N0 J12-U01  correctable error.....0
+1133847433 R12-M0-N0 J12-U01  qw trapped............0
+1133847433 R12-M0-N0 J12-U01  chip select...........0
+1133847433 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133847433 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847433 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847434 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133847434 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133847434 R12-M0-N0 J12-U01  General Purpose Registers:
+1133847434 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133847434 R12-M0-N0 J12-U01  r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000
+1133847434 R12-M0-N0 J12-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133847434 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133847435 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133847435 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133847435 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133847435 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133847435 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133847435 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133847435 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133847435 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133847436 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133847436 R12-M0-N0 J12-U01  exception summary........................0
+1133847436 R12-M0-N0 J12-U01  enabled exception summary................0
+1133847436 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133847436 R12-M0-N0 J12-U01  overflow exception.......................0
+1133847436 R12-M0-N0 J12-U01  underflow exception......................0
+1133847437 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133847437 R12-M0-N0 J12-U01  inexact exception........................0
+1133847437 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133847437 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133847437 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133847437 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133847437 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133847438 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133847438 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133847438 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133847438 R12-M0-N0 J12-U01  quiet NaN................................0
+1133847438 R12-M0-N0 J12-U01  minus inf................................0
+1133847438 R12-M0-N0 J12-U01  minus normalized number..................0
+1133847438 R12-M0-N0 J12-U01  minus denormalized number................0
+1133847439 R12-M0-N0 J12-U01  minus zero...............................0
+1133847439 R12-M0-N0 J12-U01  plus zero................................0
+1133847439 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133847439 R12-M0-N0 J12-U01  plus normalized number...................0
+1133847439 R12-M0-N0 J12-U01  plus infinity............................0
+1133847439 R12-M0-N0 J12-U01  reserved.................................0
+1133847439 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133847440 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133847440 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133847440 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133847440 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133847440 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133847440 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133847440 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133847440 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133847441 R12-M0-N0 J12-U01  round nearest............................0
+1133847441 R12-M0-N0 J12-U01  round toward zero........................0
+1133847441 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133847441 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133847441 R12-M0-N0 J12-U01  Floating Point Registers:
+1133847441 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133847441 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133847442 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133847443 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133847444 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133847445 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133847446 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133847446 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133847446 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133875981 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133875981 R12-M0-N0 J12-U01  machine check summary.............1
+1133875981 R12-M0-N0 J12-U01  instruction plb error.............0
+1133875981 R12-M0-N0 J12-U01  data read plb error...............1
+1133875982 R12-M0-N0 J12-U01  data write plb error..............0
+1133875982 R12-M0-N0 J12-U01  tlb error.........................0
+1133875982 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133875982 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133875982 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133875982 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133875982 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133875983 R12-M0-N0 J12-U01  wait state enable.................0
+1133875983 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133875983 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133875983 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133875983 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133875983 R12-M0-N0 J12-U01  machine check enable..............1
+1133875983 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133875983 R12-M0-N0 J12-U01  debug wait enable.................0
+1133875984 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133875984 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133875984 R12-M0-N0 J12-U01  instruction address space.........0
+1133875984 R12-M0-N0 J12-U01  data address space................0
+1133875984 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133875984 R12-M0-N0 J12-U01  disable store gathering..................0
+1133875984 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133875985 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133875985 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133875985 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133875985 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133875985 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133875985 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133875985 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133875986 R12-M0-N0 J12-U01  start initialization.....................0
+1133875986 R12-M0-N0 J12-U01  start retagging..........................0
+1133875986 R12-M0-N0 J12-U01  start flushing...........................0
+1133875986 R12-M0-N0 J12-U01  start prefetching........................0
+1133875986 R12-M0-N0 J12-U01  disable speculative access...............0
+1133875986 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133875987 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133875987 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133875987 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133875987 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133875987 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133875987 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133875987 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133875988 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133875988 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133875988 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133875988 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133875988 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133875988 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133875988 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133875988 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133875989 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133875989 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133875989 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133875989 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133875989 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133875989 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133875989 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133875990 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133875990 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133875990 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133875990 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133875990 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133875991 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133875991 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133875991 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133875991 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133875991 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133875991 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133875992 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133875992 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133875992 R12-M0-N0 J12-U01  interrupt threshold...0
+1133875992 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133875992 R12-M0-N0 J12-U01  interrupt threshold...0
+1133875992 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133875992 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133875993 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133875993 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133875993 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133875993 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133875993 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133875993 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133875993 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133875994 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133875994 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133875994 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133875994 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133875994 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133875994 R12-M0-N0 J12-U01  state machine....................................0
+1133875994 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133875994 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133875995 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133875995 R12-M0-N0 J12-U01  capture valid.........0
+1133875995 R12-M0-N0 J12-U01  symbol................0
+1133875995 R12-M0-N0 J12-U01  mask..................0x00
+1133875995 R12-M0-N0 J12-U01  miscompare............0
+1133875995 R12-M0-N0 J12-U01  uncorrectable error...0
+1133875995 R12-M0-N0 J12-U01  address parity error..0
+1133875996 R12-M0-N0 J12-U01  correctable error.....0
+1133875996 R12-M0-N0 J12-U01  qw trapped............0
+1133875996 R12-M0-N0 J12-U01  chip select...........0
+1133875996 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133875996 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133875996 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133875997 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133875997 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133875997 R12-M0-N0 J12-U01  General Purpose Registers:
+1133875997 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58
+1133875997 R12-M0-N0 J12-U01  r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000
+1133875997 R12-M0-N0 J12-U01  r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133875997 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133875998 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133875998 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133875998 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133875998 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133875998 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133875998 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133875998 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133875999 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133875999 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133875999 R12-M0-N0 J12-U01  exception summary........................0
+1133875999 R12-M0-N0 J12-U01  enabled exception summary................0
+1133875999 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133875999 R12-M0-N0 J12-U01  overflow exception.......................0
+1133875999 R12-M0-N0 J12-U01  underflow exception......................0
+1133875999 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133876000 R12-M0-N0 J12-U01  inexact exception........................0
+1133876000 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133876000 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133876000 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133876000 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133876000 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133876000 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133876001 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133876001 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133876001 R12-M0-N0 J12-U01  quiet NaN................................0
+1133876001 R12-M0-N0 J12-U01  minus inf................................0
+1133876001 R12-M0-N0 J12-U01  minus normalized number..................0
+1133876001 R12-M0-N0 J12-U01  minus denormalized number................0
+1133876002 R12-M0-N0 J12-U01  minus zero...............................0
+1133876002 R12-M0-N0 J12-U01  plus zero................................0
+1133876002 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133876002 R12-M0-N0 J12-U01  plus normalized number...................0
+1133876002 R12-M0-N0 J12-U01  plus infinity............................0
+1133876002 R12-M0-N0 J12-U01  reserved.................................0
+1133876002 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133876003 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133876003 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133876003 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133876003 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133876003 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133876003 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133876003 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133876003 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133876004 R12-M0-N0 J12-U01  round nearest............................0
+1133876004 R12-M0-N0 J12-U01  round toward zero........................0
+1133876004 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133876004 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133876004 R12-M0-N0 J12-U01  Floating Point Registers:
+1133876004 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133876004 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133876004 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133876005 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133876006 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133876007 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133876008 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133876009 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133876009 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133876009 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133876009 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133876206 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133876206 R12-M0-N0 J12-U01  machine check summary.............1
+1133876206 R12-M0-N0 J12-U01  instruction plb error.............0
+1133876206 R12-M0-N0 J12-U01  data read plb error...............1
+1133876206 R12-M0-N0 J12-U01  data write plb error..............0
+1133876207 R12-M0-N0 J12-U01  tlb error.........................0
+1133876207 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133876207 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133876207 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133876207 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133876207 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133876207 R12-M0-N0 J12-U01  wait state enable.................0
+1133876208 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133876208 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133876208 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133876208 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133876208 R12-M0-N0 J12-U01  machine check enable..............1
+1133876208 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133876208 R12-M0-N0 J12-U01  debug wait enable.................0
+1133876208 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133876209 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133876209 R12-M0-N0 J12-U01  instruction address space.........0
+1133876209 R12-M0-N0 J12-U01  data address space................0
+1133876209 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133876209 R12-M0-N0 J12-U01  disable store gathering..................0
+1133876209 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133876209 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133876210 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133876210 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133876210 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133876210 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133876210 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133876210 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133876210 R12-M0-N0 J12-U01  start initialization.....................0
+1133876211 R12-M0-N0 J12-U01  start retagging..........................0
+1133876211 R12-M0-N0 J12-U01  start flushing...........................0
+1133876211 R12-M0-N0 J12-U01  start prefetching........................0
+1133876211 R12-M0-N0 J12-U01  disable speculative access...............0
+1133876211 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133876211 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133876212 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133876212 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133876212 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133876212 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133876212 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133876212 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133876212 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133876212 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133876213 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133876213 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133876213 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133876213 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133876213 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133876213 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133876213 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133876213 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133876214 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133876214 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133876214 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133876214 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133876214 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133876214 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133876214 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133876214 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133876215 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133876215 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133876215 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133876215 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133876215 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133876215 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133876215 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133876215 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133876216 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133876216 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133876216 R12-M0-N0 J12-U01  interrupt threshold...0
+1133876216 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133876216 R12-M0-N0 J12-U01  interrupt threshold...0
+1133876216 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133876217 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133876217 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133876217 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133876217 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133876217 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133876217 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133876217 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133876218 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133876218 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133876218 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133876218 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133876218 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133876218 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133876218 R12-M0-N0 J12-U01  state machine....................................0
+1133876218 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133876219 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133876219 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133876219 R12-M0-N0 J12-U01  capture valid.........0
+1133876219 R12-M0-N0 J12-U01  symbol................0
+1133876219 R12-M0-N0 J12-U01  mask..................0x00
+1133876219 R12-M0-N0 J12-U01  miscompare............0
+1133876219 R12-M0-N0 J12-U01  uncorrectable error...0
+1133876219 R12-M0-N0 J12-U01  address parity error..0
+1133876219 R12-M0-N0 J12-U01  correctable error.....0
+1133876220 R12-M0-N0 J12-U01  qw trapped............0
+1133876220 R12-M0-N0 J12-U01  chip select...........0
+1133876220 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133876220 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876220 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876220 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876220 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133876220 R12-M0-N0 J12-U01  General Purpose Registers:
+1133876221 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58
+1133876221 R12-M0-N0 J12-U01  r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000
+1133876221 R12-M0-N0 J12-U01  r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133876221 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133876221 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133876221 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133876221 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133876222 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133876222 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133876222 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133876222 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133876222 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133876222 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133876222 R12-M0-N0 J12-U01  exception summary........................0
+1133876222 R12-M0-N0 J12-U01  enabled exception summary................0
+1133876223 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133876223 R12-M0-N0 J12-U01  overflow exception.......................0
+1133876223 R12-M0-N0 J12-U01  underflow exception......................0
+1133876223 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133876223 R12-M0-N0 J12-U01  inexact exception........................0
+1133876223 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133876223 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133876223 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133876224 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133876224 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133876224 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133876224 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133876224 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133876224 R12-M0-N0 J12-U01  quiet NaN................................0
+1133876224 R12-M0-N0 J12-U01  minus inf................................0
+1133876224 R12-M0-N0 J12-U01  minus normalized number..................0
+1133876224 R12-M0-N0 J12-U01  minus denormalized number................0
+1133876225 R12-M0-N0 J12-U01  minus zero...............................0
+1133876225 R12-M0-N0 J12-U01  plus zero................................0
+1133876225 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133876225 R12-M0-N0 J12-U01  plus normalized number...................0
+1133876225 R12-M0-N0 J12-U01  plus infinity............................0
+1133876225 R12-M0-N0 J12-U01  reserved.................................0
+1133876225 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133876225 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133876226 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133876226 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133876226 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133876226 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133876226 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133876226 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133876227 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133876227 R12-M0-N0 J12-U01  round nearest............................0
+1133876227 R12-M0-N0 J12-U01  round toward zero........................0
+1133876227 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133876227 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133876227 R12-M0-N0 J12-U01  Floating Point Registers:
+1133876227 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133876228 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133876229 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133876230 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133876231 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133876323 R12-M0-N0 J12-U01  Machine Check Status Register: 0xa0800000
+1133876323 R12-M0-N0 J12-U01  machine check summary.............1
+1133876323 R12-M0-N0 J12-U01  instruction plb error.............0
+1133876323 R12-M0-N0 J12-U01  data read plb error...............1
+1133876324 R12-M0-N0 J12-U01  data write plb error..............0
+1133876324 R12-M0-N0 J12-U01  tlb error.........................0
+1133876324 R12-M0-N0 J12-U01  i-cache parity error..............0
+1133876324 R12-M0-N0 J12-U01  d-cache search parity error.......0
+1133876324 R12-M0-N0 J12-U01  d-cache flush parity error........0
+1133876324 R12-M0-N0 J12-U01  imprecise machine check...........1
+1133876324 R12-M0-N0 J12-U01  Machine State Register: 0x00003000
+1133876325 R12-M0-N0 J12-U01  wait state enable.................0
+1133876325 R12-M0-N0 J12-U01  critical input interrupt enable...0
+1133876325 R12-M0-N0 J12-U01  external input interrupt enable...0
+1133876325 R12-M0-N0 J12-U01  problem state (0=sup,1=usr).......0
+1133876325 R12-M0-N0 J12-U01  floating point instr. enabled.....1
+1133876325 R12-M0-N0 J12-U01  machine check enable..............1
+1133876325 R12-M0-N0 J12-U01  floating pt ex mode 0 enable......0
+1133876326 R12-M0-N0 J12-U01  debug wait enable.................0
+1133876326 R12-M0-N0 J12-U01  debug interrupt enable............0
+1133876326 R12-M0-N0 J12-U01  floating pt ex mode 1 enable......0
+1133876326 R12-M0-N0 J12-U01  instruction address space.........0
+1133876326 R12-M0-N0 J12-U01  data address space................0
+1133876326 R12-M0-N0 J12-U01  Core Configuration Register 0: 0x00002000
+1133876326 R12-M0-N0 J12-U01  disable store gathering..................0
+1133876327 R12-M0-N0 J12-U01  disable apu instruction broadcast........0
+1133876327 R12-M0-N0 J12-U01  disable trace broadcast..................0
+1133876327 R12-M0-N0 J12-U01  guaranteed instruction cache block touch.0
+1133876327 R12-M0-N0 J12-U01  guaranteed data cache block touch........1
+1133876327 R12-M0-N0 J12-U01  force load/store alignment...............0
+1133876327 R12-M0-N0 J12-U01  icache prefetch depth....................0
+1133876327 R12-M0-N0 J12-U01  icache prefetch threshold................0
+1133876327 R12-M0-N0 J12-U01  L3 global control register: 0x001249f0
+1133876328 R12-M0-N0 J12-U01  start initialization.....................0
+1133876328 R12-M0-N0 J12-U01  start retagging..........................0
+1133876328 R12-M0-N0 J12-U01  start flushing...........................0
+1133876328 R12-M0-N0 J12-U01  start prefetching........................0
+1133876328 R12-M0-N0 J12-U01  disable speculative access...............0
+1133876328 R12-M0-N0 J12-U01  close EDRAM pages as soon as possible....0
+1133876328 R12-M0-N0 J12-U01  size of scratchpad portion of L3.........0 (0M)
+1133876329 R12-M0-N0 J12-U01  disable all access to cache directory....0
+1133876329 R12-M0-N0 J12-U01  write buffer commit threshold............2
+1133876329 R12-M0-N0 J12-U01  size of DDR we are caching...............1 (512M)
+1133876329 R12-M0-N0 J12-U01  prefetch depth for core 0................1
+1133876329 R12-M0-N0 J12-U01  prefetch depth for core 1................1
+1133876329 R12-M0-N0 J12-U01  prefetch depth for PLB slave.............1
+1133876329 R12-M0-N0 J12-U01  max number of outstanding prefetches.....7
+1133876329 R12-M0-N0 J12-U01  turn on hidden refreshes.................1
+1133876330 R12-M0-N0 J12-U01  disable write lines 2:4..................0
+1133876330 R12-M0-N0 J12-U01  L3 ecc control register: 00000000
+1133876330 R12-M0-N0 J12-U01  capture first directory correctable error address..0
+1133876330 R12-M0-N0 J12-U01  capture first directory uncorrectable error address..0
+1133876330 R12-M0-N0 J12-U01  capture first EDRAM correctable error address..0
+1133876331 R12-M0-N0 J12-U01  capture first EDRAM uncorrectable error address..0
+1133876331 R12-M0-N0 J12-U01  capture first EDRAM parity error address..0
+1133876331 R12-M0-N0 J12-U01  capture first DDR uncorrectable error address..0
+1133876331 R12-M0-N0 J12-U01  disable flagging of DDR UE's as major internal error.0
+1133876331 R12-M0-N0 J12-U01  L3 ecc status register: 00200000
+1133876331 R12-M0-N0 J12-U01  correctable error detected in directory 0......0
+1133876331 R12-M0-N0 J12-U01  correctable error detected in directory 1......0
+1133876331 R12-M0-N0 J12-U01  uncorrectable error detected in directory 0....0
+1133876332 R12-M0-N0 J12-U01  uncorrectable error detected in directory 1....0
+1133876332 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 0.....0
+1133876332 R12-M0-N0 J12-U01  correctable error detected in EDRAM bank 1.....0
+1133876332 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 0...0
+1133876332 R12-M0-N0 J12-U01  uncorrectable error detected in EDRAM bank 1...0
+1133876332 R12-M0-N0 J12-U01  parity error in bank 0.........................0
+1133876332 R12-M0-N0 J12-U01  parity error in bank 1.........................0
+1133876332 R12-M0-N0 J12-U01  uncorrectable error detected in external DDR...1
+1133876333 R12-M0-N0 J12-U01  parity error in read queue 0...................0
+1133876333 R12-M0-N0 J12-U01  parity error in read queue 1...................0
+1133876333 R12-M0-N0 J12-U01  parity error in read queue PLB.................0
+1133876333 R12-M0-N0 J12-U01  parity error in write buffer...................0
+1133876333 R12-M0-N0 J12-U01  number of correctable errors detected in L3 directories...0
+1133876333 R12-M0-N0 J12-U01  interrupt threshold...0
+1133876333 R12-M0-N0 J12-U01  number of correctable errors detected in L3 EDRAMs........0
+1133876334 R12-M0-N0 J12-U01  interrupt threshold...0
+1133876334 R12-M0-N0 J12-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133876334 R12-M0-N0 J12-U01  DDR machine check register: 0x00000000 0x00010000
+1133876334 R12-M0-N0 J12-U01  memory and bus summary...........................0
+1133876334 R12-M0-N0 J12-U01  command manager unit summary.....................0
+1133876334 R12-M0-N0 J12-U01  memory manager uncorrectable error...............1
+1133876334 R12-M0-N0 J12-U01  memory manager strobe gate.......................0
+1133876335 R12-M0-N0 J12-U01  memory manager address parity error..............0
+1133876335 R12-M0-N0 J12-U01  memory manager miscompare........................0
+1133876335 R12-M0-N0 J12-U01  memory manager address error.....................0
+1133876335 R12-M0-N0 J12-U01  memory manager store buffer parity...............0
+1133876335 R12-M0-N0 J12-U01  memory manager RMW buffer parity.................0
+1133876335 R12-M0-N0 J12-U01  memory manager refresh...........................0
+1133876336 R12-M0-N0 J12-U01  memory manager refresh counter timeout...........0
+1133876336 R12-M0-N0 J12-U01  memory manager refresh contention................0
+1133876336 R12-M0-N0 J12-U01  state machine....................................0
+1133876336 R12-M0-N0 J12-U01  memory manager / command manager address parity..0
+1133876336 R12-M0-N0 J12-U01  regctl scancom interface.........................0
+1133876336 R12-M0-N0 J12-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133876336 R12-M0-N0 J12-U01  capture valid.........0
+1133876336 R12-M0-N0 J12-U01  symbol................0
+1133876337 R12-M0-N0 J12-U01  mask..................0x00
+1133876337 R12-M0-N0 J12-U01  miscompare............0
+1133876337 R12-M0-N0 J12-U01  uncorrectable error...0
+1133876337 R12-M0-N0 J12-U01  address parity error..0
+1133876337 R12-M0-N0 J12-U01  correctable error.....0
+1133876337 R12-M0-N0 J12-U01  qw trapped............0
+1133876337 R12-M0-N0 J12-U01  chip select...........0
+1133876338 R12-M0-N0 J12-U01  DDR failing data registers: 0x00000000 0x00000000
+1133876338 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876338 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876338 R12-M0-N0 J12-U01  0x00000000 0x00000000
+1133876338 R12-M0-N0 J12-U01  DDR failing address register: 0x00000000 0x00000000
+1133876338 R12-M0-N0 J12-U01  General Purpose Registers:
+1133876338 R12-M0-N0 J12-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58
+1133876338 R12-M0-N0 J12-U01  r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000
+1133876339 R12-M0-N0 J12-U01  r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133876339 R12-M0-N0 J12-U01  r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133876339 R12-M0-N0 J12-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133876339 R12-M0-N0 J12-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133876339 R12-M0-N0 J12-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133876339 R12-M0-N0 J12-U01  r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74
+1133876339 R12-M0-N0 J12-U01  Special Purpose Registers:
+1133876339 R12-M0-N0 J12-U01  lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000
+1133876340 R12-M0-N0 J12-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133876340 R12-M0-N0 J12-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133876340 R12-M0-N0 J12-U01  Floating Point Status and Control Register: 0x00000000
+1133876340 R12-M0-N0 J12-U01  exception summary........................0
+1133876340 R12-M0-N0 J12-U01  enabled exception summary................0
+1133876340 R12-M0-N0 J12-U01  invalid operation exception summary......0
+1133876341 R12-M0-N0 J12-U01  overflow exception.......................0
+1133876341 R12-M0-N0 J12-U01  underflow exception......................0
+1133876341 R12-M0-N0 J12-U01  divide-by-zero exception.................0
+1133876341 R12-M0-N0 J12-U01  inexact exception........................0
+1133876341 R12-M0-N0 J12-U01  invalid (SNAN)...........................0
+1133876341 R12-M0-N0 J12-U01  invalid (Inf-Inf)........................0
+1133876341 R12-M0-N0 J12-U01  invalid (Inf/Inf)........................0
+1133876341 R12-M0-N0 J12-U01  invalid (Zero/Zero)......................0
+1133876342 R12-M0-N0 J12-U01  invalid (Inf/Zero).......................0
+1133876342 R12-M0-N0 J12-U01  invalid (compare)........................0
+1133876342 R12-M0-N0 J12-U01  fraction rounded.........................0
+1133876342 R12-M0-N0 J12-U01  fraction inexact.........................0
+1133876342 R12-M0-N0 J12-U01  quiet NaN................................0
+1133876342 R12-M0-N0 J12-U01  minus inf................................0
+1133876342 R12-M0-N0 J12-U01  minus normalized number..................0
+1133876343 R12-M0-N0 J12-U01  minus denormalized number................0
+1133876343 R12-M0-N0 J12-U01  minus zero...............................0
+1133876343 R12-M0-N0 J12-U01  plus zero................................0
+1133876343 R12-M0-N0 J12-U01  plus denormalized number.................0
+1133876343 R12-M0-N0 J12-U01  plus normalized number...................0
+1133876343 R12-M0-N0 J12-U01  plus infinity............................0
+1133876343 R12-M0-N0 J12-U01  reserved.................................0
+1133876343 R12-M0-N0 J12-U01  invalid operation exception (software)...0
+1133876344 R12-M0-N0 J12-U01  invalid operation exception (sqrt).......0
+1133876344 R12-M0-N0 J12-U01  invalid operation exception (int cnvt)...0
+1133876344 R12-M0-N0 J12-U01  enable invalid operation exceptions......0
+1133876344 R12-M0-N0 J12-U01  enable overflow exceptions...............0
+1133876344 R12-M0-N0 J12-U01  enable underflow exceptions..............0
+1133876344 R12-M0-N0 J12-U01  enable divide-by-zero exceptions.........0
+1133876344 R12-M0-N0 J12-U01  enable inexact exceptions................0
+1133876345 R12-M0-N0 J12-U01  enable non-IEEE mode.....................0
+1133876345 R12-M0-N0 J12-U01  round nearest............................0
+1133876345 R12-M0-N0 J12-U01  round toward zero........................0
+1133876345 R12-M0-N0 J12-U01  round toward +infinity...................0
+1133876345 R12-M0-N0 J12-U01  round toward -infinity...................0
+1133876346 R12-M0-N0 J12-U01  Floating Point Registers:
+1133876346 R12-M0-N0 J12-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133876346 R12-M0-N0 J12-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133876347 R12-M0-N0 J12-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133876348 R12-M0-N0 J12-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133876349 R12-M0-N0 J12-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133876350 R12-M0-N0 J12-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133876350 R12-M0-N0 J12-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133876350 R12-M0-N0 J12-U01  rts panic! - stopping execution
+1133922192 R12-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1133922192 R12-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1133971894 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image
+1133971894 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image
+1134060641 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location
+1134109095 R12-M0-N0 J18-U11  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134109095 R12-M0-N0 J18-U01  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134116541 R12-M0-N0 J18-U11  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134116541 R12-M0-N0 J18-U01  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134159099 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1288/inferno: invalid or missing program image, Permission denied
+1134159180 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1268/sppm_DD: invalid or missing program image, Permission denied
+1134159180 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134159180 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1288/inferno: invalid or missing program image, Permission denied
+1134159181 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134159181 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1295/inferno: invalid or missing program image, Permission denied
+1134159289 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1295/inferno: invalid or missing program image, Permission denied
+1134159289 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/UMT2K/1328/umt2k_DD: invalid or missing program image, Permission denied
+1134159411 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image, Permission denied
+1134159411 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1356/sppm_DD: invalid or missing program image, Permission denied
+1134159412 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/UMT2K/1328/umt2k_DD: invalid or missing program image, Permission denied
+1134159551 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPASM/1352/spasm_DD: invalid or missing program image, Permission denied
+1134159551 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1415/inferno: invalid or missing program image, Permission denied
+1134159551 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1356/sppm_DD: invalid or missing program image, Permission denied
+1134159681 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1405./hpl_DD: invalid or missing program image, No such file or directory
+1134159681 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1415/inferno: invalid or missing program image, Permission denied
+1134159681 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1405./hpl_DD: invalid or missing program image, No such file or directory
+1134159681 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1398./hpl_DD: invalid or missing program image, No such file or directory
+1134159811 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1398./hpl_DD: invalid or missing program image, No such file or directory
+1134159811 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied
+1134159811 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1378/inferno: invalid or missing program image, Permission denied
+1134159940 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied
+1134159940 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/UMT2K/1372/umt2k_DD: invalid or missing program image, Permission denied
+1134159940 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1366/sppm_DD: invalid or missing program image, Permission denied
+1134160069 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1378/inferno: invalid or missing program image, Permission denied
+1134160069 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/UMT2K/1372/umt2k_DD: invalid or missing program image, Permission denied
+1134160069 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPASM/1352/spasm_DD: invalid or missing program image, Permission denied
+1134160195 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1366/sppm_DD: invalid or missing program image, Permission denied
+1134160196 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134160196 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134160310 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1339/inferno: invalid or missing program image, Permission denied
+1134160310 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1332/inferno: invalid or missing program image, Permission denied
+1134160310 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1339/inferno: invalid or missing program image, Permission denied
+1134160398 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1312/sppm_DD: invalid or missing program image, Permission denied
+1134160398 R12-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPASM/1308/spasm_DD: invalid or missing program image, Permission denied
+1134160398 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1332/inferno: invalid or missing program image, Permission denied
+1134160528 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image, Permission denied
+1134160528 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1312/sppm_DD: invalid or missing program image, Permission denied
+1134160529 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPASM/1308/spasm_DD: invalid or missing program image, Permission denied
+1134160565 R12-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1268/sppm_DD: invalid or missing program image, Permission denied
+1134161378 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory
+1134161378 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory
+1134357683 R12-M0-N0 J18-U01  ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+1134357723 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:49331: Link has been severed
+1134403781 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57628, Link has been severed
+1134403781 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57627, Link has been severed
+1134451187 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48219, Link has been severed
+1134451187 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48218, Link has been severed
+1134496367 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55496, Link has been severed
+1134496499 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55497, Link has been severed
+1134573483 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45734, Link has been severed
+1134573483 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45733, Link has been severed
+1134599468 R12-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599468 R12-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599612 R12-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599612 R12-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134631043 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50044, Link has been severed
+1134631146 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50045, Link has been severed
+1134724873 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:38746, Link has been severed
+1134724960 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:38747, Link has been severed
+1134773776 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location
+1134773906 R12-M0-N0 J18-U01  Lustre mount FAILED : bglio162 : block_id : location
+1134937934 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45229, Link has been severed
+1134938030 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45230, Link has been severed
+1135577332 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46190, Link has been severed
+1135577332 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46189, Link has been severed
+1135624565 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50764, Link has been severed
+1135624595 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50765, Link has been severed
+1135782799 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49848, Link has been severed
+1136322600 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location

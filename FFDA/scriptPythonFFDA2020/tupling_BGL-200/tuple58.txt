@@ -1,0 +1,46 @@
+1129738721 R25-M0-NE J03-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1129738721 R25-M0-NE J03-U11  instruction address: 0x0000bd80
+1129738721 R25-M0-NE J03-U11  machine check status register: 0x91800000
+1129738721 R25-M0-NE J03-U11  summary...........................1
+1129738721 R25-M0-NE J03-U11  instruction plb error.............0
+1129738721 R25-M0-NE J03-U11  data read plb error...............0
+1129738722 R25-M0-NE J03-U11  data write plb error..............1
+1129738722 R25-M0-NE J03-U11  tlb error.........................0
+1129738722 R25-M0-NE J03-U11  i-cache parity error..............0
+1129738722 R25-M0-NE J03-U11  d-cache search parity error.......0
+1129738722 R25-M0-NE J03-U11  d-cache flush parity error........1
+1129738722 R25-M0-NE J03-U11  imprecise machine check...........1
+1129738723 R25-M0-NE J03-U11  machine state register: 0x00003000
+1129738723 R25-M0-NE J03-U11  wait state enable.................0
+1129738723 R25-M0-NE J03-U11  critical input interrupt enable...0
+1129738723 R25-M0-NE J03-U11  external input interrupt enable...0
+1129738723 R25-M0-NE J03-U11  problem state (0=sup,1=usr).......0
+1129738723 R25-M0-NE J03-U11  floating point instr. enabled.....1
+1129738724 R25-M0-NE J03-U11  machine check enable..............1
+1129738724 R25-M0-NE J03-U11  floating pt ex mode 0 enable......0
+1129738726 R25-M0-NE J03-U11  debug wait enable.................0
+1129738728 R25-M0-NE J03-U11  debug interrupt enable............0
+1129738732 R25-M0-NE J03-U11  floating pt ex mode 1 enable......0
+1129738737 R25-M0-NE J03-U11  instruction address space.........0
+1129738741 R25-M0-NE J03-U11  data address space................0
+1129738743 R25-M0-NE J03-U11  core configuration register: 0x40002000
+1129738746 R25-M0-NE J03-U11  disable store gathering..................0
+1129738749 R25-M0-NE J03-U11  disable apu instruction broadcast........0
+1129738754 R25-M0-NE J03-U11  disable trace broadcast..................0
+1129738759 R25-M0-NE J03-U11  guaranteed instruction cache block touch.0
+1129738762 R25-M0-NE J03-U11  guaranteed data cache block touch........1
+1129738764 R25-M0-NE J03-U11  force load/store alignment...............0
+1129738765 R25-M0-NE J03-U11  icache prefetch depth....................0
+1129738766 R25-M0-NE J03-U11  icache prefetch threshold................0
+1129738766 R25-M0-NE J03-U11  general purpose registers:
+1129738766 R25-M0-NE J03-U11  0:00000041 1:00085e60 2:1eeeeeee 3:00000000
+1129738766 R25-M0-NE J03-U11  4:000099c8 5:00055920 6:00055910 7:00095110
+1129738767 R25-M0-NE J03-U11  8:00015630 9:0004c5a2 10:038f9e01 11:000093ad
+1129738767 R25-M0-NE J03-U11  12:000558b0 13:1eeeeeee 14:01d78220 15:000fffc0
+1129738767 R25-M0-NE J03-U11  16:00100380 17:00100000 18:00000000 19:00000000
+1129738768 R25-M0-NE J03-U11  20:00000000 21:00000001 22:00085e70 23:00085fd8
+1129738768 R25-M0-NE J03-U11  24:00085fdc 25:00000000 26:00000000 27:00100000
+1129738768 R25-M0-NE J03-U11  28:000558c0 29:038edb80 30:00040000 31:00040230
+1129738768 R25-M0-NE J03-U11  special purpose registers:
+1129738769 R25-M0-NE J03-U11  lr:0000bd44 cr:40002424 xer:20000002 ctr:00009c70
+1129738769 R25-M0-NE J03-U11  rts panic! - stopping execution

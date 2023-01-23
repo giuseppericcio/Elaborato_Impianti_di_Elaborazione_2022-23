@@ -1,0 +1,20 @@
+1128801670 R66-M0-N6 J02-U01  machine check interrupt
+1128801671 R66-M0-N6 J02-U01  instruction address: 0x001e2b60
+1128801671 R66-M0-N6 J02-U01  machine check status register: 0x81000000
+1128801671 R66-M0-N6 J02-U01  summary...........................1
+1128801672 R66-M0-N6 J02-U01  instruction plb error.............0
+1128801672 R66-M0-N6 J02-U01  data read plb error...............0
+1128801672 R66-M0-N6 J02-U01  data write plb error..............0
+1128801672 R66-M0-N6 J02-U01  tlb error.........................0
+1128801673 R66-M0-N6 J02-U01  i-cache parity error..............0
+1128801673 R66-M0-N6 J02-U01  d-cache search parity error.......0
+1128801673 R66-M0-N6 J02-U01  d-cache flush parity error........1
+1128801673 R66-M0-N6 J02-U01  imprecise machine check...........0
+1128801674 R66-M0-N6 J02-U01  machine state register: 0x0002f900
+1128801675 R66-M0-N6 J02-U01  wait state enable.................0
+1128801676 R66-M0-N6 J02-U01  critical input interrupt enable...1
+1128801680 R66-M0-N6 J02-U01  external input interrupt enable...1
+1128801686 R66-M0-N6 J02-U01  problem state (0=sup,1=usr).......1
+1128801696 R66-M0-N6 J02-U01  floating point instr. enabled.....1
+1128801708 R66-M0-N6 J02-U01  machine check enable..............1
+1128801722 R66-M0-N6 J02-U01  floating pt ex mode 0 enable......1

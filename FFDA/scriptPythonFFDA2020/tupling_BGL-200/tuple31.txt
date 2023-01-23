@@ -1,0 +1,11 @@
+1129245099 R51-M0-N8 J13-U11  machine check interrupt
+1129245099 R51-M0-N8 J13-U11  instruction address: 0x0023d0b8
+1129245099 R51-M0-N8 J13-U11  machine check status register: 0x82000000
+1129245099 R51-M0-N8 J13-U11  summary...........................1
+1129245100 R51-M0-N8 J13-U11  instruction plb error.............0
+1129245100 R51-M0-N8 J13-U11  data read plb error...............0
+1129245100 R51-M0-N8 J13-U11  data write plb error..............0
+1129245101 R51-M0-N8 J13-U11  tlb error.........................0
+1129245122 R51-M0-N8 J13-U11  i-cache parity error..............0
+1129245143 R51-M0-N8 J13-U11  d-cache search parity error.......1
+1129245170 R51-M0-N8 J13-U11  d-cache flush parity error........0

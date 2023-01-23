@@ -1,0 +1,20 @@
+1128925138 R76-M0-N4 J04-U11  machine check interrupt
+1128925138 R76-M0-N4 J04-U11  instruction address: 0x00016f20
+1128925138 R76-M0-N4 J04-U11  machine check status register: 0x81000000
+1128925138 R76-M0-N4 J04-U11  summary...........................1
+1128925139 R76-M0-N4 J04-U11  instruction plb error.............0
+1128925139 R76-M0-N4 J04-U11  data read plb error...............0
+1128925139 R76-M0-N4 J04-U11  data write plb error..............0
+1128925139 R76-M0-N4 J04-U11  tlb error.........................0
+1128925140 R76-M0-N4 J04-U11  i-cache parity error..............0
+1128925140 R76-M0-N4 J04-U11  d-cache search parity error.......0
+1128925140 R76-M0-N4 J04-U11  d-cache flush parity error........1
+1128925140 R76-M0-N4 J04-U11  imprecise machine check...........0
+1128925141 R76-M0-N4 J04-U11  machine state register: 0x00003000
+1128925141 R76-M0-N4 J04-U11  wait state enable.................0
+1128925141 R76-M0-N4 J04-U11  critical input interrupt enable...0
+1128925142 R76-M0-N4 J04-U11  external input interrupt enable...0
+1128925143 R76-M0-N4 J04-U11  problem state (0=sup,1=usr).......0
+1128925163 R76-M0-N4 J04-U11  floating point instr. enabled.....1
+1128925189 R76-M0-N4 J04-U11  machine check enable..............1
+1128925222 R76-M0-N4 J04-U11  floating pt ex mode 0 enable......0

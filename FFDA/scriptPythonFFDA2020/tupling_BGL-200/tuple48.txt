@@ -1,0 +1,29 @@
+1129504175 R02-M0-N4 J04-U11  machine check interrupt
+1129504176 R02-M0-N4 J04-U11  instruction address: 0x00170f54
+1129504176 R02-M0-N4 J04-U11  machine check status register: 0x82000000
+1129504176 R02-M0-N4 J04-U11  summary...........................1
+1129504176 R02-M0-N4 J04-U11  instruction plb error.............0
+1129504177 R02-M0-N4 J04-U11  data read plb error...............0
+1129504177 R02-M0-N4 J04-U11  data write plb error..............0
+1129504177 R02-M0-N4 J04-U11  tlb error.........................0
+1129504177 R02-M0-N4 J04-U11  i-cache parity error..............0
+1129504178 R02-M0-N4 J04-U11  d-cache search parity error.......1
+1129504178 R02-M0-N4 J04-U11  d-cache flush parity error........0
+1129504178 R02-M0-N4 J04-U11  imprecise machine check...........0
+1129504179 R02-M0-N4 J04-U11  machine state register: 0x0002f900
+1129504179 R02-M0-N4 J04-U11  wait state enable.................0
+1129504179 R02-M0-N4 J04-U11  critical input interrupt enable...1
+1129504179 R02-M0-N4 J04-U11  external input interrupt enable...1
+1129504180 R02-M0-N4 J04-U11  problem state (0=sup,1=usr).......1
+1129504184 R02-M0-N4 J04-U11  floating point instr. enabled.....1
+1129504191 R02-M0-N4 J04-U11  machine check enable..............1
+1129504203 R02-M0-N4 J04-U11  floating pt ex mode 0 enable......1
+1129504213 R02-M0-N4 J04-U11  debug wait enable.................0
+1129504222 R02-M0-N4 J04-U11  debug interrupt enable............0
+1129504232 R02-M0-N4 J04-U11  floating pt ex mode 1 enable......1
+1129504241 R02-M0-N4 J04-U11  instruction address space.........0
+1129504250 R02-M0-N4 J04-U11  data address space................0
+1129504260 R02-M0-N4 J04-U11  core configuration register: 0x40002000
+1129504269 R02-M0-N4 J04-U11  disable store gathering..................0
+1129504280 R02-M0-N4 J04-U11  disable apu instruction broadcast........0
+1129504295 R02-M0-N4 J04-U11  disable trace broadcast..................0

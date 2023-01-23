@@ -1,0 +1,2 @@
+1168791865 tg-c247 NET connection down
+1168791882 tg-c247 I-O hda: packet command error: error=x

@@ -1,0 +1,2 @@
+1132066482 R71-M0-N4 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied
+1132066482 R71-M0-N4 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied

@@ -1,0 +1,124 @@
+1129645694 R53-M1-NC J18-U01  no ethernet link
+1129645767 R15-M0-N6 J15-U01  machine check interrupt (bit=0x06): L3 major internal error
+1129645767 R15-M0-N6 J15-U01  instruction address: 0x0013bd30
+1129645767 R15-M0-N6 J15-U01  machine check status register: 0xa0000000
+1129645768 R15-M0-N6 J15-U01  summary...........................1
+1129645768 R15-M0-N6 J15-U01  instruction plb error.............0
+1129645768 R15-M0-N6 J15-U01  data read plb error...............1
+1129645769 R15-M0-N6 J15-U01  data write plb error..............0
+1129645769 R15-M0-N6 J15-U01  tlb error.........................0
+1129645769 R15-M0-N6 J15-U01  i-cache parity error..............0
+1129645770 R15-M0-N6 J15-U01  d-cache search parity error.......0
+1129645770 R15-M0-N6 J15-U01  d-cache flush parity error........0
+1129645770 R15-M0-N6 J15-U01  imprecise machine check...........0
+1129645771 R15-M0-N6 J15-U01  machine state register: 0x0002f900
+1129645771 R15-M0-N6 J15-U01  wait state enable.................0
+1129645771 R15-M0-N6 J15-U01  critical input interrupt enable...1
+1129645772 R15-M0-N6 J15-U01  external input interrupt enable...1
+1129645772 R15-M0-N6 J15-U01  problem state (0=sup,1=usr).......1
+1129645772 R15-M0-N6 J15-U01  floating point instr. enabled.....1
+1129645773 R15-M0-N6 J15-U01  machine check enable..............1
+1129645773 R15-M0-N6 J15-U01  floating pt ex mode 0 enable......1
+1129645773 R15-M0-N6 J15-U01  debug wait enable.................0
+1129645774 R15-M0-N6 J15-U01  debug interrupt enable............0
+1129645774 R15-M0-N6 J15-U01  floating pt ex mode 1 enable......1
+1129645774 R15-M0-N6 J15-U01  instruction address space.........0
+1129645775 R15-M0-N6 J15-U01  data address space................0
+1129645775 R15-M0-N6 J15-U01  core configuration register: 0x40002000
+1129645775 R15-M0-N6 J15-U01  disable store gathering..................0
+1129645775 R15-M0-N6 J15-U01  disable apu instruction broadcast........0
+1129645776 R15-M0-N6 J15-U01  disable trace broadcast..................0
+1129645776 R15-M0-N6 J15-U01  guaranteed instruction cache block touch.0
+1129645776 R15-M0-N6 J15-U01  guaranteed data cache block touch........1
+1129645777 R15-M0-N6 J15-U01  force load/store alignment...............0
+1129645777 R15-M0-N6 J15-U01  icache prefetch depth....................0
+1129645778 R15-M0-N6 J15-U01  icache prefetch threshold................0
+1129645778 R15-M0-N6 J15-U01  L3 global control register: 0x001249f0
+1129645778 R15-M0-N6 J15-U01  start initialization.....................0
+1129645779 R15-M0-N6 J15-U01  start retagging..........................0
+1129645779 R15-M0-N6 J15-U01  start flushing...........................0
+1129645779 R15-M0-N6 J15-U01  start prefetching........................0
+1129645780 R15-M0-N6 J15-U01  disable speculative access...............0
+1129645780 R15-M0-N6 J15-U01  close EDRAM pages as soon as possible....0
+1129645781 R15-M0-N6 J15-U01  size of scratchpad portion of L3.........0 (0M)
+1129645781 R15-M0-N6 J15-U01  disable all access to cache directory....0
+1129645782 R15-M0-N6 J15-U01  write buffer commit threshold............2
+1129645782 R15-M0-N6 J15-U01  size of DDR we are caching...............1 (512M)
+1129645782 R15-M0-N6 J15-U01  prefetch depth for core 0................1
+1129645783 R15-M0-N6 J15-U01  prefetch depth for core 1................1
+1129645783 R15-M0-N6 J15-U01  prefetch depth for PLB slave.............1
+1129645783 R15-M0-N6 J15-U01  max number of outstanding prefetches.....7
+1129645784 R15-M0-N6 J15-U01  turn on hidden refreshes.................1
+1129645784 R15-M0-N6 J15-U01  disable write lines 2:4..................0
+1129645784 R15-M0-N6 J15-U01  L3 ecc control register: 00000000
+1129645785 R15-M0-N6 J15-U01  capture first directory correctable error address..0
+1129645785 R15-M0-N6 J15-U01  capture first directory uncorrectable error address..0
+1129645785 R15-M0-N6 J15-U01  capture first EDRAM correctable error address..0
+1129645786 R15-M0-N6 J15-U01  capture first EDRAM uncorrectable error address..0
+1129645786 R15-M0-N6 J15-U01  capture first EDRAM parity error address..0
+1129645787 R15-M0-N6 J15-U01  capture first DDR uncorrectable error address..0
+1129645787 R15-M0-N6 J15-U01  disable flagging of DDR UE's as major internal error.0
+1129645787 R15-M0-N6 J15-U01  L3 ecc status register: 0a000000
+1129645787 R15-M0-N6 J15-U01  correctable error detected in directory 0......0
+1129645788 R15-M0-N6 J15-U01  correctable error detected in directory 1......0
+1129645788 R15-M0-N6 J15-U01  uncorrectable error detected in directory 0....0
+1129645788 R15-M0-N6 J15-U01  uncorrectable error detected in directory 1....0
+1129645789 R15-M0-N6 J15-U01  correctable error detected in EDRAM bank 0.....1
+1129645789 R15-M0-N6 J15-U01  correctable error detected in EDRAM bank 1.....0
+1129645789 R15-M0-N6 J15-U01  uncorrectable error detected in EDRAM bank 0...1
+1129645790 R15-M0-N6 J15-U01  uncorrectable error detected in EDRAM bank 1...0
+1129645790 R15-M0-N6 J15-U01  parity error in bank 0.........................0
+1129645790 R15-M0-N6 J15-U01  parity error in bank 1.........................0
+1129645791 R15-M0-N6 J15-U01  uncorrectable error detected in external DDR...0
+1129645791 R15-M0-N6 J15-U01  parity error in read queue 0...................0
+1129645791 R15-M0-N6 J15-U01  parity error in read queue 1...................0
+1129645791 R15-M0-N6 J15-U01  parity error in read queue PLB.................0
+1129645792 R15-M0-N6 J15-U01  parity error in write buffer...................0
+1129645792 R15-M0-N6 J15-U01  number of correctable errors detected in L3 directories...0
+1129645792 R15-M0-N6 J15-U01  interrupt threshold...0
+1129645792 R15-M0-N6 J15-U01  number of correctable errors detected in L3 EDRAMs........7
+1129645793 R15-M0-N6 J15-U01  interrupt threshold...0
+1129645793 R15-M0-N6 J15-U01  number of lines with parity errors written to L3 EDRAMs...0
+1129645793 R15-M0-N6 J15-U01  DDR machine check register: 0x00000000 0x00000000
+1129645793 R15-M0-N6 J15-U01  memory and bus summary...........................0
+1129645794 R15-M0-N6 J15-U01  command manager unit summary.....................0
+1129645794 R15-M0-N6 J15-U01  memory manager uncorrectable error...............0
+1129645794 R15-M0-N6 J15-U01  memory manager strobe gate.......................0
+1129645794 R15-M0-N6 J15-U01  memory manager address parity error..............0
+1129645795 R15-M0-N6 J15-U01  memory manager miscompare........................0
+1129645795 R15-M0-N6 J15-U01  memory manager address error.....................0
+1129645795 R15-M0-N6 J15-U01  memory manager store buffer parity...............0
+1129645795 R15-M0-N6 J15-U01  memory manager RMW buffer parity.................0
+1129645796 R15-M0-N6 J15-U01  memory manager refresh...........................0
+1129645796 R15-M0-N6 J15-U01  memory manager refresh counter timeout...........0
+1129645796 R15-M0-N6 J15-U01  memory manager refresh contention................0
+1129645796 R15-M0-N6 J15-U01  state machine....................................0
+1129645797 R15-M0-N6 J15-U01  memory manager / command manager address parity..0
+1129645797 R15-M0-N6 J15-U01  regctl scancom interface.........................0
+1129645797 R15-M0-N6 J15-U01  DDR failing info register: 0x00000000
+1129645797 R15-M0-N6 J15-U01  capture valid.........0
+1129645797 R15-M0-N6 J15-U01  symbol................0
+1129645798 R15-M0-N6 J15-U01  mask..................0x00
+1129645798 R15-M0-N6 J15-U01  miscompare............0
+1129645798 R15-M0-N6 J15-U01  uncorrectable error...0
+1129645798 R15-M0-N6 J15-U01  address parity error..0
+1129645799 R15-M0-N6 J15-U01  correctable error.....0
+1129645799 R15-M0-N6 J15-U01  qw trapped............0
+1129645799 R15-M0-N6 J15-U01  chip select...........0
+1129645799 R15-M0-N6 J15-U01  DDR failing data registers: 0x93c10048 0x7c7e1b78
+1129645800 R15-M0-N6 J15-U01  0x93e1004c 0x3be00000
+1129645800 R15-M0-N6 J15-U01  0x281f003f 0x3d200002
+1129645800 R15-M0-N6 J15-U01  0x38c97bc8 0x4bfff870
+1129645800 R15-M0-N6 J15-U01  DDR failing address register: 0x00000000 0x00014860
+1129645801 R15-M0-N6 J15-U01  general purpose registers:
+1129645801 R15-M0-N6 J15-U01  0:00000001 1:1feaa390 2:1eeeeeee 3:00000000
+1129645801 R15-M0-N6 J15-U01  4:001f7640 5:00300c80 6:00300c90 7:00300d60
+1129645801 R15-M0-N6 J15-U01  8:00000010 9:00000002 10:00108e70 11:001e0000
+1129645802 R15-M0-N6 J15-U01  12:44002044 13:1eeeeeee 14:40000000 15:40000000
+1129645802 R15-M0-N6 J15-U01  16:00000000 17:000047cc 18:00000000 19:1feaa7f0
+1129645802 R15-M0-N6 J15-U01  20:011f7f20 21:001f7f00 22:1feaa540 23:1feaa530
+1129645802 R15-M0-N6 J15-U01  24:00000008 25:021f845c 26:00000000 27:021f8380
+1129645802 R15-M0-N6 J15-U01  28:021f84a4 29:00000000 30:00000000 31:0000001f
+1129645803 R15-M0-N6 J15-U01  special purpose registers:
+1129645803 R15-M0-N6 J15-U01  lr:0013bc70 cr:84002044 xer:00000002 ctr:001427e4
+1129645804 R15-M0-N6 J15-U01  rts panic! - stopping execution

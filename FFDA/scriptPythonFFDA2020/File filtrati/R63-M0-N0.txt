@@ -1,0 +1,791 @@
+1128641312 R63-M0-N0 J18-U11  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40149: Link has been severed
+1128641312 R63-M0-N0 J18-U01  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40150: Link has been severed
+1128970727 R63-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58101: Link has been severed
+1128970727 R63-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58102: Link has been severed
+1129165864 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129165864 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166633 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166633 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129204897 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129204897 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129208255 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1129208255 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1129208313 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+1129208314 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+1129289553 R63-M0-N0 J18-U11  Lustre mount FAILED : bglio817 : block_id : location
+1129289553 R63-M0-N0 J18-U01  Lustre mount FAILED : bglio818 : block_id : location
+1129291951 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/raptor.254.noprint: invalid or missing program image, Permission denied
+1129291951 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/raptor.254.noprint: invalid or missing program image, Permission denied
+1129391850 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391850 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391938 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129391938 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image, No such file or directory
+1129501495 R63-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47895: Link has been severed
+1129501537 R63-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47896: Link has been severed
+1129547414 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image, No such file or directory
+1129547414 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image, No such file or directory
+1129750346 R63-M0-N0 J18-U11  ciod: Error loading /home/cabot/miranova/bgl/bin_lukei?/miranda_newhack: invalid or missing program image, No such file or directory
+1129750346 R63-M0-N0 J18-U01  ciod: Error loading /home/cabot/miranova/bgl/bin_lukei?/miranda_newhack: invalid or missing program image, No such file or directory
+1129820546 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129820547 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129895983 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image, Permission denied
+1129895983 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image, Permission denied
+1129903363 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image, Permission denied
+1129903363 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image, Permission denied
+1129922423 R63-M0-N0 J18-U11  ciod: Error loading /home/rfisher/sodscaling/flash2.noio: program image too big, 378741472 > 266076160
+1129922423 R63-M0-N0 J18-U01  ciod: Error loading /home/rfisher/sodscaling/flash2.noio: program image too big, 378741472 > 266076160
+1129979315 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979315 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979385 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979385 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979455 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979455 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979960 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1129979960 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1130058537 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1130058537 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1130058608 R63-M0-N0 J18-U11  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1130058608 R63-M0-N0 J18-U01  ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1130078152 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078152 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078301 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078301 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130157492 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image, No such file or directory
+1130157492 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image, No such file or directory
+1130251384 R63-M0-N0 J18-U11  ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image, No such file or directory
+1130251384 R63-M0-N0 J18-U01  ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image, No such file or directory
+1130251488 R63-M0-N0 J18-U11  ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1130251488 R63-M0-N0 J18-U01  ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1130443799 R63-M0-N0 J18-U11  Lustre mount FAILED : bglio817 : block_id : location
+1130443842 R63-M0-N0 J18-U01  Lustre mount FAILED : bglio818 : block_id : location
+1130688044 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1130688044 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1130695745 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory
+1130695745 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory
+1131021282 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image, Permission denied
+1131021282 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image, Permission denied
+1131030130 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image, Permission denied
+1131030130 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image, Permission denied
+1131030197 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied
+1131030197 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied
+1131045342 R63-M0-N0 J18-U11  ciod: Error loading /home/antypas1/bgl_F3/Sod3d64IO/flash3: invalid or missing program image, No such file or directory
+1131045342 R63-M0-N0 J18-U01  ciod: Error loading /home/antypas1/bgl_F3/Sod3d64IO/flash3: invalid or missing program image, No such file or directory
+1131045587 R63-M0-N0 J18-U11  ciod: Error loading /home/antypas1/bgl_F3/FLASH3/Sod3d64IO/flash3: invalid or missing program image, No such file or directory
+1131045587 R63-M0-N0 J18-U01  ciod: Error loading /home/antypas1/bgl_F3/FLASH3/Sod3d64IO/flash3: invalid or missing program image, No such file or directory
+1131048768 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 934668496 > 532152320
+1131048768 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 934668496 > 532152320
+1131049160 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 934170112 > 532152320
+1131049160 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 934170112 > 532152320
+1131056663 R63-M0-N0 J18-U11  ciod: Error loading /g/g19/wray/mp_general_mpi_rfft: invalid or missing program image, No such file or directory
+1131056663 R63-M0-N0 J18-U01  ciod: Error loading /g/g19/wray/mp_general_mpi_rfft: invalid or missing program image, No such file or directory
+1131060630 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/BGLcode/test/mdcask.opt: program image too big, 470899952 > 266076160
+1131060630 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/BGLcode/test/mdcask.opt: program image too big, 470899952 > 266076160
+1131147667 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1379627760 > 532152320
+1131147667 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1379627760 > 532152320
+1131148012 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1379627760 > 532152320
+1131148012 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1379627760 > 532152320
+1131148621 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1380627184 > 532152320
+1131148621 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1380627184 > 532152320
+1131148873 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1378767600 > 532152320
+1131148874 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big, 1378767600 > 532152320
+1131366707 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366707 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366836 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366836 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131407151 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378767600 > 532152320
+1131407151 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378767600 > 532152320
+1131407633 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131407633 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131407697 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131407697 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131407767 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131407767 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory
+1131409491 R63-M0-N0 J18-U11  ciod: Error loading /home/ikuo/SOURCE/CPMD.310.3.bgl/cpmd.x: invalid or missing program image, No such file or directory
+1131409491 R63-M0-N0 J18-U01  ciod: Error loading /home/ikuo/SOURCE/CPMD.310.3.bgl/cpmd.x: invalid or missing program image, No such file or directory
+1131475802 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378751216 > 532152320
+1131475802 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378751216 > 532152320
+1131479752 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378767600 > 532152320
+1131479752 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378767600 > 532152320
+1131483551 R63-M0-N0 J09-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J15-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J11-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J13-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J17-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J05-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J03-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J05-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J07-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J15-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J17-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J11-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J07-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J13-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J09-U01  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J16-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J08-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J14-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J10-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J06-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J12-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J14-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J16-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J10-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J12-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J08-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J04-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J06-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J04-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J02-U01  rts: kernel terminated for reason 1004
+1131483552 R63-M0-N0 J02-U11  rts: kernel terminated for reason 1004
+1131483563 R63-M0-N0 J09-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J15-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J11-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J13-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J17-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J05-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J03-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J05-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J07-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J15-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J17-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J11-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J07-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J13-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J09-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J16-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J08-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J14-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J10-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J06-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J12-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J14-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J16-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J10-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J12-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J08-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J04-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J06-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J04-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J02-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-N0 J02-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486133 R63-M0-N0 J09-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J15-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J11-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J13-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J17-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J05-U01  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J03-U01  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J05-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J07-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J15-U01  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J17-U01  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J11-U01  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J07-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J13-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J09-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J16-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J08-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J14-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J10-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J06-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J12-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J14-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J16-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J10-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J12-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J08-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J04-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J06-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J04-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J02-U01  rts: kernel terminated for reason 1004
+1131486134 R63-M0-N0 J02-U11  rts: kernel terminated for reason 1004
+1131486150 R63-M0-N0 J09-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486150 R63-M0-N0 J15-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486150 R63-M0-N0 J11-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486150 R63-M0-N0 J13-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J17-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J05-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J03-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J05-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J07-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J15-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J17-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J11-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J07-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J13-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J09-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J16-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J08-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J14-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J10-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J06-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J12-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J14-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J16-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J10-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J12-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J08-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J04-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J06-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J04-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J02-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-N0 J02-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131491322 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1380033264 > 532152320
+1131491322 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1380033264 > 532152320
+1131491644 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378448112 > 532152320
+1131491644 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378448112 > 532152320
+1131491994 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378448112 > 532152320
+1131491994 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378448112 > 532152320
+1131493052 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378419440 > 532152320
+1131493052 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 1378419440 > 532152320
+1131679236 R63-M0-N0 J18-U11  ciod: Error loading /g/g11/draeger/testqbox_devel/qb_devel_bgl: invalid or missing program image, No such device
+1131679236 R63-M0-N0 J18-U01  ciod: Error loading /g/g11/draeger/testqbox_devel/qb_devel_bgl: invalid or missing program image, No such device
+1131680332 R63-M0-N0 J09-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J15-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J11-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J13-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J17-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J05-U01  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J03-U01  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J05-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J07-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J15-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J17-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J11-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J07-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J13-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J09-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J16-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J08-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J14-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J10-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J06-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J12-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J14-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J16-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J10-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J12-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J08-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J04-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J06-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J04-U11  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J02-U01  rts: kernel terminated for reason 1004
+1131680333 R63-M0-N0 J02-U11  rts: kernel terminated for reason 1004
+1131680350 R63-M0-N0 J09-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J15-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J11-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J13-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J17-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J05-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J03-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J05-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J07-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J15-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J17-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J11-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J07-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J13-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J09-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J16-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J08-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J14-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J10-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J06-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=10011f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J12-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J14-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J16-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J10-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J12-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J08-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J04-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J06-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J04-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J02-U01  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-N0 J02-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132066390 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied
+1132066390 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image, Permission denied
+1132234431 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43766, Link has been severed
+1132234431 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43765, Link has been severed
+1132236798 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45939, Link has been severed
+1132236798 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45938, Link has been severed
+1132317388 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied
+1132317452 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied
+1132320982 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58931, Link has been severed
+1132320982 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58930, Connection reset by peer
+1132341237 R63-M0-N0 J18-U11  ciod: Error loading -mode VN: invalid or missing program image, No such file or directory
+1132341237 R63-M0-N0 J18-U01  ciod: Error loading -mode VN: invalid or missing program image, No such file or directory
+1132583998 R63-M0-N0 J18-U11  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43824: Link has been severed
+1132583998 R63-M0-N0 J18-U01  ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43823: Link has been severed
+1132600279 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41866, Connection reset by peer
+1132600279 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41865, Connection reset by peer
+1132609302 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:53165, Connection reset by peer
+1132609302 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:53164, Connection reset by peer
+1132613233 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41336, Connection timed out
+1132613282 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41335, Connection timed out
+1132613992 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43652, Connection timed out
+1132613992 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43651, Connection timed out
+1132694793 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44265, Link has been severed
+1132694793 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44264, Link has been severed
+1132712736 R63-M0-N0 J18-U11  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1132712736 R63-M0-N0 J18-U01  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1132712856 R63-M0-N0 J18-U11  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1132712856 R63-M0-N0 J18-U01  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1132717787 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41918, Link has been severed
+1132720544 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49906, Link has been severed
+1132720544 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49905, Link has been severed
+1132898754 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54433, Link has been severed
+1132898811 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54432, Link has been severed
+1132912106 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54429, Link has been severed
+1132912106 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54428, Link has been severed
+1132940672 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40172, Link has been severed
+1132940672 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40171, Link has been severed
+1132969419 R63-M0-N0 J18-U01  ciod: Error loading /bin/hostname: invalid or missing program image, Exec format error
+1132969419 R63-M0-N0 J18-U11  ciod: Error loading /bin/hostname: invalid or missing program image, Exec format error
+1133009336 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60085, Link has been severed
+1133009406 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60086, Link has been severed
+1133199994 R63-M0-N0 J18-U11  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1133199994 R63-M0-N0 J18-U01  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1133200071 R63-M0-N0 J18-U11  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1133200071 R63-M0-N0 J18-U01  ciod: Error loading verbose: invalid or missing program image, No such file or directory
+1133200780 R63-M0-N0 J11-U11  data TLB error interrupt
+1133200780 R63-M0-N0 J11-U11  instruction address: 0x000093fc
+1133200780 R63-M0-N0 J11-U11  data address: 0x0012af3c
+1133200780 R63-M0-N0 J11-U11  Machine State Register: 0x00003000
+1133200780 R63-M0-N0 J11-U11  wait state enable.................0
+1133200780 R63-M0-N0 J11-U11  critical input interrupt enable...0
+1133200781 R63-M0-N0 J11-U11  external input interrupt enable...0
+1133200781 R63-M0-N0 J11-U11  problem state (0=sup,1=usr).......0
+1133200781 R63-M0-N0 J11-U11  floating point instr. enabled.....1
+1133200781 R63-M0-N0 J11-U11  machine check enable..............1
+1133200781 R63-M0-N0 J11-U11  floating pt ex mode 0 enable......0
+1133200781 R63-M0-N0 J11-U11  debug wait enable.................0
+1133200781 R63-M0-N0 J11-U11  debug interrupt enable............0
+1133200781 R63-M0-N0 J11-U11  floating pt ex mode 1 enable......0
+1133200782 R63-M0-N0 J11-U11  instruction address space.........0
+1133200782 R63-M0-N0 J11-U11  data address space................0
+1133200782 R63-M0-N0 J11-U11  Core Configuration Register 0: 0x00002000
+1133200782 R63-M0-N0 J11-U11  disable store gathering..................0
+1133200782 R63-M0-N0 J11-U11  disable apu instruction broadcast........0
+1133200782 R63-M0-N0 J11-U11  disable trace broadcast..................0
+1133200782 R63-M0-N0 J11-U11  guaranteed instruction cache block touch.0
+1133200783 R63-M0-N0 J11-U11  guaranteed data cache block touch........1
+1133200783 R63-M0-N0 J11-U11  force load/store alignment...............0
+1133200783 R63-M0-N0 J11-U11  icache prefetch depth....................0
+1133200783 R63-M0-N0 J11-U11  icache prefetch threshold................0
+1133200783 R63-M0-N0 J11-U11  General Purpose Registers:
+1133200783 R63-M0-N0 J11-U11  r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000
+1133200783 R63-M0-N0 J11-U11  r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41
+1133200783 R63-M0-N0 J11-U11  r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914
+1133200784 R63-M0-N0 J11-U11  r12=0x48242488 r13=0x1eeeeeee r14=0x01c19768 r15=0x0000000c
+1133200784 R63-M0-N0 J11-U11  r16=0x00004610 r17=0x00008c20 r18=0x00000000 r19=0x00000003
+1133200784 R63-M0-N0 J11-U11  r20=0x022951b8 r21=0x000004a8 r22=0x1ff8a678 r23=0x1ffaa670
+1133200784 R63-M0-N0 J11-U11  r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8
+1133200784 R63-M0-N0 J11-U11  r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0
+1133200784 R63-M0-N0 J11-U11  Special Purpose Registers:
+1133200784 R63-M0-N0 J11-U11  lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc
+1133200784 R63-M0-N0 J11-U11  msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000
+1133200785 R63-M0-N0 J11-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133200785 R63-M0-N0 J11-U11  Floating Point Status and Control Register: 0x82064000
+1133200785 R63-M0-N0 J11-U11  exception summary........................1
+1133200785 R63-M0-N0 J11-U11  enabled exception summary................0
+1133200785 R63-M0-N0 J11-U11  invalid operation exception summary......0
+1133200785 R63-M0-N0 J11-U11  overflow exception.......................0
+1133200785 R63-M0-N0 J11-U11  underflow exception......................0
+1133200786 R63-M0-N0 J11-U11  divide-by-zero exception.................0
+1133200786 R63-M0-N0 J11-U11  inexact exception........................1
+1133200786 R63-M0-N0 J11-U11  invalid (SNAN)...........................0
+1133200786 R63-M0-N0 J11-U11  invalid (Inf-Inf)........................0
+1133200786 R63-M0-N0 J11-U11  invalid (Inf/Inf)........................0
+1133200786 R63-M0-N0 J11-U11  invalid (Zero/Zero)......................0
+1133200787 R63-M0-N0 J11-U11  invalid (Inf/Zero).......................0
+1133200787 R63-M0-N0 J11-U11  invalid (compare)........................0
+1133200787 R63-M0-N0 J11-U11  fraction rounded.........................1
+1133200787 R63-M0-N0 J11-U11  fraction inexact.........................1
+1133200787 R63-M0-N0 J11-U11  quiet NaN................................0
+1133200787 R63-M0-N0 J11-U11  minus inf................................0
+1133200787 R63-M0-N0 J11-U11  minus normalized number..................0
+1133200787 R63-M0-N0 J11-U11  minus denormalized number................0
+1133200788 R63-M0-N0 J11-U11  minus zero...............................0
+1133200788 R63-M0-N0 J11-U11  plus zero................................0
+1133200788 R63-M0-N0 J11-U11  plus denormalized number.................0
+1133200788 R63-M0-N0 J11-U11  plus normalized number...................1
+1133200788 R63-M0-N0 J11-U11  plus infinity............................0
+1133200788 R63-M0-N0 J11-U11  reserved.................................0
+1133200788 R63-M0-N0 J11-U11  invalid operation exception (software)...0
+1133200788 R63-M0-N0 J11-U11  invalid operation exception (sqrt).......0
+1133200789 R63-M0-N0 J11-U11  invalid operation exception (int cnvt)...0
+1133200789 R63-M0-N0 J11-U11  enable invalid operation exceptions......0
+1133200789 R63-M0-N0 J11-U11  enable overflow exceptions...............0
+1133200789 R63-M0-N0 J11-U11  enable underflow exceptions..............0
+1133200789 R63-M0-N0 J11-U11  enable divide-by-zero exceptions.........0
+1133200789 R63-M0-N0 J11-U11  enable inexact exceptions................0
+1133200789 R63-M0-N0 J11-U11  enable non-IEEE mode.....................0
+1133200789 R63-M0-N0 J11-U11  round nearest............................0
+1133200790 R63-M0-N0 J11-U11  round toward zero........................0
+1133200790 R63-M0-N0 J11-U11  round toward +infinity...................0
+1133200790 R63-M0-N0 J11-U11  round toward -infinity...................0
+1133200790 R63-M0-N0 J11-U11  Floating Point Registers:
+1133200790 R63-M0-N0 J11-U11  fpr0=0x10055620 00000000 00094fa5 7ffff980
+1133200790 R63-M0-N0 J11-U11  fpr1=0x10055620 00000001 10045620 0800081d
+1133200790 R63-M0-N0 J11-U11  fpr2=0x00000000 00000001 00340000 002101e1
+1133200790 R63-M0-N0 J11-U11  fpr3=0x00000000 00000000 1000cfbc 7ffff980
+1133200790 R63-M0-N0 J11-U11  fpr4=0x10055620 0000000d 10055620 10045620
+1133200791 R63-M0-N0 J11-U11  fpr5=0x10010000 00000000 00000000 7ffff9c0
+1133200791 R63-M0-N0 J11-U11  fpr6=0x00000000 00001001 10024348 7ffff930
+1133200791 R63-M0-N0 J11-U11  fpr7=0x00000000 00000000 00000000 00001000
+1133200791 R63-M0-N0 J11-U11  fpr8=0x7ffff8c0 100cfaf0 00000000 00000004
+1133200791 R63-M0-N0 J11-U11  fpr9=0x00000000 00000000 7ffff940 00000000
+1133200791 R63-M0-N0 J11-U11  fpr10=0x10045620 7ffff940 00000001 00000000
+1133200791 R63-M0-N0 J11-U11  fpr11=0x00000000 00000000 10023e44 7ffff900
+1133200792 R63-M0-N0 J11-U11  fpr12=0x10055974 7ffff950 30019020 1000d0e4
+1133200792 R63-M0-N0 J11-U11  fpr13=0x00000000 00000000 00000000 00000000
+1133200792 R63-M0-N0 J11-U11  fpr14=0xffffffff ffffffff 225e34ba 403aa031
+1133200792 R63-M0-N0 J11-U11  fpr15=0xffffffff ffffffff 8bf8b949 4032b540
+1133200792 R63-M0-N0 J11-U11  fpr16=0xffffffff ffffffff dce15e8f 403c54c1
+1133200792 R63-M0-N0 J11-U11  fpr17=0xffffffff ffffffff 44afb20d 3f821f49
+1133200792 R63-M0-N0 J11-U11  fpr18=0xffffffff ffffffff da86c900 3fc3f51b
+1133200792 R63-M0-N0 J11-U11  fpr19=0xffffffff ffffffff 6a1b1500 bfa1bf08
+1133200793 R63-M0-N0 J11-U11  fpr20=0xffffffff ffffffff 29b04a00 3fae237e
+1133200793 R63-M0-N0 J11-U11  fpr21=0xffffffff ffffffff a84f58c5 3fb5c796
+1133200793 R63-M0-N0 J11-U11  fpr22=0xffffffff ffffffff 00000000 4089b800
+1133200793 R63-M0-N0 J11-U11  fpr23=0xffffffff ffffffff 33333333 c0221333
+1133200793 R63-M0-N0 J11-U11  fpr24=0xffffffff ffffffff 33333333 40321333
+1133200793 R63-M0-N0 J11-U11  fpr25=0xffffffff ffffffff 33333333 c0221333
+1133200793 R63-M0-N0 J11-U11  fpr26=0xffffffff ffffffff 33333333 40321333
+1133200793 R63-M0-N0 J11-U11  fpr27=0xffffffff ffffffff 33333333 c0221333
+1133200794 R63-M0-N0 J11-U11  fpr28=0xffffffff ffffffff 33333333 40321333
+1133200794 R63-M0-N0 J11-U11  fpr29=0xffffffff ffffffff 33333333 40221333
+1133200794 R63-M0-N0 J11-U11  fpr30=0xffffffff ffffffff 33333333 40221333
+1133200794 R63-M0-N0 J11-U11  fpr31=0xffffffff ffffffff 33333333 40221333
+1133200794 R63-M0-N0 J11-U11  rts internal error
+1133200794 R63-M0-N0 J11-U11  rts panic! - stopping execution
+1133200794 R63-M0-N0 J11-U01  data TLB error interrupt
+1133200795 R63-M0-N0 J11-U01  instruction address: 0x000093fc
+1133200795 R63-M0-N0 J11-U01  data address: 0x0012af3c
+1133200795 R63-M0-N0 J11-U01  Machine State Register: 0x00003000
+1133200795 R63-M0-N0 J11-U01  wait state enable.................0
+1133200795 R63-M0-N0 J11-U01  critical input interrupt enable...0
+1133200795 R63-M0-N0 J11-U01  external input interrupt enable...0
+1133200795 R63-M0-N0 J11-U01  problem state (0=sup,1=usr).......0
+1133200796 R63-M0-N0 J11-U01  floating point instr. enabled.....1
+1133200796 R63-M0-N0 J11-U01  machine check enable..............1
+1133200796 R63-M0-N0 J11-U01  floating pt ex mode 0 enable......0
+1133200796 R63-M0-N0 J11-U01  debug wait enable.................0
+1133200796 R63-M0-N0 J11-U01  debug interrupt enable............0
+1133200796 R63-M0-N0 J11-U01  floating pt ex mode 1 enable......0
+1133200796 R63-M0-N0 J11-U01  instruction address space.........0
+1133200797 R63-M0-N0 J11-U01  data address space................0
+1133200797 R63-M0-N0 J11-U01  Core Configuration Register 0: 0x00002000
+1133200797 R63-M0-N0 J11-U01  disable store gathering..................0
+1133200797 R63-M0-N0 J11-U01  disable apu instruction broadcast........0
+1133200797 R63-M0-N0 J11-U01  disable trace broadcast..................0
+1133200797 R63-M0-N0 J11-U01  guaranteed instruction cache block touch.0
+1133200797 R63-M0-N0 J11-U01  guaranteed data cache block touch........1
+1133200797 R63-M0-N0 J11-U01  force load/store alignment...............0
+1133200798 R63-M0-N0 J11-U01  icache prefetch depth....................0
+1133200798 R63-M0-N0 J11-U01  icache prefetch threshold................0
+1133200798 R63-M0-N0 J11-U01  General Purpose Registers:
+1133200798 R63-M0-N0 J11-U01  r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000
+1133200798 R63-M0-N0 J11-U01  r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41
+1133200798 R63-M0-N0 J11-U01  r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914
+1133200798 R63-M0-N0 J11-U01  r12=0x48242488 r13=0x1eeeeeee r14=0x00000000 r15=0x00000001
+1133200798 R63-M0-N0 J11-U01  r16=0x01edfc00 r17=0x01e0b150 r18=0x02089160 r19=0x01fb46b0
+1133200799 R63-M0-N0 J11-U01  r20=0x00000000 r21=0x00001454 r22=0x1ff8a678 r23=0x1ffaa670
+1133200799 R63-M0-N0 J11-U01  r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8
+1133200799 R63-M0-N0 J11-U01  r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0
+1133200799 R63-M0-N0 J11-U01  Special Purpose Registers:
+1133200799 R63-M0-N0 J11-U01  lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc
+1133200799 R63-M0-N0 J11-U01  msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000
+1133200799 R63-M0-N0 J11-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133200799 R63-M0-N0 J11-U01  Floating Point Status and Control Register: 0x82064000
+1133200800 R63-M0-N0 J11-U01  exception summary........................1
+1133200800 R63-M0-N0 J11-U01  enabled exception summary................0
+1133200800 R63-M0-N0 J11-U01  invalid operation exception summary......0
+1133200800 R63-M0-N0 J11-U01  overflow exception.......................0
+1133200800 R63-M0-N0 J11-U01  underflow exception......................0
+1133200800 R63-M0-N0 J11-U01  divide-by-zero exception.................0
+1133200800 R63-M0-N0 J11-U01  inexact exception........................1
+1133200800 R63-M0-N0 J11-U01  invalid (SNAN)...........................0
+1133200801 R63-M0-N0 J11-U01  invalid (Inf-Inf)........................0
+1133200801 R63-M0-N0 J11-U01  invalid (Inf/Inf)........................0
+1133200801 R63-M0-N0 J11-U01  invalid (Zero/Zero)......................0
+1133200801 R63-M0-N0 J11-U01  invalid (Inf/Zero).......................0
+1133200801 R63-M0-N0 J11-U01  invalid (compare)........................0
+1133200801 R63-M0-N0 J11-U01  fraction rounded.........................1
+1133200801 R63-M0-N0 J11-U01  fraction inexact.........................1
+1133200802 R63-M0-N0 J11-U01  quiet NaN................................0
+1133200802 R63-M0-N0 J11-U01  minus inf................................0
+1133200802 R63-M0-N0 J11-U01  minus normalized number..................0
+1133200802 R63-M0-N0 J11-U01  minus denormalized number................0
+1133200802 R63-M0-N0 J11-U01  minus zero...............................0
+1133200802 R63-M0-N0 J11-U01  plus zero................................0
+1133200802 R63-M0-N0 J11-U01  plus denormalized number.................0
+1133200802 R63-M0-N0 J11-U01  plus normalized number...................1
+1133200803 R63-M0-N0 J11-U01  plus infinity............................0
+1133200803 R63-M0-N0 J11-U01  reserved.................................0
+1133200803 R63-M0-N0 J11-U01  invalid operation exception (software)...0
+1133200803 R63-M0-N0 J11-U01  invalid operation exception (sqrt).......0
+1133200803 R63-M0-N0 J11-U01  invalid operation exception (int cnvt)...0
+1133200803 R63-M0-N0 J11-U01  enable invalid operation exceptions......0
+1133200803 R63-M0-N0 J11-U01  enable overflow exceptions...............0
+1133200803 R63-M0-N0 J11-U01  enable underflow exceptions..............0
+1133200804 R63-M0-N0 J11-U01  enable divide-by-zero exceptions.........0
+1133200804 R63-M0-N0 J11-U01  enable inexact exceptions................0
+1133200804 R63-M0-N0 J11-U01  enable non-IEEE mode.....................0
+1133200804 R63-M0-N0 J11-U01  round nearest............................0
+1133200804 R63-M0-N0 J11-U01  round toward zero........................0
+1133200804 R63-M0-N0 J11-U01  round toward +infinity...................0
+1133200804 R63-M0-N0 J11-U01  round toward -infinity...................0
+1133200804 R63-M0-N0 J11-U01  Floating Point Registers:
+1133200805 R63-M0-N0 J11-U01  fpr0=0x10055620 00000000 00094fa5 7ffff980
+1133200805 R63-M0-N0 J11-U01  fpr1=0x10055620 00000001 10045620 0800081d
+1133200805 R63-M0-N0 J11-U01  fpr2=0x00000000 00000001 00340000 000f01af
+1133200805 R63-M0-N0 J11-U01  fpr3=0x00000000 00000000 1000cfbc 7ffff980
+1133200805 R63-M0-N0 J11-U01  fpr4=0x10055620 00000001 10055620 10045620
+1133200805 R63-M0-N0 J11-U01  fpr5=0x10010000 00000000 00000000 7ffff9c0
+1133200805 R63-M0-N0 J11-U01  fpr6=0x00000000 00001001 10024348 7ffff930
+1133200805 R63-M0-N0 J11-U01  fpr7=0x00000000 00000000 00000000 00001000
+1133200806 R63-M0-N0 J11-U01  fpr8=0x7ffff8c0 100cfaf0 00000000 00000000
+1133200806 R63-M0-N0 J11-U01  fpr9=0x00000000 00000000 7ffff940 00000000
+1133200806 R63-M0-N0 J11-U01  fpr10=0x10045620 7ffff940 00000001 00000000
+1133200806 R63-M0-N0 J11-U01  fpr11=0x00000000 00000000 10023e44 7ffff900
+1133200806 R63-M0-N0 J11-U01  fpr12=0x10055974 7ffff950 30019020 1000d0e4
+1133200806 R63-M0-N0 J11-U01  fpr13=0x00000000 00000000 00000000 00000000
+1133200806 R63-M0-N0 J11-U01  fpr14=0xffffffff ffffffff 6e3c9f89 403a3fa8
+1133200807 R63-M0-N0 J11-U01  fpr15=0xffffffff ffffffff 77f9514f 4032c7f1
+1133200807 R63-M0-N0 J11-U01  fpr16=0xffffffff ffffffff 7fc11778 403c4642
+1133200807 R63-M0-N0 J11-U01  fpr17=0xffffffff ffffffff b5b72443 bf938460
+1133200807 R63-M0-N0 J11-U01  fpr18=0xffffffff ffffffff f4da7100 bfc7f065
+1133200807 R63-M0-N0 J11-U01  fpr19=0xffffffff ffffffff 3596e400 3f9abd23
+1133200807 R63-M0-N0 J11-U01  fpr20=0xffffffff ffffffff 532b4a00 3fbf66d2
+1133200807 R63-M0-N0 J11-U01  fpr21=0xffffffff ffffffff cffa7822 3ff1f22d
+1133200808 R63-M0-N0 J11-U01  fpr22=0xffffffff ffffffff 00000000 00000000
+1133200808 R63-M0-N0 J11-U01  fpr23=0xffffffff ffffffff 00000000 00000000
+1133200808 R63-M0-N0 J11-U01  fpr24=0xffffffff ffffffff 00000000 00000000
+1133200808 R63-M0-N0 J11-U01  fpr25=0xffffffff ffffffff 7423f1d5 4087ab13
+1133200808 R63-M0-N0 J11-U01  fpr26=0xffffffff ffffffff 00000000 3ff00000
+1133200808 R63-M0-N0 J11-U01  fpr27=0xffffffff ffffffff 80000000 c3300000
+1133200808 R63-M0-N0 J11-U01  fpr28=0xffffffff ffffffff 00000000 3ff00000
+1133200808 R63-M0-N0 J11-U01  fpr29=0xffffffff ffffffff e5edda58 c0520e91
+1133200808 R63-M0-N0 J11-U01  fpr30=0xffffffff ffffffff 29a6face bf8d2fed
+1133200809 R63-M0-N0 J11-U01  fpr31=0xffffffff ffffffff 00000000 3fe00000
+1133200809 R63-M0-N0 J11-U01  rts internal error
+1133200809 R63-M0-N0 J11-U01  rts panic! - stopping execution
+1133200809 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45606, Link has been severed
+1133200809 R63-M0-N0 J10-U11  data TLB error interrupt
+1133200810 R63-M0-N0 J10-U11  instruction address: 0x000093fc
+1133200810 R63-M0-N0 J10-U11  data address: 0x0012af3c
+1133200810 R63-M0-N0 J10-U11  Machine State Register: 0x00003000
+1133200810 R63-M0-N0 J10-U11  wait state enable.................0
+1133200810 R63-M0-N0 J10-U11  critical input interrupt enable...0
+1133200810 R63-M0-N0 J10-U11  external input interrupt enable...0
+1133200810 R63-M0-N0 J10-U11  problem state (0=sup,1=usr).......0
+1133200810 R63-M0-N0 J10-U11  floating point instr. enabled.....1
+1133200810 R63-M0-N0 J10-U11  machine check enable..............1
+1133200811 R63-M0-N0 J10-U11  floating pt ex mode 0 enable......0
+1133200811 R63-M0-N0 J10-U11  debug wait enable.................0
+1133200811 R63-M0-N0 J10-U11  debug interrupt enable............0
+1133200811 R63-M0-N0 J10-U11  floating pt ex mode 1 enable......0
+1133200811 R63-M0-N0 J10-U11  instruction address space.........0
+1133200811 R63-M0-N0 J10-U11  data address space................0
+1133200812 R63-M0-N0 J10-U11  Core Configuration Register 0: 0x00002000
+1133200812 R63-M0-N0 J10-U11  disable store gathering..................0
+1133200812 R63-M0-N0 J10-U11  disable apu instruction broadcast........0
+1133200812 R63-M0-N0 J10-U11  disable trace broadcast..................0
+1133200812 R63-M0-N0 J10-U11  guaranteed instruction cache block touch.0
+1133200812 R63-M0-N0 J10-U11  guaranteed data cache block touch........1
+1133200812 R63-M0-N0 J10-U11  force load/store alignment...............0
+1133200812 R63-M0-N0 J10-U11  icache prefetch depth....................0
+1133200813 R63-M0-N0 J10-U11  icache prefetch threshold................0
+1133200813 R63-M0-N0 J10-U11  General Purpose Registers:
+1133200813 R63-M0-N0 J10-U11  r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000
+1133200813 R63-M0-N0 J10-U11  r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41
+1133200813 R63-M0-N0 J10-U11  r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914
+1133200813 R63-M0-N0 J10-U11  r12=0x48242488 r13=0x1eeeeeee r14=0x00000e48 r15=0x01d9533c
+1133200813 R63-M0-N0 J10-U11  r16=0x01edd5c8 r17=0x01e08b18 r18=0x02086b28 r19=0x01fb2078
+1133200813 R63-M0-N0 J10-U11  r20=0x00000003 r21=0x00001454 r22=0x1ff8a678 r23=0x1ffaa670
+1133200814 R63-M0-N0 J10-U11  r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8
+1133200814 R63-M0-N0 J10-U11  r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0
+1133200814 R63-M0-N0 J10-U11  Special Purpose Registers:
+1133200814 R63-M0-N0 J10-U11  lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc
+1133200814 R63-M0-N0 J10-U11  msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000
+1133200814 R63-M0-N0 J10-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133200814 R63-M0-N0 J10-U11  Floating Point Status and Control Register: 0x82064000
+1133200814 R63-M0-N0 J10-U11  exception summary........................1
+1133200814 R63-M0-N0 J10-U11  enabled exception summary................0
+1133200815 R63-M0-N0 J10-U11  invalid operation exception summary......0
+1133200815 R63-M0-N0 J10-U11  overflow exception.......................0
+1133200815 R63-M0-N0 J10-U11  underflow exception......................0
+1133200815 R63-M0-N0 J10-U11  divide-by-zero exception.................0
+1133200815 R63-M0-N0 J10-U11  inexact exception........................1
+1133200815 R63-M0-N0 J10-U11  invalid (SNAN)...........................0
+1133200815 R63-M0-N0 J10-U11  invalid (Inf-Inf)........................0
+1133200815 R63-M0-N0 J10-U11  invalid (Inf/Inf)........................0
+1133200816 R63-M0-N0 J10-U11  invalid (Zero/Zero)......................0
+1133200816 R63-M0-N0 J10-U11  invalid (Inf/Zero).......................0
+1133200816 R63-M0-N0 J10-U11  invalid (compare)........................0
+1133200816 R63-M0-N0 J10-U11  fraction rounded.........................1
+1133200816 R63-M0-N0 J10-U11  fraction inexact.........................1
+1133200816 R63-M0-N0 J10-U11  quiet NaN................................0
+1133200816 R63-M0-N0 J10-U11  minus inf................................0
+1133200817 R63-M0-N0 J10-U11  minus normalized number..................0
+1133200817 R63-M0-N0 J10-U11  minus denormalized number................0
+1133200817 R63-M0-N0 J10-U11  minus zero...............................0
+1133200817 R63-M0-N0 J10-U11  plus zero................................0
+1133200817 R63-M0-N0 J10-U11  plus denormalized number.................0
+1133200817 R63-M0-N0 J10-U11  plus normalized number...................1
+1133200817 R63-M0-N0 J10-U11  plus infinity............................0
+1133200817 R63-M0-N0 J10-U11  reserved.................................0
+1133200818 R63-M0-N0 J10-U11  invalid operation exception (software)...0
+1133200818 R63-M0-N0 J10-U11  invalid operation exception (sqrt).......0
+1133200818 R63-M0-N0 J10-U11  invalid operation exception (int cnvt)...0
+1133200818 R63-M0-N0 J10-U11  enable invalid operation exceptions......0
+1133200818 R63-M0-N0 J10-U11  enable overflow exceptions...............0
+1133200818 R63-M0-N0 J10-U11  enable underflow exceptions..............0
+1133200818 R63-M0-N0 J10-U11  enable divide-by-zero exceptions.........0
+1133200818 R63-M0-N0 J10-U11  enable inexact exceptions................0
+1133200818 R63-M0-N0 J10-U11  enable non-IEEE mode.....................0
+1133200819 R63-M0-N0 J10-U11  round nearest............................0
+1133200819 R63-M0-N0 J10-U11  round toward zero........................0
+1133200819 R63-M0-N0 J10-U11  round toward +infinity...................0
+1133200819 R63-M0-N0 J10-U11  round toward -infinity...................0
+1133200819 R63-M0-N0 J10-U11  Floating Point Registers:
+1133200819 R63-M0-N0 J10-U11  fpr0=0x10055620 00000000 00094fa5 7ffff980
+1133200819 R63-M0-N0 J10-U11  fpr1=0x10055620 00000001 10045620 0800081d
+1133200819 R63-M0-N0 J10-U11  fpr2=0x00000000 00000001 00340000 000a01aa
+1133200820 R63-M0-N0 J10-U11  fpr3=0x00000000 00000000 1000cfbc 7ffff980
+1133200820 R63-M0-N0 J10-U11  fpr4=0x10055620 00000001 10055620 10045620
+1133200820 R63-M0-N0 J10-U11  fpr5=0x10010000 00000000 00000000 7ffff9c0
+1133200820 R63-M0-N0 J10-U11  fpr6=0x00000000 10011001 10024348 7ffff930
+1133200820 R63-M0-N0 J10-U11  fpr7=0x00000000 00000000 00000000 00001000
+1133200820 R63-M0-N0 J10-U11  fpr8=0x7ffff8c0 100cfaf0 00000000 00000005
+1133200820 R63-M0-N0 J10-U11  fpr9=0x00000000 00000000 7ffff940 00000000
+1133200820 R63-M0-N0 J10-U11  fpr10=0x10045620 7ffff940 00000001 00000000
+1133200821 R63-M0-N0 J10-U11  fpr11=0x00000000 00000000 10023e44 7ffff900
+1133200821 R63-M0-N0 J10-U11  fpr12=0x10055974 7ffff950 30019020 1000d0e4
+1133200821 R63-M0-N0 J10-U11  fpr13=0x00000000 00000000 00000000 00000000
+1133200821 R63-M0-N0 J10-U11  fpr14=0xffffffff ffffffff e63323cd 403aae4a
+1133200821 R63-M0-N0 J10-U11  fpr15=0xffffffff ffffffff f4b1b4e8 4032a9a9
+1133200821 R63-M0-N0 J10-U11  fpr16=0xffffffff ffffffff d06f347f 403c64f1
+1133200821 R63-M0-N0 J10-U11  fpr17=0xffffffff ffffffff f480be20 bf767518
+1133200822 R63-M0-N0 J10-U11  fpr18=0xffffffff ffffffff 607c2400 3fae0d2c
+1133200822 R63-M0-N0 J10-U11  fpr19=0xffffffff ffffffff 7c246a80 bfb63e86
+1133200822 R63-M0-N0 J10-U11  fpr20=0xffffffff ffffffff 38703c00 bf97b067
+1133200822 R63-M0-N0 J10-U11  fpr21=0xffffffff ffffffff 6db99e66 3fd5cd3b
+1133200822 R63-M0-N0 J10-U11  fpr22=0xffffffff ffffffff c1d7fc00 bf8a15e8
+1133200822 R63-M0-N0 J10-U11  fpr23=0xffffffff ffffffff 49780800 3f66ccd6
+1133200822 R63-M0-N0 J10-U11  fpr24=0xffffffff ffffffff dba45000 bf8561e3
+1133200822 R63-M0-N0 J10-U11  fpr25=0xffffffff ffffffff 7423f1d5 4087ab13
+1133200823 R63-M0-N0 J10-U11  fpr26=0xffffffff ffffffff 00000000 3ff00000
+1133200823 R63-M0-N0 J10-U11  fpr27=0xffffffff ffffffff 80000000 c3300000
+1133200823 R63-M0-N0 J10-U11  fpr28=0xffffffff ffffffff 00000000 3ff00000
+1133200823 R63-M0-N0 J10-U11  fpr29=0xffffffff ffffffff 398da2a7 c04ee6c8
+1133200823 R63-M0-N0 J10-U11  fpr30=0xffffffff ffffffff 00000000 00000000
+1133200823 R63-M0-N0 J10-U11  fpr31=0xffffffff ffffffff 00000000 3fe00000
+1133200823 R63-M0-N0 J10-U11  rts internal error
+1133200823 R63-M0-N0 J10-U11  rts panic! - stopping execution
+1133200923 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45605, Link has been severed
+1133287401 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287401 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287493 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287493 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287527 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287529 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287800 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: Argument list too long
+1133287802 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: Argument list too long
+1133304729 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/home/bertsch2/src/bgl_nop) failed: No such file or directory
+1133304729 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/home/bertsch2/src/bgl_nop) failed: No such file or directory
+1133314528 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58429, Link has been severed
+1133314529 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58428, Link has been severed
+1133363222 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59388, Link has been severed
+1133409294 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409392 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409392 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409550 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409705 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409795 R63-M0-N0 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133494272 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59738, Link has been severed
+1133494272 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59737, Link has been severed
+1133517064 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47680, Link has been severed
+1133517064 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47679, Link has been severed
+1133555623 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52591, Link has been severed
+1133555624 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52590, Link has been severed
+1133650315 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57170, Link has been severed
+1133650315 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57169, Link has been severed
+1133877024 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/functional/linpack-128x512-rel2/xhpl.500: invalid or missing program image, Permission denied
+1133877025 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/functional/linpack-128x512-rel2/xhpl.500: invalid or missing program image, Permission denied
+1133926491 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45202, Link has been severed
+1133926491 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45201, Link has been severed
+1133971809 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image
+1133971809 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image
+1134022710 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44686, Link has been severed
+1134022710 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44685, Link has been severed
+1134026119 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47225, Link has been severed
+1134026119 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47226, Link has been severed
+1134080841 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image, No such file or directory
+1134080841 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image, No such file or directory
+1134080854 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image, No such file or directory
+1134080854 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image, No such file or directory
+1134093487 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41278, Link has been severed
+1134093487 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41277, Link has been severed
+1134109146 R63-M0-N0 J18-U11  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134109146 R63-M0-N0 J18-U01  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134116469 R63-M0-N0 J18-U11  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134116470 R63-M0-N0 J18-U01  ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134158825 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/SPPM/1360/sppm_DD: invalid or missing program image, Permission denied
+1134158825 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/SPPM/1360/sppm_DD: invalid or missing program image, Permission denied
+1134158859 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1379/inferno: invalid or missing program image, Permission denied
+1134158859 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1379/inferno: invalid or missing program image, Permission denied
+1134158880 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134158880 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134158894 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1392./hpl_DD: invalid or missing program image, No such file or directory
+1134158894 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1392./hpl_DD: invalid or missing program image, No such file or directory
+1134158908 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1399./hpl_DD: invalid or missing program image, No such file or directory
+1134158908 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1399./hpl_DD: invalid or missing program image, No such file or directory
+1134159091 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1408/inferno: invalid or missing program image, Permission denied
+1134159091 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1408/inferno: invalid or missing program image, Permission denied
+1134159147 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1409/inferno: invalid or missing program image, Permission denied
+1134159147 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1409/inferno: invalid or missing program image, Permission denied
+1134159210 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/RAPTOR/1419/raptor: invalid or missing program image, Permission denied
+1134159210 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/RAPTOR/1419/raptor: invalid or missing program image, Permission denied
+1134159231 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/stella/RAPTOR/1420/raptor: invalid or missing program image, Permission denied
+1134159231 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/stella/RAPTOR/1420/raptor: invalid or missing program image, Permission denied
+1134357555 R63-M0-N0 J18-U01  ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+1134357702 R63-M0-N0 J18-U11  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:49681: Link has been severed
+1134403825 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57978, Link has been severed
+1134403825 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57977, Link has been severed
+1134451132 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48569, Link has been severed
+1134451132 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48568, Link has been severed
+1134496348 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55846, Link has been severed
+1134496418 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55847, Link has been severed
+1134573390 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46084, Link has been severed
+1134573390 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46083, Link has been severed
+1134599397 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599397 R63-M0-N0 J18-U11  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599397 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134599553 R63-M0-N0 J18-U01  ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134630988 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50395, Link has been severed
+1134631097 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50394, Link has been severed
+1134724913 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39097, Link has been severed
+1134724913 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39096, Link has been severed
+1134773931 R63-M0-N0 J18-U11  Lustre mount FAILED : bglio817 : block_id : location
+1134773931 R63-M0-N0 J18-U01  Lustre mount FAILED : bglio818 : block_id : location
+1134937885 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45580, Link has been severed
+1134937885 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45579, Link has been severed
+1135182976 R63-M0-N0 J18-U11  ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.25.exe: program image too big, 289055280 > 266076160
+1135182976 R63-M0-N0 J18-U01  ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.25.exe: program image too big, 289055280 > 266076160
+1135192677 R63-M0-N0 J18-U11  ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.16b.exe: program image too big, 269199248 > 266076160
+1135192677 R63-M0-N0 J18-U01  ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.16b.exe: program image too big, 269199248 > 266076160
+1135619832 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54489, Link has been severed
+1135619832 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54488, Link has been severed
+1135630211 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:36534, Link has been severed
+1135630211 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:36533, Link has been severed
+1135957343 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40043, Link has been severed
+1135957343 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40042, Link has been severed
+1136322596 R63-M0-N0 J18-U11  Lustre mount FAILED : bglio817 : block_id : location

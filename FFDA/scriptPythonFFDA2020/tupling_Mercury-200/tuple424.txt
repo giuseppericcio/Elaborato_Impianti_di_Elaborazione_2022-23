@@ -1,0 +1,8 @@
+1173819351 tg-c027 PRO +BEGIN HARDWARE ERROR STATE AT CMC
+1173819351 tg-c117 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1173819351 tg-c117 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1173819351 tg-c117 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1173819351 tg-c117 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1173819411 tg-c027 PRO +END HARDWARE ERROR STATE AT CMC
+1173819411 tg-c027 PRO Device Error Info Section
+1173819411 tg-c027 PRO Error Map: x

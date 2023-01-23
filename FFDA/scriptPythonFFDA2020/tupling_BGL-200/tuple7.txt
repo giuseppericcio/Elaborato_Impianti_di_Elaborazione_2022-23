@@ -1,0 +1,20 @@
+1128800774 R23-M0-N2 J14-U01  machine check interrupt
+1128800775 R23-M0-N2 J14-U01  instruction address: 0x001e4124
+1128800775 R23-M0-N2 J14-U01  machine check status register: 0x81000000
+1128800775 R23-M0-N2 J14-U01  summary...........................1
+1128800775 R23-M0-N2 J14-U01  instruction plb error.............0
+1128800776 R23-M0-N2 J14-U01  data read plb error...............0
+1128800776 R23-M0-N2 J14-U01  data write plb error..............0
+1128800776 R23-M0-N2 J14-U01  tlb error.........................0
+1128800776 R23-M0-N2 J14-U01  i-cache parity error..............0
+1128800777 R23-M0-N2 J14-U01  d-cache search parity error.......0
+1128800777 R23-M0-N2 J14-U01  d-cache flush parity error........1
+1128800777 R23-M0-N2 J14-U01  imprecise machine check...........0
+1128800777 R23-M0-N2 J14-U01  machine state register: 0x0000f000
+1128800778 R23-M0-N2 J14-U01  wait state enable.................0
+1128800778 R23-M0-N2 J14-U01  critical input interrupt enable...0
+1128800778 R23-M0-N2 J14-U01  external input interrupt enable...1
+1128800787 R23-M0-N2 J14-U01  problem state (0=sup,1=usr).......1
+1128800797 R23-M0-N2 J14-U01  floating point instr. enabled.....1
+1128800817 R23-M0-N2 J14-U01  machine check enable..............1
+1128800842 R23-M0-N2 J14-U01  floating pt ex mode 0 enable......0

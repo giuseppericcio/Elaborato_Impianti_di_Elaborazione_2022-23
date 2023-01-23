@@ -1,0 +1,46 @@
+1131766120 R55-M0-NC J06-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1131766120 R55-M0-NC J06-U11  instruction address: 0x00212190
+1131766120 R55-M0-NC J06-U11  machine check status register: 0x91800000
+1131766120 R55-M0-NC J06-U11  summary...........................1
+1131766120 R55-M0-NC J06-U11  instruction plb error.............0
+1131766120 R55-M0-NC J06-U11  data read plb error...............0
+1131766121 R55-M0-NC J06-U11  data write plb error..............1
+1131766121 R55-M0-NC J06-U11  tlb error.........................0
+1131766121 R55-M0-NC J06-U11  i-cache parity error..............0
+1131766121 R55-M0-NC J06-U11  d-cache search parity error.......0
+1131766121 R55-M0-NC J06-U11  d-cache flush parity error........1
+1131766121 R55-M0-NC J06-U11  imprecise machine check...........1
+1131766122 R55-M0-NC J06-U11  machine state register: 0x0002f900
+1131766122 R55-M0-NC J06-U11  wait state enable.................0
+1131766122 R55-M0-NC J06-U11  critical input interrupt enable...1
+1131766122 R55-M0-NC J06-U11  external input interrupt enable...1
+1131766122 R55-M0-NC J06-U11  problem state (0=sup,1=usr).......1
+1131766122 R55-M0-NC J06-U11  floating point instr. enabled.....1
+1131766123 R55-M0-NC J06-U11  machine check enable..............1
+1131766123 R55-M0-NC J06-U11  floating pt ex mode 0 enable......1
+1131766123 R55-M0-NC J06-U11  debug wait enable.................0
+1131766123 R55-M0-NC J06-U11  debug interrupt enable............0
+1131766123 R55-M0-NC J06-U11  floating pt ex mode 1 enable......1
+1131766123 R55-M0-NC J06-U11  instruction address space.........0
+1131766124 R55-M0-NC J06-U11  data address space................0
+1131766124 R55-M0-NC J06-U11  core configuration register: 0x00002000
+1131766124 R55-M0-NC J06-U11  disable store gathering..................0
+1131766125 R55-M0-NC J06-U11  disable apu instruction broadcast........0
+1131766126 R55-M0-NC J06-U11  disable trace broadcast..................0
+1131766130 R55-M0-NC J06-U11  guaranteed instruction cache block touch.0
+1131766136 R55-M0-NC J06-U11  guaranteed data cache block touch........1
+1131766140 R55-M0-NC J06-U11  force load/store alignment...............0
+1131766145 R55-M0-NC J06-U11  icache prefetch depth....................0
+1131766149 R55-M0-NC J06-U11  icache prefetch threshold................0
+1131766156 R55-M0-NC J06-U11  general purpose registers:
+1131766161 R55-M0-NC J06-U11  0:00001570 1:0fea0410 2:1eeeeeee 3:bfd7a9d5
+1131766165 R55-M0-NC J06-U11  4:3fe00000 5:00000000 6:4337ffff 7:ffffffff
+1131766166 R55-M0-NC J06-U11  8:0025fee0 9:00260000 10:00261520 11:002627d0
+1131766166 R55-M0-NC J06-U11  12:00014b2b 13:1eeeeeee 14:00225188 15:00dc4aa0
+1131766166 R55-M0-NC J06-U11  16:0022533c 17:09b191b8 18:00e93868 19:09139198
+1131766167 R55-M0-NC J06-U11  20:000007c6 21:000a0c00 22:0000b2ac 23:0915d5ac
+1131766167 R55-M0-NC J06-U11  24:0915d5a8 25:002a0000 26:00000198 27:00000000
+1131766167 R55-M0-NC J06-U11  28:0fea04c8 29:00368af0 30:0fea04d0 31:0036a3a0
+1131766167 R55-M0-NC J06-U11  special purpose registers:
+1131766168 R55-M0-NC J06-U11  lr:0020e208 cr:84404422 xer:00000002 ctr:00143838
+1131766168 R55-M0-NC J06-U11  rts panic! - stopping execution

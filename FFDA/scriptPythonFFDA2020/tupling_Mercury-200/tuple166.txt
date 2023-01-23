@@ -1,0 +1,11 @@
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797829 tg-c572 I-O error, dev x:x (hda), sector x
+1168797846 tg-c106 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168797846 tg-c106 DEV +Platform PCI Component Error Info Section

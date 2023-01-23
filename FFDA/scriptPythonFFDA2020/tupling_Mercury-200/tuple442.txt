@@ -1,0 +1,2 @@
+1174163271 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1174163271 tg-c685 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x

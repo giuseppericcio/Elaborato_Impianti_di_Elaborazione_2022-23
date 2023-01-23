@@ -1,0 +1,2 @@
+1135402990 R62-M0-N4 J13-U01  rts assertion failed: `vaddr % PAGE_SIZE_1M == 0' in `int initializeAppMemory(int, TLBEntry&, unsigned int, unsigned int)' at mmu.cc:540
+1135402990 R62-M0-N4 J13-U01  rts panic! - stopping execution

@@ -1,0 +1,2 @@
+1132236856 R71-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45596, Link has been severed
+1132237011 R71-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45597, Link has been severed

@@ -1,0 +1,797 @@
+1133723149 R71-M0-N4 J14-U01  Machine Check Status Register: 0xa0800000
+1133723149 R71-M0-N4 J14-U01  machine check summary.............1
+1133723150 R71-M0-N4 J14-U01  instruction plb error.............0
+1133723150 R71-M0-N4 J14-U01  data read plb error...............1
+1133723150 R71-M0-N4 J14-U01  data write plb error..............0
+1133723150 R71-M0-N4 J14-U01  tlb error.........................0
+1133723150 R71-M0-N4 J14-U01  i-cache parity error..............0
+1133723150 R71-M0-N4 J14-U01  d-cache search parity error.......0
+1133723150 R71-M0-N4 J14-U01  d-cache flush parity error........0
+1133723150 R71-M0-N4 J14-U01  imprecise machine check...........1
+1133723151 R71-M0-N4 J14-U01  Machine State Register: 0x00003000
+1133723151 R71-M0-N4 J14-U01  wait state enable.................0
+1133723151 R71-M0-N4 J14-U01  critical input interrupt enable...0
+1133723151 R71-M0-N4 J14-U01  external input interrupt enable...0
+1133723151 R71-M0-N4 J14-U01  problem state (0=sup,1=usr).......0
+1133723152 R71-M0-N4 J14-U01  floating point instr. enabled.....1
+1133723152 R71-M0-N4 J14-U01  machine check enable..............1
+1133723152 R71-M0-N4 J14-U01  floating pt ex mode 0 enable......0
+1133723152 R71-M0-N4 J14-U01  debug wait enable.................0
+1133723152 R71-M0-N4 J14-U01  debug interrupt enable............0
+1133723152 R71-M0-N4 J14-U01  floating pt ex mode 1 enable......0
+1133723152 R71-M0-N4 J14-U01  instruction address space.........0
+1133723153 R71-M0-N4 J14-U01  data address space................0
+1133723153 R71-M0-N4 J14-U01  Core Configuration Register 0: 0x00002000
+1133723153 R71-M0-N4 J14-U01  disable store gathering..................0
+1133723153 R71-M0-N4 J14-U01  disable apu instruction broadcast........0
+1133723153 R71-M0-N4 J14-U01  disable trace broadcast..................0
+1133723153 R71-M0-N4 J14-U01  guaranteed instruction cache block touch.0
+1133723153 R71-M0-N4 J14-U01  guaranteed data cache block touch........1
+1133723153 R71-M0-N4 J14-U01  force load/store alignment...............0
+1133723154 R71-M0-N4 J14-U01  icache prefetch depth....................0
+1133723154 R71-M0-N4 J14-U01  icache prefetch threshold................0
+1133723154 R71-M0-N4 J14-U01  L3 global control register: 0x001249f0
+1133723154 R71-M0-N4 J14-U01  start initialization.....................0
+1133723154 R71-M0-N4 J14-U01  start retagging..........................0
+1133723154 R71-M0-N4 J14-U01  start flushing...........................0
+1133723155 R71-M0-N4 J14-U01  start prefetching........................0
+1133723155 R71-M0-N4 J14-U01  disable speculative access...............0
+1133723155 R71-M0-N4 J14-U01  close EDRAM pages as soon as possible....0
+1133723155 R71-M0-N4 J14-U01  size of scratchpad portion of L3.........0 (0M)
+1133723155 R71-M0-N4 J14-U01  disable all access to cache directory....0
+1133723155 R71-M0-N4 J14-U01  write buffer commit threshold............2
+1133723155 R71-M0-N4 J14-U01  size of DDR we are caching...............1 (512M)
+1133723156 R71-M0-N4 J14-U01  prefetch depth for core 0................1
+1133723156 R71-M0-N4 J14-U01  prefetch depth for core 1................1
+1133723156 R71-M0-N4 J14-U01  prefetch depth for PLB slave.............1
+1133723156 R71-M0-N4 J14-U01  max number of outstanding prefetches.....7
+1133723156 R71-M0-N4 J14-U01  turn on hidden refreshes.................1
+1133723157 R71-M0-N4 J14-U01  disable write lines 2:4..................0
+1133723157 R71-M0-N4 J14-U01  L3 ecc control register: 00000000
+1133723157 R71-M0-N4 J14-U01  capture first directory correctable error address..0
+1133723157 R71-M0-N4 J14-U01  capture first directory uncorrectable error address..0
+1133723157 R71-M0-N4 J14-U01  capture first EDRAM correctable error address..0
+1133723157 R71-M0-N4 J14-U01  capture first EDRAM uncorrectable error address..0
+1133723157 R71-M0-N4 J14-U01  capture first EDRAM parity error address..0
+1133723157 R71-M0-N4 J14-U01  capture first DDR uncorrectable error address..0
+1133723158 R71-M0-N4 J14-U01  disable flagging of DDR UE's as major internal error.0
+1133723158 R71-M0-N4 J14-U01  L3 ecc status register: 00200000
+1133723158 R71-M0-N4 J14-U01  correctable error detected in directory 0......0
+1133723158 R71-M0-N4 J14-U01  correctable error detected in directory 1......0
+1133723158 R71-M0-N4 J14-U01  uncorrectable error detected in directory 0....0
+1133723158 R71-M0-N4 J14-U01  uncorrectable error detected in directory 1....0
+1133723158 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 0.....0
+1133723158 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 1.....0
+1133723159 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 0...0
+1133723159 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 1...0
+1133723159 R71-M0-N4 J14-U01  parity error in bank 0.........................0
+1133723159 R71-M0-N4 J14-U01  parity error in bank 1.........................0
+1133723159 R71-M0-N4 J14-U01  uncorrectable error detected in external DDR...1
+1133723159 R71-M0-N4 J14-U01  parity error in read queue 0...................0
+1133723159 R71-M0-N4 J14-U01  parity error in read queue 1...................0
+1133723160 R71-M0-N4 J14-U01  parity error in read queue PLB.................0
+1133723160 R71-M0-N4 J14-U01  parity error in write buffer...................0
+1133723160 R71-M0-N4 J14-U01  number of correctable errors detected in L3 directories...0
+1133723160 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723160 R71-M0-N4 J14-U01  number of correctable errors detected in L3 EDRAMs........0
+1133723160 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723160 R71-M0-N4 J14-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133723161 R71-M0-N4 J14-U01  DDR machine check register: 0x00000000 0x00010000
+1133723161 R71-M0-N4 J14-U01  memory and bus summary...........................0
+1133723161 R71-M0-N4 J14-U01  command manager unit summary.....................0
+1133723161 R71-M0-N4 J14-U01  memory manager uncorrectable error...............1
+1133723161 R71-M0-N4 J14-U01  memory manager strobe gate.......................0
+1133723161 R71-M0-N4 J14-U01  memory manager address parity error..............0
+1133723162 R71-M0-N4 J14-U01  memory manager miscompare........................0
+1133723162 R71-M0-N4 J14-U01  memory manager address error.....................0
+1133723162 R71-M0-N4 J14-U01  memory manager store buffer parity...............0
+1133723162 R71-M0-N4 J14-U01  memory manager RMW buffer parity.................0
+1133723162 R71-M0-N4 J14-U01  memory manager refresh...........................0
+1133723162 R71-M0-N4 J14-U01  memory manager refresh counter timeout...........0
+1133723162 R71-M0-N4 J14-U01  memory manager refresh contention................0
+1133723162 R71-M0-N4 J14-U01  state machine....................................0
+1133723163 R71-M0-N4 J14-U01  memory manager / command manager address parity..0
+1133723163 R71-M0-N4 J14-U01  regctl scancom interface.........................0
+1133723163 R71-M0-N4 J14-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133723163 R71-M0-N4 J14-U01  capture valid.........0
+1133723163 R71-M0-N4 J14-U01  symbol................0
+1133723163 R71-M0-N4 J14-U01  mask..................0x00
+1133723163 R71-M0-N4 J14-U01  miscompare............0
+1133723164 R71-M0-N4 J14-U01  uncorrectable error...0
+1133723164 R71-M0-N4 J14-U01  address parity error..0
+1133723164 R71-M0-N4 J14-U01  correctable error.....0
+1133723164 R71-M0-N4 J14-U01  qw trapped............0
+1133723164 R71-M0-N4 J14-U01  chip select...........0
+1133723164 R71-M0-N4 J14-U01  DDR failing data registers: 0x00000000 0x00000000
+1133723164 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723165 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723165 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723165 R71-M0-N4 J14-U01  DDR failing address register: 0x00000000 0x00000000
+1133723165 R71-M0-N4 J14-U01  General Purpose Registers:
+1133723165 R71-M0-N4 J14-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133723165 R71-M0-N4 J14-U01  r04=0xffff3474 r05=0x33330300 r06=0x0002e9ac r07=0x00030000
+1133723165 R71-M0-N4 J14-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133723165 R71-M0-N4 J14-U01  r12=0x44000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133723166 R71-M0-N4 J14-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133723166 R71-M0-N4 J14-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133723166 R71-M0-N4 J14-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133723166 R71-M0-N4 J14-U01  r28=0xffffc0c8 r29=0x0000017f r30=0x0000017f r31=0x0008db74
+1133723166 R71-M0-N4 J14-U01  Special Purpose Registers:
+1133723166 R71-M0-N4 J14-U01  lr=0x00000474 cr=0x44000024 xer=0x20000002 ctr=0x00000000
+1133723167 R71-M0-N4 J14-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133723167 R71-M0-N4 J14-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133723167 R71-M0-N4 J14-U01  Floating Point Status and Control Register: 0x00000000
+1133723167 R71-M0-N4 J14-U01  exception summary........................0
+1133723167 R71-M0-N4 J14-U01  enabled exception summary................0
+1133723167 R71-M0-N4 J14-U01  invalid operation exception summary......0
+1133723167 R71-M0-N4 J14-U01  overflow exception.......................0
+1133723167 R71-M0-N4 J14-U01  underflow exception......................0
+1133723168 R71-M0-N4 J14-U01  divide-by-zero exception.................0
+1133723168 R71-M0-N4 J14-U01  inexact exception........................0
+1133723168 R71-M0-N4 J14-U01  invalid (SNAN)...........................0
+1133723168 R71-M0-N4 J14-U01  invalid (Inf-Inf)........................0
+1133723168 R71-M0-N4 J14-U01  invalid (Inf/Inf)........................0
+1133723168 R71-M0-N4 J14-U01  invalid (Zero/Zero)......................0
+1133723168 R71-M0-N4 J14-U01  invalid (Inf/Zero).......................0
+1133723168 R71-M0-N4 J14-U01  invalid (compare)........................0
+1133723169 R71-M0-N4 J14-U01  fraction rounded.........................0
+1133723169 R71-M0-N4 J14-U01  fraction inexact.........................0
+1133723169 R71-M0-N4 J14-U01  quiet NaN................................0
+1133723169 R71-M0-N4 J14-U01  minus inf................................0
+1133723169 R71-M0-N4 J14-U01  minus normalized number..................0
+1133723169 R71-M0-N4 J14-U01  minus denormalized number................0
+1133723169 R71-M0-N4 J14-U01  minus zero...............................0
+1133723169 R71-M0-N4 J14-U01  plus zero................................0
+1133723170 R71-M0-N4 J14-U01  plus denormalized number.................0
+1133723170 R71-M0-N4 J14-U01  plus normalized number...................0
+1133723170 R71-M0-N4 J14-U01  plus infinity............................0
+1133723170 R71-M0-N4 J14-U01  reserved.................................0
+1133723170 R71-M0-N4 J14-U01  invalid operation exception (software)...0
+1133723170 R71-M0-N4 J14-U01  invalid operation exception (sqrt).......0
+1133723170 R71-M0-N4 J14-U01  invalid operation exception (int cnvt)...0
+1133723171 R71-M0-N4 J14-U01  enable invalid operation exceptions......0
+1133723171 R71-M0-N4 J14-U01  enable overflow exceptions...............0
+1133723171 R71-M0-N4 J14-U01  enable underflow exceptions..............0
+1133723171 R71-M0-N4 J14-U01  enable divide-by-zero exceptions.........0
+1133723171 R71-M0-N4 J14-U01  enable inexact exceptions................0
+1133723172 R71-M0-N4 J14-U01  enable non-IEEE mode.....................0
+1133723172 R71-M0-N4 J14-U01  round nearest............................0
+1133723172 R71-M0-N4 J14-U01  round toward zero........................0
+1133723172 R71-M0-N4 J14-U01  round toward +infinity...................0
+1133723172 R71-M0-N4 J14-U01  round toward -infinity...................0
+1133723172 R71-M0-N4 J14-U01  Floating Point Registers:
+1133723172 R71-M0-N4 J14-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133723173 R71-M0-N4 J14-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133723174 R71-M0-N4 J14-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133723175 R71-M0-N4 J14-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133723176 R71-M0-N4 J14-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133723177 R71-M0-N4 J14-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133723177 R71-M0-N4 J14-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133723177 R71-M0-N4 J14-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133723177 R71-M0-N4 J14-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133723177 R71-M0-N4 J14-U01  rts panic! - stopping execution
+1133723307 R71-M0-N4 J14-U01  Machine Check Status Register: 0xa0800000
+1133723307 R71-M0-N4 J14-U01  machine check summary.............1
+1133723307 R71-M0-N4 J14-U01  instruction plb error.............0
+1133723307 R71-M0-N4 J14-U01  data read plb error...............1
+1133723307 R71-M0-N4 J14-U01  data write plb error..............0
+1133723308 R71-M0-N4 J14-U01  tlb error.........................0
+1133723308 R71-M0-N4 J14-U01  i-cache parity error..............0
+1133723308 R71-M0-N4 J14-U01  d-cache search parity error.......0
+1133723308 R71-M0-N4 J14-U01  d-cache flush parity error........0
+1133723308 R71-M0-N4 J14-U01  imprecise machine check...........1
+1133723308 R71-M0-N4 J14-U01  Machine State Register: 0x00003000
+1133723308 R71-M0-N4 J14-U01  wait state enable.................0
+1133723308 R71-M0-N4 J14-U01  critical input interrupt enable...0
+1133723309 R71-M0-N4 J14-U01  external input interrupt enable...0
+1133723309 R71-M0-N4 J14-U01  problem state (0=sup,1=usr).......0
+1133723309 R71-M0-N4 J14-U01  floating point instr. enabled.....1
+1133723309 R71-M0-N4 J14-U01  machine check enable..............1
+1133723309 R71-M0-N4 J14-U01  floating pt ex mode 0 enable......0
+1133723309 R71-M0-N4 J14-U01  debug wait enable.................0
+1133723310 R71-M0-N4 J14-U01  debug interrupt enable............0
+1133723310 R71-M0-N4 J14-U01  floating pt ex mode 1 enable......0
+1133723310 R71-M0-N4 J14-U01  instruction address space.........0
+1133723310 R71-M0-N4 J14-U01  data address space................0
+1133723310 R71-M0-N4 J14-U01  Core Configuration Register 0: 0x00002000
+1133723310 R71-M0-N4 J14-U01  disable store gathering..................0
+1133723310 R71-M0-N4 J14-U01  disable apu instruction broadcast........0
+1133723310 R71-M0-N4 J14-U01  disable trace broadcast..................0
+1133723311 R71-M0-N4 J14-U01  guaranteed instruction cache block touch.0
+1133723311 R71-M0-N4 J14-U01  guaranteed data cache block touch........1
+1133723311 R71-M0-N4 J14-U01  force load/store alignment...............0
+1133723311 R71-M0-N4 J14-U01  icache prefetch depth....................0
+1133723311 R71-M0-N4 J14-U01  icache prefetch threshold................0
+1133723311 R71-M0-N4 J14-U01  L3 global control register: 0x001249f0
+1133723311 R71-M0-N4 J14-U01  start initialization.....................0
+1133723311 R71-M0-N4 J14-U01  start retagging..........................0
+1133723312 R71-M0-N4 J14-U01  start flushing...........................0
+1133723312 R71-M0-N4 J14-U01  start prefetching........................0
+1133723312 R71-M0-N4 J14-U01  disable speculative access...............0
+1133723312 R71-M0-N4 J14-U01  close EDRAM pages as soon as possible....0
+1133723312 R71-M0-N4 J14-U01  size of scratchpad portion of L3.........0 (0M)
+1133723312 R71-M0-N4 J14-U01  disable all access to cache directory....0
+1133723312 R71-M0-N4 J14-U01  write buffer commit threshold............2
+1133723313 R71-M0-N4 J14-U01  size of DDR we are caching...............1 (512M)
+1133723313 R71-M0-N4 J14-U01  prefetch depth for core 0................1
+1133723313 R71-M0-N4 J14-U01  prefetch depth for core 1................1
+1133723313 R71-M0-N4 J14-U01  prefetch depth for PLB slave.............1
+1133723313 R71-M0-N4 J14-U01  max number of outstanding prefetches.....7
+1133723313 R71-M0-N4 J14-U01  turn on hidden refreshes.................1
+1133723313 R71-M0-N4 J14-U01  disable write lines 2:4..................0
+1133723313 R71-M0-N4 J14-U01  L3 ecc control register: 00000000
+1133723314 R71-M0-N4 J14-U01  capture first directory correctable error address..0
+1133723314 R71-M0-N4 J14-U01  capture first directory uncorrectable error address..0
+1133723314 R71-M0-N4 J14-U01  capture first EDRAM correctable error address..0
+1133723314 R71-M0-N4 J14-U01  capture first EDRAM uncorrectable error address..0
+1133723314 R71-M0-N4 J14-U01  capture first EDRAM parity error address..0
+1133723314 R71-M0-N4 J14-U01  capture first DDR uncorrectable error address..0
+1133723315 R71-M0-N4 J14-U01  disable flagging of DDR UE's as major internal error.0
+1133723315 R71-M0-N4 J14-U01  L3 ecc status register: 00200000
+1133723315 R71-M0-N4 J14-U01  correctable error detected in directory 0......0
+1133723315 R71-M0-N4 J14-U01  correctable error detected in directory 1......0
+1133723315 R71-M0-N4 J14-U01  uncorrectable error detected in directory 0....0
+1133723315 R71-M0-N4 J14-U01  uncorrectable error detected in directory 1....0
+1133723315 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 0.....0
+1133723315 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 1.....0
+1133723316 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 0...0
+1133723316 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 1...0
+1133723316 R71-M0-N4 J14-U01  parity error in bank 0.........................0
+1133723316 R71-M0-N4 J14-U01  parity error in bank 1.........................0
+1133723316 R71-M0-N4 J14-U01  uncorrectable error detected in external DDR...1
+1133723316 R71-M0-N4 J14-U01  parity error in read queue 0...................0
+1133723316 R71-M0-N4 J14-U01  parity error in read queue 1...................0
+1133723317 R71-M0-N4 J14-U01  parity error in read queue PLB.................0
+1133723317 R71-M0-N4 J14-U01  parity error in write buffer...................0
+1133723317 R71-M0-N4 J14-U01  number of correctable errors detected in L3 directories...0
+1133723317 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723317 R71-M0-N4 J14-U01  number of correctable errors detected in L3 EDRAMs........0
+1133723317 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723317 R71-M0-N4 J14-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133723317 R71-M0-N4 J14-U01  DDR machine check register: 0x00000000 0x00010000
+1133723318 R71-M0-N4 J14-U01  memory and bus summary...........................0
+1133723318 R71-M0-N4 J14-U01  command manager unit summary.....................0
+1133723318 R71-M0-N4 J14-U01  memory manager uncorrectable error...............1
+1133723318 R71-M0-N4 J14-U01  memory manager strobe gate.......................0
+1133723318 R71-M0-N4 J14-U01  memory manager address parity error..............0
+1133723318 R71-M0-N4 J14-U01  memory manager miscompare........................0
+1133723318 R71-M0-N4 J14-U01  memory manager address error.....................0
+1133723318 R71-M0-N4 J14-U01  memory manager store buffer parity...............0
+1133723319 R71-M0-N4 J14-U01  memory manager RMW buffer parity.................0
+1133723319 R71-M0-N4 J14-U01  memory manager refresh...........................0
+1133723319 R71-M0-N4 J14-U01  memory manager refresh counter timeout...........0
+1133723319 R71-M0-N4 J14-U01  memory manager refresh contention................0
+1133723319 R71-M0-N4 J14-U01  state machine....................................0
+1133723319 R71-M0-N4 J14-U01  memory manager / command manager address parity..0
+1133723319 R71-M0-N4 J14-U01  regctl scancom interface.........................0
+1133723320 R71-M0-N4 J14-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133723320 R71-M0-N4 J14-U01  capture valid.........0
+1133723320 R71-M0-N4 J14-U01  symbol................0
+1133723320 R71-M0-N4 J14-U01  mask..................0x00
+1133723320 R71-M0-N4 J14-U01  miscompare............0
+1133723320 R71-M0-N4 J14-U01  uncorrectable error...0
+1133723320 R71-M0-N4 J14-U01  address parity error..0
+1133723321 R71-M0-N4 J14-U01  correctable error.....0
+1133723321 R71-M0-N4 J14-U01  qw trapped............0
+1133723321 R71-M0-N4 J14-U01  chip select...........0
+1133723321 R71-M0-N4 J14-U01  DDR failing data registers: 0x00000000 0x00000000
+1133723321 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723321 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723321 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723321 R71-M0-N4 J14-U01  DDR failing address register: 0x00000000 0x00000000
+1133723322 R71-M0-N4 J14-U01  General Purpose Registers:
+1133723322 R71-M0-N4 J14-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133723322 R71-M0-N4 J14-U01  r04=0xffff3474 r05=0x33330300 r06=0x0002e9ac r07=0x00030000
+1133723322 R71-M0-N4 J14-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133723322 R71-M0-N4 J14-U01  r12=0x44000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133723322 R71-M0-N4 J14-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133723322 R71-M0-N4 J14-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133723322 R71-M0-N4 J14-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133723323 R71-M0-N4 J14-U01  r28=0xffffc0c8 r29=0x0000017f r30=0x0000017f r31=0x0008db74
+1133723323 R71-M0-N4 J14-U01  Special Purpose Registers:
+1133723323 R71-M0-N4 J14-U01  lr=0x00000474 cr=0x44000024 xer=0x20000002 ctr=0x00000000
+1133723323 R71-M0-N4 J14-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133723323 R71-M0-N4 J14-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133723323 R71-M0-N4 J14-U01  Floating Point Status and Control Register: 0x00000000
+1133723323 R71-M0-N4 J14-U01  exception summary........................0
+1133723323 R71-M0-N4 J14-U01  enabled exception summary................0
+1133723324 R71-M0-N4 J14-U01  invalid operation exception summary......0
+1133723324 R71-M0-N4 J14-U01  overflow exception.......................0
+1133723324 R71-M0-N4 J14-U01  underflow exception......................0
+1133723324 R71-M0-N4 J14-U01  divide-by-zero exception.................0
+1133723324 R71-M0-N4 J14-U01  inexact exception........................0
+1133723324 R71-M0-N4 J14-U01  invalid (SNAN)...........................0
+1133723324 R71-M0-N4 J14-U01  invalid (Inf-Inf)........................0
+1133723325 R71-M0-N4 J14-U01  invalid (Inf/Inf)........................0
+1133723325 R71-M0-N4 J14-U01  invalid (Zero/Zero)......................0
+1133723325 R71-M0-N4 J14-U01  invalid (Inf/Zero).......................0
+1133723325 R71-M0-N4 J14-U01  invalid (compare)........................0
+1133723325 R71-M0-N4 J14-U01  fraction rounded.........................0
+1133723325 R71-M0-N4 J14-U01  fraction inexact.........................0
+1133723325 R71-M0-N4 J14-U01  quiet NaN................................0
+1133723325 R71-M0-N4 J14-U01  minus inf................................0
+1133723326 R71-M0-N4 J14-U01  minus normalized number..................0
+1133723326 R71-M0-N4 J14-U01  minus denormalized number................0
+1133723326 R71-M0-N4 J14-U01  minus zero...............................0
+1133723326 R71-M0-N4 J14-U01  plus zero................................0
+1133723326 R71-M0-N4 J14-U01  plus denormalized number.................0
+1133723326 R71-M0-N4 J14-U01  plus normalized number...................0
+1133723326 R71-M0-N4 J14-U01  plus infinity............................0
+1133723326 R71-M0-N4 J14-U01  reserved.................................0
+1133723327 R71-M0-N4 J14-U01  invalid operation exception (software)...0
+1133723327 R71-M0-N4 J14-U01  invalid operation exception (sqrt).......0
+1133723327 R71-M0-N4 J14-U01  invalid operation exception (int cnvt)...0
+1133723327 R71-M0-N4 J14-U01  enable invalid operation exceptions......0
+1133723327 R71-M0-N4 J14-U01  enable overflow exceptions...............0
+1133723327 R71-M0-N4 J14-U01  enable underflow exceptions..............0
+1133723327 R71-M0-N4 J14-U01  enable divide-by-zero exceptions.........0
+1133723327 R71-M0-N4 J14-U01  enable inexact exceptions................0
+1133723327 R71-M0-N4 J14-U01  enable non-IEEE mode.....................0
+1133723328 R71-M0-N4 J14-U01  round nearest............................0
+1133723328 R71-M0-N4 J14-U01  round toward zero........................0
+1133723328 R71-M0-N4 J14-U01  round toward +infinity...................0
+1133723328 R71-M0-N4 J14-U01  round toward -infinity...................0
+1133723328 R71-M0-N4 J14-U01  Floating Point Registers:
+1133723328 R71-M0-N4 J14-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133723328 R71-M0-N4 J14-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133723328 R71-M0-N4 J14-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133723329 R71-M0-N4 J14-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133723330 R71-M0-N4 J14-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133723331 R71-M0-N4 J14-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133723332 R71-M0-N4 J14-U01  rts panic! - stopping execution
+1133723461 R71-M0-N4 J14-U01  Machine Check Status Register: 0xa0800000
+1133723461 R71-M0-N4 J14-U01  machine check summary.............1
+1133723461 R71-M0-N4 J14-U01  instruction plb error.............0
+1133723461 R71-M0-N4 J14-U01  data read plb error...............1
+1133723461 R71-M0-N4 J14-U01  data write plb error..............0
+1133723462 R71-M0-N4 J14-U01  tlb error.........................0
+1133723462 R71-M0-N4 J14-U01  i-cache parity error..............0
+1133723462 R71-M0-N4 J14-U01  d-cache search parity error.......0
+1133723462 R71-M0-N4 J14-U01  d-cache flush parity error........0
+1133723462 R71-M0-N4 J14-U01  imprecise machine check...........1
+1133723462 R71-M0-N4 J14-U01  Machine State Register: 0x00003000
+1133723462 R71-M0-N4 J14-U01  wait state enable.................0
+1133723463 R71-M0-N4 J14-U01  critical input interrupt enable...0
+1133723463 R71-M0-N4 J14-U01  external input interrupt enable...0
+1133723463 R71-M0-N4 J14-U01  problem state (0=sup,1=usr).......0
+1133723463 R71-M0-N4 J14-U01  floating point instr. enabled.....1
+1133723463 R71-M0-N4 J14-U01  machine check enable..............1
+1133723463 R71-M0-N4 J14-U01  floating pt ex mode 0 enable......0
+1133723463 R71-M0-N4 J14-U01  debug wait enable.................0
+1133723464 R71-M0-N4 J14-U01  debug interrupt enable............0
+1133723464 R71-M0-N4 J14-U01  floating pt ex mode 1 enable......0
+1133723464 R71-M0-N4 J14-U01  instruction address space.........0
+1133723464 R71-M0-N4 J14-U01  data address space................0
+1133723464 R71-M0-N4 J14-U01  Core Configuration Register 0: 0x00002000
+1133723464 R71-M0-N4 J14-U01  disable store gathering..................0
+1133723464 R71-M0-N4 J14-U01  disable apu instruction broadcast........0
+1133723465 R71-M0-N4 J14-U01  disable trace broadcast..................0
+1133723465 R71-M0-N4 J14-U01  guaranteed instruction cache block touch.0
+1133723465 R71-M0-N4 J14-U01  guaranteed data cache block touch........1
+1133723465 R71-M0-N4 J14-U01  force load/store alignment...............0
+1133723465 R71-M0-N4 J14-U01  icache prefetch depth....................0
+1133723465 R71-M0-N4 J14-U01  icache prefetch threshold................0
+1133723465 R71-M0-N4 J14-U01  L3 global control register: 0x001249f0
+1133723465 R71-M0-N4 J14-U01  start initialization.....................0
+1133723466 R71-M0-N4 J14-U01  start retagging..........................0
+1133723466 R71-M0-N4 J14-U01  start flushing...........................0
+1133723466 R71-M0-N4 J14-U01  start prefetching........................0
+1133723466 R71-M0-N4 J14-U01  disable speculative access...............0
+1133723466 R71-M0-N4 J14-U01  close EDRAM pages as soon as possible....0
+1133723466 R71-M0-N4 J14-U01  size of scratchpad portion of L3.........0 (0M)
+1133723467 R71-M0-N4 J14-U01  disable all access to cache directory....0
+1133723467 R71-M0-N4 J14-U01  write buffer commit threshold............2
+1133723467 R71-M0-N4 J14-U01  size of DDR we are caching...............1 (512M)
+1133723467 R71-M0-N4 J14-U01  prefetch depth for core 0................1
+1133723467 R71-M0-N4 J14-U01  prefetch depth for core 1................1
+1133723467 R71-M0-N4 J14-U01  prefetch depth for PLB slave.............1
+1133723468 R71-M0-N4 J14-U01  max number of outstanding prefetches.....7
+1133723468 R71-M0-N4 J14-U01  turn on hidden refreshes.................1
+1133723468 R71-M0-N4 J14-U01  disable write lines 2:4..................0
+1133723468 R71-M0-N4 J14-U01  L3 ecc control register: 00000000
+1133723468 R71-M0-N4 J14-U01  capture first directory correctable error address..0
+1133723468 R71-M0-N4 J14-U01  capture first directory uncorrectable error address..0
+1133723468 R71-M0-N4 J14-U01  capture first EDRAM correctable error address..0
+1133723469 R71-M0-N4 J14-U01  capture first EDRAM uncorrectable error address..0
+1133723469 R71-M0-N4 J14-U01  capture first EDRAM parity error address..0
+1133723469 R71-M0-N4 J14-U01  capture first DDR uncorrectable error address..0
+1133723469 R71-M0-N4 J14-U01  disable flagging of DDR UE's as major internal error.0
+1133723469 R71-M0-N4 J14-U01  L3 ecc status register: 00200000
+1133723469 R71-M0-N4 J14-U01  correctable error detected in directory 0......0
+1133723469 R71-M0-N4 J14-U01  correctable error detected in directory 1......0
+1133723470 R71-M0-N4 J14-U01  uncorrectable error detected in directory 0....0
+1133723470 R71-M0-N4 J14-U01  uncorrectable error detected in directory 1....0
+1133723470 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 0.....0
+1133723470 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 1.....0
+1133723470 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 0...0
+1133723470 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 1...0
+1133723470 R71-M0-N4 J14-U01  parity error in bank 0.........................0
+1133723470 R71-M0-N4 J14-U01  parity error in bank 1.........................0
+1133723471 R71-M0-N4 J14-U01  uncorrectable error detected in external DDR...1
+1133723471 R71-M0-N4 J14-U01  parity error in read queue 0...................0
+1133723471 R71-M0-N4 J14-U01  parity error in read queue 1...................0
+1133723471 R71-M0-N4 J14-U01  parity error in read queue PLB.................0
+1133723471 R71-M0-N4 J14-U01  parity error in write buffer...................0
+1133723472 R71-M0-N4 J14-U01  number of correctable errors detected in L3 directories...0
+1133723472 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723472 R71-M0-N4 J14-U01  number of correctable errors detected in L3 EDRAMs........0
+1133723472 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723472 R71-M0-N4 J14-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133723472 R71-M0-N4 J14-U01  DDR machine check register: 0x00000000 0x00010000
+1133723472 R71-M0-N4 J14-U01  memory and bus summary...........................0
+1133723473 R71-M0-N4 J14-U01  command manager unit summary.....................0
+1133723473 R71-M0-N4 J14-U01  memory manager uncorrectable error...............1
+1133723473 R71-M0-N4 J14-U01  memory manager strobe gate.......................0
+1133723473 R71-M0-N4 J14-U01  memory manager address parity error..............0
+1133723473 R71-M0-N4 J14-U01  memory manager miscompare........................0
+1133723473 R71-M0-N4 J14-U01  memory manager address error.....................0
+1133723473 R71-M0-N4 J14-U01  memory manager store buffer parity...............0
+1133723474 R71-M0-N4 J14-U01  memory manager RMW buffer parity.................0
+1133723474 R71-M0-N4 J14-U01  memory manager refresh...........................0
+1133723474 R71-M0-N4 J14-U01  memory manager refresh counter timeout...........0
+1133723474 R71-M0-N4 J14-U01  memory manager refresh contention................0
+1133723474 R71-M0-N4 J14-U01  state machine....................................0
+1133723474 R71-M0-N4 J14-U01  memory manager / command manager address parity..0
+1133723474 R71-M0-N4 J14-U01  regctl scancom interface.........................0
+1133723475 R71-M0-N4 J14-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133723475 R71-M0-N4 J14-U01  capture valid.........0
+1133723475 R71-M0-N4 J14-U01  symbol................0
+1133723475 R71-M0-N4 J14-U01  mask..................0x00
+1133723475 R71-M0-N4 J14-U01  miscompare............0
+1133723475 R71-M0-N4 J14-U01  uncorrectable error...0
+1133723475 R71-M0-N4 J14-U01  address parity error..0
+1133723476 R71-M0-N4 J14-U01  correctable error.....0
+1133723476 R71-M0-N4 J14-U01  qw trapped............0
+1133723476 R71-M0-N4 J14-U01  chip select...........0
+1133723476 R71-M0-N4 J14-U01  DDR failing data registers: 0x00000000 0x00000000
+1133723476 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723476 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723476 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723477 R71-M0-N4 J14-U01  DDR failing address register: 0x00000000 0x00000000
+1133723477 R71-M0-N4 J14-U01  General Purpose Registers:
+1133723477 R71-M0-N4 J14-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133723477 R71-M0-N4 J14-U01  r04=0xffff3474 r05=0x33330300 r06=0x0002e9ac r07=0x00030000
+1133723477 R71-M0-N4 J14-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133723477 R71-M0-N4 J14-U01  r12=0x44000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133723477 R71-M0-N4 J14-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133723478 R71-M0-N4 J14-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133723478 R71-M0-N4 J14-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133723478 R71-M0-N4 J14-U01  r28=0xffffc0c8 r29=0x0000017f r30=0x0000017f r31=0x0008db74
+1133723478 R71-M0-N4 J14-U01  Special Purpose Registers:
+1133723478 R71-M0-N4 J14-U01  lr=0x00000474 cr=0x44000024 xer=0x20000002 ctr=0x00000000
+1133723478 R71-M0-N4 J14-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133723478 R71-M0-N4 J14-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133723479 R71-M0-N4 J14-U01  Floating Point Status and Control Register: 0x00000000
+1133723479 R71-M0-N4 J14-U01  exception summary........................0
+1133723479 R71-M0-N4 J14-U01  enabled exception summary................0
+1133723479 R71-M0-N4 J14-U01  invalid operation exception summary......0
+1133723479 R71-M0-N4 J14-U01  overflow exception.......................0
+1133723479 R71-M0-N4 J14-U01  underflow exception......................0
+1133723479 R71-M0-N4 J14-U01  divide-by-zero exception.................0
+1133723480 R71-M0-N4 J14-U01  inexact exception........................0
+1133723480 R71-M0-N4 J14-U01  invalid (SNAN)...........................0
+1133723480 R71-M0-N4 J14-U01  invalid (Inf-Inf)........................0
+1133723480 R71-M0-N4 J14-U01  invalid (Inf/Inf)........................0
+1133723480 R71-M0-N4 J14-U01  invalid (Zero/Zero)......................0
+1133723480 R71-M0-N4 J14-U01  invalid (Inf/Zero).......................0
+1133723480 R71-M0-N4 J14-U01  invalid (compare)........................0
+1133723481 R71-M0-N4 J14-U01  fraction rounded.........................0
+1133723481 R71-M0-N4 J14-U01  fraction inexact.........................0
+1133723481 R71-M0-N4 J14-U01  quiet NaN................................0
+1133723481 R71-M0-N4 J14-U01  minus inf................................0
+1133723481 R71-M0-N4 J14-U01  minus normalized number..................0
+1133723481 R71-M0-N4 J14-U01  minus denormalized number................0
+1133723481 R71-M0-N4 J14-U01  minus zero...............................0
+1133723482 R71-M0-N4 J14-U01  plus zero................................0
+1133723482 R71-M0-N4 J14-U01  plus denormalized number.................0
+1133723482 R71-M0-N4 J14-U01  plus normalized number...................0
+1133723482 R71-M0-N4 J14-U01  plus infinity............................0
+1133723482 R71-M0-N4 J14-U01  reserved.................................0
+1133723482 R71-M0-N4 J14-U01  invalid operation exception (software)...0
+1133723482 R71-M0-N4 J14-U01  invalid operation exception (sqrt).......0
+1133723483 R71-M0-N4 J14-U01  invalid operation exception (int cnvt)...0
+1133723483 R71-M0-N4 J14-U01  enable invalid operation exceptions......0
+1133723483 R71-M0-N4 J14-U01  enable overflow exceptions...............0
+1133723483 R71-M0-N4 J14-U01  enable underflow exceptions..............0
+1133723483 R71-M0-N4 J14-U01  enable divide-by-zero exceptions.........0
+1133723483 R71-M0-N4 J14-U01  enable inexact exceptions................0
+1133723483 R71-M0-N4 J14-U01  enable non-IEEE mode.....................0
+1133723484 R71-M0-N4 J14-U01  round nearest............................0
+1133723484 R71-M0-N4 J14-U01  round toward zero........................0
+1133723484 R71-M0-N4 J14-U01  round toward +infinity...................0
+1133723484 R71-M0-N4 J14-U01  round toward -infinity...................0
+1133723484 R71-M0-N4 J14-U01  Floating Point Registers:
+1133723484 R71-M0-N4 J14-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133723484 R71-M0-N4 J14-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133723485 R71-M0-N4 J14-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133723486 R71-M0-N4 J14-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133723487 R71-M0-N4 J14-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133723488 R71-M0-N4 J14-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133723489 R71-M0-N4 J14-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133723489 R71-M0-N4 J14-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133723489 R71-M0-N4 J14-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133723489 R71-M0-N4 J14-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133723489 R71-M0-N4 J14-U01  rts panic! - stopping execution
+1133723618 R71-M0-N4 J14-U01  Machine Check Status Register: 0xa0800000
+1133723618 R71-M0-N4 J14-U01  machine check summary.............1
+1133723618 R71-M0-N4 J14-U01  instruction plb error.............0
+1133723618 R71-M0-N4 J14-U01  data read plb error...............1
+1133723619 R71-M0-N4 J14-U01  data write plb error..............0
+1133723619 R71-M0-N4 J14-U01  tlb error.........................0
+1133723619 R71-M0-N4 J14-U01  i-cache parity error..............0
+1133723619 R71-M0-N4 J14-U01  d-cache search parity error.......0
+1133723619 R71-M0-N4 J14-U01  d-cache flush parity error........0
+1133723620 R71-M0-N4 J14-U01  imprecise machine check...........1
+1133723620 R71-M0-N4 J14-U01  Machine State Register: 0x00003000
+1133723620 R71-M0-N4 J14-U01  wait state enable.................0
+1133723620 R71-M0-N4 J14-U01  critical input interrupt enable...0
+1133723620 R71-M0-N4 J14-U01  external input interrupt enable...0
+1133723620 R71-M0-N4 J14-U01  problem state (0=sup,1=usr).......0
+1133723620 R71-M0-N4 J14-U01  floating point instr. enabled.....1
+1133723621 R71-M0-N4 J14-U01  machine check enable..............1
+1133723621 R71-M0-N4 J14-U01  floating pt ex mode 0 enable......0
+1133723621 R71-M0-N4 J14-U01  debug wait enable.................0
+1133723621 R71-M0-N4 J14-U01  debug interrupt enable............0
+1133723621 R71-M0-N4 J14-U01  floating pt ex mode 1 enable......0
+1133723621 R71-M0-N4 J14-U01  instruction address space.........0
+1133723621 R71-M0-N4 J14-U01  data address space................0
+1133723622 R71-M0-N4 J14-U01  Core Configuration Register 0: 0x00002000
+1133723622 R71-M0-N4 J14-U01  disable store gathering..................0
+1133723622 R71-M0-N4 J14-U01  disable apu instruction broadcast........0
+1133723622 R71-M0-N4 J14-U01  disable trace broadcast..................0
+1133723622 R71-M0-N4 J14-U01  guaranteed instruction cache block touch.0
+1133723622 R71-M0-N4 J14-U01  guaranteed data cache block touch........1
+1133723623 R71-M0-N4 J14-U01  force load/store alignment...............0
+1133723623 R71-M0-N4 J14-U01  icache prefetch depth....................0
+1133723623 R71-M0-N4 J14-U01  icache prefetch threshold................0
+1133723623 R71-M0-N4 J14-U01  L3 global control register: 0x001249f0
+1133723623 R71-M0-N4 J14-U01  start initialization.....................0
+1133723623 R71-M0-N4 J14-U01  start retagging..........................0
+1133723623 R71-M0-N4 J14-U01  start flushing...........................0
+1133723624 R71-M0-N4 J14-U01  start prefetching........................0
+1133723624 R71-M0-N4 J14-U01  disable speculative access...............0
+1133723624 R71-M0-N4 J14-U01  close EDRAM pages as soon as possible....0
+1133723624 R71-M0-N4 J14-U01  size of scratchpad portion of L3.........0 (0M)
+1133723624 R71-M0-N4 J14-U01  disable all access to cache directory....0
+1133723624 R71-M0-N4 J14-U01  write buffer commit threshold............2
+1133723625 R71-M0-N4 J14-U01  size of DDR we are caching...............1 (512M)
+1133723625 R71-M0-N4 J14-U01  prefetch depth for core 0................1
+1133723625 R71-M0-N4 J14-U01  prefetch depth for core 1................1
+1133723625 R71-M0-N4 J14-U01  prefetch depth for PLB slave.............1
+1133723625 R71-M0-N4 J14-U01  max number of outstanding prefetches.....7
+1133723625 R71-M0-N4 J14-U01  turn on hidden refreshes.................1
+1133723625 R71-M0-N4 J14-U01  disable write lines 2:4..................0
+1133723626 R71-M0-N4 J14-U01  L3 ecc control register: 00000000
+1133723626 R71-M0-N4 J14-U01  capture first directory correctable error address..0
+1133723626 R71-M0-N4 J14-U01  capture first directory uncorrectable error address..0
+1133723626 R71-M0-N4 J14-U01  capture first EDRAM correctable error address..0
+1133723626 R71-M0-N4 J14-U01  capture first EDRAM uncorrectable error address..0
+1133723626 R71-M0-N4 J14-U01  capture first EDRAM parity error address..0
+1133723627 R71-M0-N4 J14-U01  capture first DDR uncorrectable error address..0
+1133723627 R71-M0-N4 J14-U01  disable flagging of DDR UE's as major internal error.0
+1133723627 R71-M0-N4 J14-U01  L3 ecc status register: 00200000
+1133723627 R71-M0-N4 J14-U01  correctable error detected in directory 0......0
+1133723627 R71-M0-N4 J14-U01  correctable error detected in directory 1......0
+1133723627 R71-M0-N4 J14-U01  uncorrectable error detected in directory 0....0
+1133723627 R71-M0-N4 J14-U01  uncorrectable error detected in directory 1....0
+1133723627 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 0.....0
+1133723628 R71-M0-N4 J14-U01  correctable error detected in EDRAM bank 1.....0
+1133723628 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 0...0
+1133723628 R71-M0-N4 J14-U01  uncorrectable error detected in EDRAM bank 1...0
+1133723628 R71-M0-N4 J14-U01  parity error in bank 0.........................0
+1133723628 R71-M0-N4 J14-U01  parity error in bank 1.........................0
+1133723628 R71-M0-N4 J14-U01  uncorrectable error detected in external DDR...1
+1133723628 R71-M0-N4 J14-U01  parity error in read queue 0...................0
+1133723629 R71-M0-N4 J14-U01  parity error in read queue 1...................0
+1133723629 R71-M0-N4 J14-U01  parity error in read queue PLB.................0
+1133723629 R71-M0-N4 J14-U01  parity error in write buffer...................0
+1133723629 R71-M0-N4 J14-U01  number of correctable errors detected in L3 directories...0
+1133723629 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723629 R71-M0-N4 J14-U01  number of correctable errors detected in L3 EDRAMs........0
+1133723630 R71-M0-N4 J14-U01  interrupt threshold...0
+1133723630 R71-M0-N4 J14-U01  number of lines with parity errors written to L3 EDRAMs...0
+1133723630 R71-M0-N4 J14-U01  DDR machine check register: 0x00000000 0x00010000
+1133723630 R71-M0-N4 J14-U01  memory and bus summary...........................0
+1133723630 R71-M0-N4 J14-U01  command manager unit summary.....................0
+1133723630 R71-M0-N4 J14-U01  memory manager uncorrectable error...............1
+1133723630 R71-M0-N4 J14-U01  memory manager strobe gate.......................0
+1133723630 R71-M0-N4 J14-U01  memory manager address parity error..............0
+1133723631 R71-M0-N4 J14-U01  memory manager miscompare........................0
+1133723631 R71-M0-N4 J14-U01  memory manager address error.....................0
+1133723631 R71-M0-N4 J14-U01  memory manager store buffer parity...............0
+1133723631 R71-M0-N4 J14-U01  memory manager RMW buffer parity.................0
+1133723631 R71-M0-N4 J14-U01  memory manager refresh...........................0
+1133723631 R71-M0-N4 J14-U01  memory manager refresh counter timeout...........0
+1133723631 R71-M0-N4 J14-U01  memory manager refresh contention................0
+1133723631 R71-M0-N4 J14-U01  state machine....................................0
+1133723632 R71-M0-N4 J14-U01  memory manager / command manager address parity..0
+1133723632 R71-M0-N4 J14-U01  regctl scancom interface.........................0
+1133723632 R71-M0-N4 J14-U01  DDR failing info register: DDR Fail Info Register: 0x00000000
+1133723632 R71-M0-N4 J14-U01  capture valid.........0
+1133723632 R71-M0-N4 J14-U01  symbol................0
+1133723632 R71-M0-N4 J14-U01  mask..................0x00
+1133723632 R71-M0-N4 J14-U01  miscompare............0
+1133723633 R71-M0-N4 J14-U01  uncorrectable error...0
+1133723633 R71-M0-N4 J14-U01  address parity error..0
+1133723633 R71-M0-N4 J14-U01  correctable error.....0
+1133723633 R71-M0-N4 J14-U01  qw trapped............0
+1133723633 R71-M0-N4 J14-U01  chip select...........0
+1133723633 R71-M0-N4 J14-U01  DDR failing data registers: 0x00000000 0x00000000
+1133723633 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723633 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723634 R71-M0-N4 J14-U01  0x00000000 0x00000000
+1133723634 R71-M0-N4 J14-U01  DDR failing address register: 0x00000000 0x00000000
+1133723634 R71-M0-N4 J14-U01  General Purpose Registers:
+1133723634 R71-M0-N4 J14-U01  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48
+1133723634 R71-M0-N4 J14-U01  r04=0xffff3474 r05=0x33330300 r06=0x0002e9ac r07=0x00030000
+1133723634 R71-M0-N4 J14-U01  r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1133723635 R71-M0-N4 J14-U01  r12=0x44000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1133723635 R71-M0-N4 J14-U01  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1133723635 R71-M0-N4 J14-U01  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1133723635 R71-M0-N4 J14-U01  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1133723635 R71-M0-N4 J14-U01  r28=0xffffc0c8 r29=0x0000017f r30=0x0000017f r31=0x0008db74
+1133723635 R71-M0-N4 J14-U01  Special Purpose Registers:
+1133723635 R71-M0-N4 J14-U01  lr=0x00000474 cr=0x44000024 xer=0x20000002 ctr=0x00000000
+1133723636 R71-M0-N4 J14-U01  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1133723636 R71-M0-N4 J14-U01  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133723636 R71-M0-N4 J14-U01  Floating Point Status and Control Register: 0x00000000
+1133723636 R71-M0-N4 J14-U01  exception summary........................0
+1133723636 R71-M0-N4 J14-U01  enabled exception summary................0
+1133723636 R71-M0-N4 J14-U01  invalid operation exception summary......0
+1133723636 R71-M0-N4 J14-U01  overflow exception.......................0
+1133723637 R71-M0-N4 J14-U01  underflow exception......................0
+1133723637 R71-M0-N4 J14-U01  divide-by-zero exception.................0
+1133723637 R71-M0-N4 J14-U01  inexact exception........................0
+1133723637 R71-M0-N4 J14-U01  invalid (SNAN)...........................0
+1133723637 R71-M0-N4 J14-U01  invalid (Inf-Inf)........................0
+1133723637 R71-M0-N4 J14-U01  invalid (Inf/Inf)........................0
+1133723637 R71-M0-N4 J14-U01  invalid (Zero/Zero)......................0
+1133723637 R71-M0-N4 J14-U01  invalid (Inf/Zero).......................0
+1133723638 R71-M0-N4 J14-U01  invalid (compare)........................0
+1133723638 R71-M0-N4 J14-U01  fraction rounded.........................0
+1133723638 R71-M0-N4 J14-U01  fraction inexact.........................0
+1133723638 R71-M0-N4 J14-U01  quiet NaN................................0
+1133723638 R71-M0-N4 J14-U01  minus inf................................0
+1133723638 R71-M0-N4 J14-U01  minus normalized number..................0
+1133723638 R71-M0-N4 J14-U01  minus denormalized number................0
+1133723639 R71-M0-N4 J14-U01  minus zero...............................0
+1133723639 R71-M0-N4 J14-U01  plus zero................................0
+1133723639 R71-M0-N4 J14-U01  plus denormalized number.................0
+1133723639 R71-M0-N4 J14-U01  plus normalized number...................0
+1133723639 R71-M0-N4 J14-U01  plus infinity............................0
+1133723639 R71-M0-N4 J14-U01  reserved.................................0
+1133723640 R71-M0-N4 J14-U01  invalid operation exception (software)...0
+1133723640 R71-M0-N4 J14-U01  invalid operation exception (sqrt).......0
+1133723640 R71-M0-N4 J14-U01  invalid operation exception (int cnvt)...0
+1133723640 R71-M0-N4 J14-U01  enable invalid operation exceptions......0
+1133723640 R71-M0-N4 J14-U01  enable overflow exceptions...............0
+1133723640 R71-M0-N4 J14-U01  enable underflow exceptions..............0
+1133723640 R71-M0-N4 J14-U01  enable divide-by-zero exceptions.........0
+1133723640 R71-M0-N4 J14-U01  enable inexact exceptions................0
+1133723641 R71-M0-N4 J14-U01  enable non-IEEE mode.....................0
+1133723641 R71-M0-N4 J14-U01  round nearest............................0
+1133723641 R71-M0-N4 J14-U01  round toward zero........................0
+1133723641 R71-M0-N4 J14-U01  round toward +infinity...................0
+1133723641 R71-M0-N4 J14-U01  round toward -infinity...................0
+1133723641 R71-M0-N4 J14-U01  Floating Point Registers:
+1133723641 R71-M0-N4 J14-U01  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1133723641 R71-M0-N4 J14-U01  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1133723642 R71-M0-N4 J14-U01  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1133723643 R71-M0-N4 J14-U01  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1133723644 R71-M0-N4 J14-U01  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1133723645 R71-M0-N4 J14-U01  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1133723646 R71-M0-N4 J14-U01  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1133723646 R71-M0-N4 J14-U01  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1133723646 R71-M0-N4 J14-U01  rts panic! - stopping execution
+1133723726 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N12. A service action may be required.
+1133723726 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N14. A service action may be required.
+1133723726 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N15. A service action may be required.
+1133723726 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N13. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N8. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N10. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N11. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N9. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N6. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N7. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N5. A service action may be required.
+1133723727 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N0. A service action may be required.
+1133723728 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N2. A service action may be required.
+1133723728 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N3. A service action may be required.
+1133723728 R70-M0-NC J18-U11  Power Good signal deactivated: R71-M0-N1. A service action may be required.
+1133723739 R71-M0-N4 J14-U01  L3 major internal error
+1133723739 R71-M0-N4 J14-U01  L3 major internal error

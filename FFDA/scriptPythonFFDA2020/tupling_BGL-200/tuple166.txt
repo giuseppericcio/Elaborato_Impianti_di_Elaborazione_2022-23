@@ -1,0 +1,46 @@
+1131927484 R63-M0-N6 J15-U01  machine check interrupt
+1131927484 R63-M0-N6 J15-U01  instruction address: 0x0010eabc
+1131927485 R63-M0-N6 J15-U01  machine check status register: 0x81000000
+1131927485 R63-M0-N6 J15-U01  summary...........................1
+1131927485 R63-M0-N6 J15-U01  instruction plb error.............0
+1131927485 R63-M0-N6 J15-U01  data read plb error...............0
+1131927485 R63-M0-N6 J15-U01  data write plb error..............0
+1131927485 R63-M0-N6 J15-U01  tlb error.........................0
+1131927486 R63-M0-N6 J15-U01  i-cache parity error..............0
+1131927486 R63-M0-N6 J15-U01  d-cache search parity error.......0
+1131927486 R63-M0-N6 J15-U01  d-cache flush parity error........1
+1131927486 R63-M0-N6 J15-U01  imprecise machine check...........0
+1131927486 R63-M0-N6 J15-U01  machine state register: 0x0002f900
+1131927486 R63-M0-N6 J15-U01  wait state enable.................0
+1131927486 R63-M0-N6 J15-U01  critical input interrupt enable...1
+1131927487 R63-M0-N6 J15-U01  external input interrupt enable...1
+1131927487 R63-M0-N6 J15-U01  problem state (0=sup,1=usr).......1
+1131927487 R63-M0-N6 J15-U01  floating point instr. enabled.....1
+1131927487 R63-M0-N6 J15-U01  machine check enable..............1
+1131927487 R63-M0-N6 J15-U01  floating pt ex mode 0 enable......1
+1131927487 R63-M0-N6 J15-U01  debug wait enable.................0
+1131927488 R63-M0-N6 J15-U01  debug interrupt enable............0
+1131927488 R63-M0-N6 J15-U01  floating pt ex mode 1 enable......1
+1131927488 R63-M0-N6 J15-U01  instruction address space.........0
+1131927488 R63-M0-N6 J15-U01  data address space................0
+1131927488 R63-M0-N6 J15-U01  core configuration register: 0x00002000
+1131927488 R63-M0-N6 J15-U01  disable store gathering..................0
+1131927489 R63-M0-N6 J15-U01  disable apu instruction broadcast........0
+1131927489 R63-M0-N6 J15-U01  disable trace broadcast..................0
+1131927489 R63-M0-N6 J15-U01  guaranteed instruction cache block touch.0
+1131927490 R63-M0-N6 J15-U01  guaranteed data cache block touch........1
+1131927493 R63-M0-N6 J15-U01  force load/store alignment...............0
+1131927502 R63-M0-N6 J15-U01  icache prefetch depth....................0
+1131927511 R63-M0-N6 J15-U01  icache prefetch threshold................0
+1131927519 R63-M0-N6 J15-U01  general purpose registers:
+1131927528 R63-M0-N6 J15-U01  0:0a3a7140 1:0feea610 2:1eeeeeee 3:000044f0
+1131927534 R63-M0-N6 J15-U01  4:00004740 5:09b330e0 6:001470c0 7:000051c4
+1131927541 R63-M0-N6 J15-U01  8:090047a0 9:ffffffff 10:00000000 11:00000000
+1131927545 R63-M0-N6 J15-U01  12:00000000 13:1eeeeeee 14:00000000 15:009c2ad0
+1131927547 R63-M0-N6 J15-U01  16:000059c3 17:000008e8 18:0000089e 19:0021fa20
+1131927549 R63-M0-N6 J15-U01  20:0021fa14 21:00207540 22:00282c30 23:00020754
+1131927551 R63-M0-N6 J15-U01  24:00000000 25:00000008 26:0986c9f0 27:08dc3230
+1131927552 R63-M0-N6 J15-U01  28:0912f6d0 29:0029b6b0 30:00eb3e40 31:00eb3dd0
+1131927553 R63-M0-N6 J15-U01  special purpose registers:
+1131927554 R63-M0-N6 J15-U01  lr:0010e9a4 cr:44444824 xer:20000002 ctr:00000000
+1131927555 R63-M0-N6 J15-U01  rts panic! - stopping execution

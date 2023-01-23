@@ -1,0 +1,20 @@
+1128894889 R45-M1-NC J14-U01  machine check interrupt
+1128894889 R45-M1-NC J14-U01  instruction address: 0x0023d160
+1128894890 R45-M1-NC J14-U01  machine check status register: 0x82000000
+1128894890 R45-M1-NC J14-U01  summary...........................1
+1128894890 R45-M1-NC J14-U01  instruction plb error.............0
+1128894890 R45-M1-NC J14-U01  data read plb error...............0
+1128894891 R45-M1-NC J14-U01  data write plb error..............0
+1128894891 R45-M1-NC J14-U01  tlb error.........................0
+1128894891 R45-M1-NC J14-U01  i-cache parity error..............0
+1128894891 R45-M1-NC J14-U01  d-cache search parity error.......1
+1128894892 R45-M1-NC J14-U01  d-cache flush parity error........0
+1128894892 R45-M1-NC J14-U01  imprecise machine check...........0
+1128894892 R45-M1-NC J14-U01  machine state register: 0x0002f900
+1128894892 R45-M1-NC J14-U01  wait state enable.................0
+1128894893 R45-M1-NC J14-U01  critical input interrupt enable...1
+1128894893 R45-M1-NC J14-U01  external input interrupt enable...1
+1128894898 R45-M1-NC J14-U01  problem state (0=sup,1=usr).......1
+1128894912 R45-M1-NC J14-U01  floating point instr. enabled.....1
+1128894935 R45-M1-NC J14-U01  machine check enable..............1
+1128894963 R45-M1-NC J14-U01  floating pt ex mode 0 enable......1

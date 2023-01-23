@@ -1,0 +1,2 @@
+1129925989 R71-M0-N4 J18-U11  ciod: Error loading /home/rfisher/sodscaling/flash2: program image too big, 381013696 > 266076160
+1129925989 R71-M0-N4 J18-U01  ciod: Error loading /home/rfisher/sodscaling/flash2: program image too big, 381013696 > 266076160

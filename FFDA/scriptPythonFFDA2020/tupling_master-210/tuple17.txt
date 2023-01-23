@@ -1,0 +1,2 @@
+1170114156 tg-master I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1170114156 tg-master I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)

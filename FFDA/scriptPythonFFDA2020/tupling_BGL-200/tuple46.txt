@@ -1,0 +1,16 @@
+1129500234 R02-M0-N4 J04-U11  machine check interrupt
+1129500235 R02-M0-N4 J04-U11  instruction address: 0x00170f54
+1129500235 R02-M0-N4 J04-U11  machine check status register: 0x82000000
+1129500235 R02-M0-N4 J04-U11  summary...........................1
+1129500239 R02-M0-N4 J04-U11  instruction plb error.............0
+1129500247 R02-M0-N4 J04-U11  data read plb error...............0
+1129500259 R02-M0-N4 J04-U11  data write plb error..............0
+1129500271 R02-M0-N4 J04-U11  tlb error.........................0
+1129500282 R02-M0-N4 J04-U11  i-cache parity error..............0
+1129500292 R02-M0-N4 J04-U11  d-cache search parity error.......1
+1129500302 R02-M0-N4 J04-U11  d-cache flush parity error........0
+1129500312 R02-M0-N4 J04-U11  imprecise machine check...........0
+1129500322 R02-M0-N4 J04-U11  machine state register: 0x0002f900
+1129500332 R02-M0-N4 J04-U11  wait state enable.................0
+1129500342 R02-M0-N4 J04-U11  critical input interrupt enable...1
+1129500360 R02-M0-N4 J04-U11  external input interrupt enable...1

@@ -1,0 +1,46 @@
+1131945419 R65-M1-ND J08-U01  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1131945419 R65-M1-ND J08-U01  instruction address: 0x001a6584
+1131945420 R65-M1-ND J08-U01  machine check status register: 0x91800000
+1131945420 R65-M1-ND J08-U01  summary...........................1
+1131945420 R65-M1-ND J08-U01  instruction plb error.............0
+1131945420 R65-M1-ND J08-U01  data read plb error...............0
+1131945420 R65-M1-ND J08-U01  data write plb error..............1
+1131945420 R65-M1-ND J08-U01  tlb error.........................0
+1131945420 R65-M1-ND J08-U01  i-cache parity error..............0
+1131945421 R65-M1-ND J08-U01  d-cache search parity error.......0
+1131945421 R65-M1-ND J08-U01  d-cache flush parity error........1
+1131945421 R65-M1-ND J08-U01  imprecise machine check...........1
+1131945421 R65-M1-ND J08-U01  machine state register: 0x0002f900
+1131945421 R65-M1-ND J08-U01  wait state enable.................0
+1131945421 R65-M1-ND J08-U01  critical input interrupt enable...1
+1131945422 R65-M1-ND J08-U01  external input interrupt enable...1
+1131945422 R65-M1-ND J08-U01  problem state (0=sup,1=usr).......1
+1131945422 R65-M1-ND J08-U01  floating point instr. enabled.....1
+1131945422 R65-M1-ND J08-U01  machine check enable..............1
+1131945422 R65-M1-ND J08-U01  floating pt ex mode 0 enable......1
+1131945422 R65-M1-ND J08-U01  debug wait enable.................0
+1131945423 R65-M1-ND J08-U01  debug interrupt enable............0
+1131945423 R65-M1-ND J08-U01  floating pt ex mode 1 enable......1
+1131945423 R65-M1-ND J08-U01  instruction address space.........0
+1131945424 R65-M1-ND J08-U01  data address space................0
+1131945425 R65-M1-ND J08-U01  core configuration register: 0x00002000
+1131945430 R65-M1-ND J08-U01  disable store gathering..................0
+1131945436 R65-M1-ND J08-U01  disable apu instruction broadcast........0
+1131945442 R65-M1-ND J08-U01  disable trace broadcast..................0
+1131945448 R65-M1-ND J08-U01  guaranteed instruction cache block touch.0
+1131945454 R65-M1-ND J08-U01  guaranteed data cache block touch........1
+1131945459 R65-M1-ND J08-U01  force load/store alignment...............0
+1131945464 R65-M1-ND J08-U01  icache prefetch depth....................0
+1131945466 R65-M1-ND J08-U01  icache prefetch threshold................0
+1131945466 R65-M1-ND J08-U01  general purpose registers:
+1131945466 R65-M1-ND J08-U01  0:0a43b1f0 1:0fee9f60 2:1eeeeeee 3:b1145000
+1131945467 R65-M1-ND J08-U01  4:08df35a0 5:0a24a4c0 6:0a24a4d0 7:0a24a520
+1131945467 R65-M1-ND J08-U01  8:00000010 9:afffffff 10:00001e10 11:0a2486b0
+1131945467 R65-M1-ND J08-U01  12:44000844 13:1eeeeeee 14:ffffffff 15:ffffffff
+1131945468 R65-M1-ND J08-U01  16:0021e750 17:0021e744 18:0021e738 19:00000000
+1131945468 R65-M1-ND J08-U01  20:00e00660 21:00dc4aa0 22:40000000 23:0feea0a0
+1131945468 R65-M1-ND J08-U01  24:00000000 25:003ba03c 26:00000008 27:003b9f60
+1131945469 R65-M1-ND J08-U01  28:003ba04c 29:0043a8e0 30:b1145000 31:08df3480
+1131945469 R65-M1-ND J08-U01  special purpose registers:
+1131945469 R65-M1-ND J08-U01  lr:0019235c cr:44002844 xer:00000002 ctr:001922cc
+1131945469 R65-M1-ND J08-U01  rts panic! - stopping execution

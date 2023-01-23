@@ -1,0 +1,14 @@
+1129775798 R35-M0-NA J13-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1129775799 R35-M0-NA J13-U11  instruction address: 0x00132484
+1129775799 R35-M0-NA J13-U11  machine check status register: 0x91800000
+1129775799 R35-M0-NA J13-U11  summary...........................1
+1129775799 R35-M0-NA J13-U11  instruction plb error.............0
+1129775800 R35-M0-NA J13-U11  data read plb error...............0
+1129775800 R35-M0-NA J13-U11  data write plb error..............1
+1129775800 R35-M0-NA J13-U11  tlb error.........................0
+1129775801 R35-M0-NA J13-U11  i-cache parity error..............0
+1129775802 R35-M0-NA J13-U11  d-cache search parity error.......0
+1129775809 R35-M0-NA J13-U11  d-cache flush parity error........1
+1129775822 R35-M0-NA J13-U11  imprecise machine check...........1
+1129775836 R35-M0-NA J13-U11  machine state register: 0x0002f900
+1129775857 R35-M0-NA J13-U11  wait state enable.................0

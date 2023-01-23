@@ -1,0 +1,259 @@
+1135782762 R10-M0-N8 J12-U11  machine check interrupt (bit=0x1d): L2 dcache unit write data parity error
+1135782762 R10-M0-N8 J12-U11  instruction address: 0x00203558
+1135782762 R10-M0-N8 J12-U11  Machine Check Status Register: 0x91800000
+1135782762 R10-M0-N8 J12-U11  machine check summary.............1
+1135782762 R10-M0-N8 J12-U11  instruction plb error.............0
+1135782762 R10-M0-N8 J12-U11  data read plb error...............0
+1135782763 R10-M0-N8 J12-U11  data write plb error..............1
+1135782763 R10-M0-N8 J12-U11  tlb error.........................0
+1135782763 R10-M0-N8 J12-U11  i-cache parity error..............0
+1135782763 R10-M0-N8 J12-U11  d-cache search parity error.......0
+1135782763 R10-M0-N8 J12-U11  d-cache flush parity error........1
+1135782763 R10-M0-N8 J12-U11  imprecise machine check...........1
+1135782763 R10-M0-N8 J12-U11  Machine State Register: 0x0002f900
+1135782764 R10-M0-N8 J12-U11  wait state enable.................0
+1135782764 R10-M0-N8 J12-U11  critical input interrupt enable...1
+1135782764 R10-M0-N8 J12-U11  external input interrupt enable...1
+1135782764 R10-M0-N8 J12-U11  problem state (0=sup,1=usr).......1
+1135782764 R10-M0-N8 J12-U11  floating point instr. enabled.....1
+1135782764 R10-M0-N8 J12-U11  machine check enable..............1
+1135782764 R10-M0-N8 J12-U11  floating pt ex mode 0 enable......1
+1135782765 R10-M0-N8 J12-U11  debug wait enable.................0
+1135782765 R10-M0-N8 J12-U11  debug interrupt enable............0
+1135782765 R10-M0-N8 J12-U11  floating pt ex mode 1 enable......1
+1135782765 R10-M0-N8 J12-U11  instruction address space.........0
+1135782765 R10-M0-N8 J12-U11  data address space................0
+1135782765 R10-M0-N8 J12-U11  Core Configuration Register 0: 0x00002000
+1135782765 R10-M0-N8 J12-U11  disable store gathering..................0
+1135782765 R10-M0-N8 J12-U11  disable apu instruction broadcast........0
+1135782766 R10-M0-N8 J12-U11  disable trace broadcast..................0
+1135782766 R10-M0-N8 J12-U11  guaranteed instruction cache block touch.0
+1135782766 R10-M0-N8 J12-U11  guaranteed data cache block touch........1
+1135782766 R10-M0-N8 J12-U11  force load/store alignment...............0
+1135782766 R10-M0-N8 J12-U11  icache prefetch depth....................0
+1135782766 R10-M0-N8 J12-U11  icache prefetch threshold................0
+1135782766 R10-M0-N8 J12-U11  General Purpose Registers:
+1135782767 R10-M0-N8 J12-U11  r00=0x00000000 r01=0x0ffea670 r02=0x1eeeeeee r03=0x0092bdc0
+1135782767 R10-M0-N8 J12-U11  r04=0x00000090 r05=0x00000000 r06=0x00340000 r07=0x00000000
+1135782767 R10-M0-N8 J12-U11  r08=0x00000420 r09=0x10a95afd r10=0x0030b350 r11=0x0030a508
+1135782767 R10-M0-N8 J12-U11  r12=0x00000028 r13=0x1eeeeeee r14=0x0092be50 r15=0x0092c000
+1135782767 R10-M0-N8 J12-U11  r16=0x00000001 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1135782767 R10-M0-N8 J12-U11  r20=0x00000000 r21=0x00000001 r22=0x00000000 r23=0x00000004
+1135782767 R10-M0-N8 J12-U11  r24=0x00000000 r25=0x00000424 r26=0x00000428 r27=0x00000000
+1135782768 R10-M0-N8 J12-U11  r28=0x00000058 r29=0x00000000 r30=0x00352640 r31=0x00000000
+1135782768 R10-M0-N8 J12-U11  Special Purpose Registers:
+1135782768 R10-M0-N8 J12-U11  lr=0x002034cc cr=0x82848044 xer=0x00000002 ctr=0x00266f2c
+1135782768 R10-M0-N8 J12-U11  msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0xa6320000
+1135782768 R10-M0-N8 J12-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1135782768 R10-M0-N8 J12-U11  Floating Point Status and Control Register: 0xa6320000
+1135782768 R10-M0-N8 J12-U11  exception summary........................1
+1135782768 R10-M0-N8 J12-U11  enabled exception summary................0
+1135782769 R10-M0-N8 J12-U11  invalid operation exception summary......1
+1135782769 R10-M0-N8 J12-U11  overflow exception.......................0
+1135782769 R10-M0-N8 J12-U11  underflow exception......................0
+1135782769 R10-M0-N8 J12-U11  divide-by-zero exception.................1
+1135782769 R10-M0-N8 J12-U11  inexact exception........................1
+1135782769 R10-M0-N8 J12-U11  invalid (SNAN)...........................0
+1135782769 R10-M0-N8 J12-U11  invalid (Inf-Inf)........................0
+1135782769 R10-M0-N8 J12-U11  invalid (Inf/Inf)........................0
+1135782770 R10-M0-N8 J12-U11  invalid (Zero/Zero)......................1
+1135782770 R10-M0-N8 J12-U11  invalid (Inf/Zero).......................1
+1135782770 R10-M0-N8 J12-U11  invalid (compare)........................0
+1135782770 R10-M0-N8 J12-U11  fraction rounded.........................0
+1135782770 R10-M0-N8 J12-U11  fraction inexact.........................1
+1135782770 R10-M0-N8 J12-U11  quiet NaN................................0
+1135782770 R10-M0-N8 J12-U11  minus inf................................0
+1135782770 R10-M0-N8 J12-U11  minus normalized number..................0
+1135782771 R10-M0-N8 J12-U11  minus denormalized number................0
+1135782771 R10-M0-N8 J12-U11  minus zero...............................0
+1135782771 R10-M0-N8 J12-U11  plus zero................................0
+1135782771 R10-M0-N8 J12-U11  plus denormalized number.................0
+1135782771 R10-M0-N8 J12-U11  plus normalized number...................0
+1135782771 R10-M0-N8 J12-U11  plus infinity............................0
+1135782772 R10-M0-N8 J12-U11  reserved.................................0
+1135782772 R10-M0-N8 J12-U11  invalid operation exception (software)...0
+1135782772 R10-M0-N8 J12-U11  invalid operation exception (sqrt).......0
+1135782772 R10-M0-N8 J12-U11  invalid operation exception (int cnvt)...0
+1135782772 R10-M0-N8 J12-U11  enable invalid operation exceptions......0
+1135782772 R10-M0-N8 J12-U11  enable overflow exceptions...............0
+1135782772 R10-M0-N8 J12-U11  enable underflow exceptions..............0
+1135782772 R10-M0-N8 J12-U11  enable divide-by-zero exceptions.........0
+1135782773 R10-M0-N8 J12-U11  enable inexact exceptions................0
+1135782773 R10-M0-N8 J12-U11  enable non-IEEE mode.....................0
+1135782773 R10-M0-N8 J12-U11  round nearest............................0
+1135782773 R10-M0-N8 J12-U11  round toward zero........................0
+1135782773 R10-M0-N8 J12-U11  round toward +infinity...................0
+1135782773 R10-M0-N8 J12-U11  round toward -infinity...................0
+1135782773 R10-M0-N8 J12-U11  Floating Point Registers:
+1135782773 R10-M0-N8 J12-U11  fpr0=0x00000000 00000000 00000001 7fffffff
+1135782774 R10-M0-N8 J12-U11  fpr1=0x00000000 00000000 00366650 3fbb3328
+1135782774 R10-M0-N8 J12-U11  fpr2=0x00000000 00000000 00200000 3e000000
+1135782774 R10-M0-N8 J12-U11  fpr3=0x00000000 00000000 00000000 40100000
+1135782774 R10-M0-N8 J12-U11  fpr4=0x00000000 00000000 00000000 3ff80000
+1135782774 R10-M0-N8 J12-U11  fpr5=0x00000000 00000000 00000000 3ff00000
+1135782774 R10-M0-N8 J12-U11  fpr6=0x00000000 00000000 c21003e6 bfb0bf8d
+1135782774 R10-M0-N8 J12-U11  fpr7=0x00000000 00000000 cb99f519 bc7ae242
+1135782775 R10-M0-N8 J12-U11  fpr8=0x00000000 00000000 3145c070 3c5a6263
+1135782775 R10-M0-N8 J12-U11  fpr9=0x00000000 00000000 fa52ad9f 3fecfc6c
+1135782775 R10-M0-N8 J12-U11  fpr10=0x00000000 00000000 05321617 3fdb1d83
+1135782775 R10-M0-N8 J12-U11  fpr11=0x00000000 00000000 00000000 3c7c0000
+1135782775 R10-M0-N8 J12-U11  fpr12=0x00000000 00000000 2631e9c3 3fed0893
+1135782775 R10-M0-N8 J12-U11  fpr13=0x00000000 00000000 72a74c77 bf5863cb
+1135782775 R10-M0-N8 J12-U11  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1135782775 R10-M0-N8 J12-U11  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1135782776 R10-M0-N8 J12-U11  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1135782776 R10-M0-N8 J12-U11  fpr17=0xffffffff ffffffff 642c8590 40390b21
+1135782776 R10-M0-N8 J12-U11  fpr18=0xffffffff ffffffff 3d4761d3 400194e9
+1135782776 R10-M0-N8 J12-U11  fpr19=0xffffffff ffffffff 33333333 3fd33333
+1135782776 R10-M0-N8 J12-U11  fpr20=0xffffffff ffffffff 00000000 40260000
+1135782776 R10-M0-N8 J12-U11  fpr21=0xffffffff ffffffff 1d9af769 40287623
+1135782777 R10-M0-N8 J12-U11  fpr22=0xffffffff ffffffff bcf1da04 4042aa96
+1135782777 R10-M0-N8 J12-U11  fpr23=0xffffffff ffffffff 54442d18 400921fb
+1135782777 R10-M0-N8 J12-U11  fpr24=0xffffffff ffffffff 00000000 bfe00000
+1135782777 R10-M0-N8 J12-U11  fpr25=0xffffffff ffffffff 00000000 3fd80000
+1135782777 R10-M0-N8 J12-U11  fpr26=0xffffffff ffffffff 00000000 bfd40000
+1135782777 R10-M0-N8 J12-U11  fpr27=0xffffffff ffffffff 00000000 bff00000
+1135782777 R10-M0-N8 J12-U11  fpr28=0xffffffff ffffffff 80000000 c3300000
+1135782777 R10-M0-N8 J12-U11  fpr29=0xffffffff ffffffff 00000000 3ff00000
+1135782778 R10-M0-N8 J12-U11  fpr30=0xffffffff ffffffff 00000000 3fe00000
+1135782778 R10-M0-N8 J12-U11  fpr31=0xffffffff ffffffff 78d4fdf3 4043a6e9
+1135782778 R10-M0-N8 J12-U11  rts panic! - stopping execution
+1135782784 R15-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49907, Link has been severed
+1135782784 R14-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49893, Link has been severed
+1135782784 R05-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49781, Link has been severed
+1135782785 R14-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49890, Link has been severed
+1135782785 R14-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49889, Link has been severed
+1135782785 R16-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49921, Link has been severed
+1135782785 R15-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49901, Link has been severed
+1135782786 R06-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49784, Link has been severed
+1135782786 R11-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49844, Link has been severed
+1135782786 R14-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49882, Link has been severed
+1135782786 R16-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49915, Link has been severed
+1135782787 R03-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49748, Link has been severed
+1135782787 R04-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49764, Link has been severed
+1135782787 R04-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49761, Link has been severed
+1135782788 R07-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49806, Link has been severed
+1135782788 R17-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49940, Link has been severed
+1135782788 R02-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49725, Link has been severed
+1135782788 R07-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49807, Link has been severed
+1135782789 R06-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49794, Link has been severed
+1135782789 R11-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49839, Link has been severed
+1135782789 R13-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49878, Link has been severed
+1135782789 R13-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49877, Link has been severed
+1135782790 R13-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49872, Link has been severed
+1135782790 R13-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49865, Link has been severed
+1135782790 R06-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49785, Link has been severed
+1135782790 R06-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49787, Link has been severed
+1135782791 R06-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49790, Link has been severed
+1135782791 R06-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49789, Link has been severed
+1135782794 R10-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49822, Link has been severed
+1135782795 R10-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49820, Link has been severed
+1135782795 R10-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49819, Link has been severed
+1135782795 R10-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49826, Link has been severed
+1135782795 R10-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49825, Link has been severed
+1135782795 R10-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49828, Link has been severed
+1135782795 R17-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49942, Link has been severed
+1135782796 R17-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49941, Link has been severed
+1135782796 R16-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49924, Link has been severed
+1135782796 R16-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49923, Link has been severed
+1135782796 R12-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49855, Link has been severed
+1135782796 R15-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49909, Link has been severed
+1135782796 R10-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49816, Link has been severed
+1135782796 R10-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49815, Link has been severed
+1135782797 R10-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49817, Link has been severed
+1135782797 R12-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49854, Link has been severed
+1135782797 R15-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49904, Link has been severed
+1135782797 R16-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49919, Link has been severed
+1135782797 R10-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49824, Link has been severed
+1135782798 R07-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49809, Link has been severed
+1135782798 R00-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49698, Link has been severed
+1135782798 R14-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49885, Link has been severed
+1135782798 R05-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49769, Link has been severed
+1135782798 R00-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49696, Link has been severed
+1135782798 R00-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49695, Link has been severed
+1135782799 R14-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49883, Link has been severed
+1135782799 R12-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49850, Link has been severed
+1135782799 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49848, Link has been severed
+1135782799 R16-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49925, Link has been severed
+1135782799 R00-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49691, Link has been severed
+1135782800 R05-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49782, Link has been severed
+1135782800 R03-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49735, Link has been severed
+1135782800 R00-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49689, Link has been severed
+1135782800 R15-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49898, Link has been severed
+1135782800 R02-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49730, Link has been severed
+1135782800 R11-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49838, Link has been severed
+1135782801 R03-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49740, Link has been severed
+1135782801 R11-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49832, Link has been severed
+1135782801 R11-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49831, Link has been severed
+1135782801 R12-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49860, Link has been severed
+1135782801 R12-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49859, Link has been severed
+1135782801 R03-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49742, Link has been severed
+1135782802 R11-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49843, Link has been severed
+1135782802 R14-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49880, Link has been severed
+1135782802 R14-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49879, Link has been severed
+1135782802 R17-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49937, Link has been severed
+1135782802 R04-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49758, Link has been severed
+1135782802 R04-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49757, Link has been severed
+1135782803 R04-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49754, Link has been severed
+1135782803 R04-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49756, Link has been severed
+1135782803 R04-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49755, Link has been severed
+1135782803 R16-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49916, Link has been severed
+1135782803 R02-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49723, Link has been severed
+1135782803 R01-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49708, Link has been severed
+1135782804 R01-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49707, Link has been severed
+1135782804 R02-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49727, Link has been severed
+1135782804 R02-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49728, Link has been severed
+1135782804 R00-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49694, Link has been severed
+1135782804 R11-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49835, Link has been severed
+1135782805 R04-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49763, Link has been severed
+1135782805 R01-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49703, Link has been severed
+1135782805 R01-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49718, Link has been severed
+1135782805 R01-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49717, Link has been severed
+1135782805 R11-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49842, Link has been severed
+1135782806 R03-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49738, Link has been severed
+1135782806 R03-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49737, Link has been severed
+1135782806 R07-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49802, Link has been severed
+1135782806 R07-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49801, Link has been severed
+1135782806 R01-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49711, Link has been severed
+1135782806 R01-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49716, Link has been severed
+1135782807 R01-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49715, Link has been severed
+1135782807 R02-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49733, Link has been severed
+1135782807 R17-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49931, Link has been severed
+1135782807 R04-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49762, Link has been severed
+1135782807 R17-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49933, Link has been severed
+1135782807 R17-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49927, Link has been severed
+1135782808 R07-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49803, Link has been severed
+1135782808 R02-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49726, Link has been severed
+1135782808 R13-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49875, Link has been severed
+1135782808 R02-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49731, Link has been severed
+1135782808 R01-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49714, Link has been severed
+1135782809 R02-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49720, Link has been severed
+1135782809 R05-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49779, Link has been severed
+1135782809 R05-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49772, Link has been severed
+1135782809 R05-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49771, Link has been severed
+1135782809 R01-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49705, Link has been severed
+1135782810 R01-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49710, Link has been severed
+1135782810 R11-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49840, Link has been severed
+1135782810 R05-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49778, Link has been severed
+1135782810 R05-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49774, Link has been severed
+1135782810 R13-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49871, Link has been severed
+1135782810 R06-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49796, Link has been severed
+1135782811 R12-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49861, Link has been severed
+1135782811 R04-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49765, Link has been severed
+1135782811 R06-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49798, Link has been severed
+1135782811 R13-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49868, Link has been severed
+1135782811 R13-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49867, Link has been severed
+1135782811 R13-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49869, Link has been severed
+1135782812 R10-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49821, Link has been severed
+1135782812 R10-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49827, Link has been severed
+1135782812 R10-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49830, Link has been severed
+1135782812 R10-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49829, Link has been severed
+1135782813 R16-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49914, Link has been severed
+1135782813 R16-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49913, Link has been severed
+1135782813 R16-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49912, Link has been severed
+1135782813 R16-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49911, Link has been severed
+1135782813 R12-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49856, Link has been severed
+1135782813 R15-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49910, Link has been severed
+1135782813 R13-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49874, Link has been severed
+1135782814 R10-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49818, Link has been severed
+1135782814 R12-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49853, Link has been severed

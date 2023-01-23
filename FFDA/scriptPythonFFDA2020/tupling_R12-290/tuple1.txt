@@ -1,0 +1,2 @@
+1128641377 R12-M0-N0 J18-U11  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40373: Link has been severed
+1128641377 R12-M0-N0 J18-U01  ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40374: Link has been severed

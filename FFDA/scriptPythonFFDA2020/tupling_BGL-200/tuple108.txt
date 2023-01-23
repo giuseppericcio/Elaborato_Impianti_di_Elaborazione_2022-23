@@ -1,0 +1,19 @@
+1130699911 R22-M1-N3 J04-U01  machine check interrupt
+1130699911 R22-M1-N3 J04-U01  instruction address: 0x00208c30
+1130699911 R22-M1-N3 J04-U01  machine check status register: 0x81000000
+1130699911 R22-M1-N3 J04-U01  summary...........................1
+1130699912 R22-M1-N3 J04-U01  instruction plb error.............0
+1130699912 R22-M1-N3 J04-U01  data read plb error...............0
+1130699912 R22-M1-N3 J04-U01  data write plb error..............0
+1130699912 R22-M1-N3 J04-U01  tlb error.........................0
+1130699913 R22-M1-N3 J04-U01  i-cache parity error..............0
+1130699913 R22-M1-N3 J04-U01  d-cache search parity error.......0
+1130699913 R22-M1-N3 J04-U01  d-cache flush parity error........1
+1130699913 R22-M1-N3 J04-U01  imprecise machine check...........0
+1130699914 R22-M1-N3 J04-U01  machine state register: 0x0000f000
+1130699915 R22-M1-N3 J04-U01  wait state enable.................0
+1130699918 R22-M1-N3 J04-U01  critical input interrupt enable...0
+1130699925 R22-M1-N3 J04-U01  external input interrupt enable...1
+1130699936 R22-M1-N3 J04-U01  problem state (0=sup,1=usr).......1
+1130699948 R22-M1-N3 J04-U01  floating point instr. enabled.....1
+1130699963 R22-M1-N3 J04-U01  machine check enable..............1

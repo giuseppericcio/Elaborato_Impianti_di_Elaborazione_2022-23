@@ -1,0 +1,9 @@
+1128719240 R06-M1-NE J11-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1128719240 R06-M1-NE J11-U11  instruction address: 0x0023d1b8
+1128719241 R06-M1-NE J11-U11  machine check status register: 0x91800000
+1128719241 R06-M1-NE J11-U11  summary...........................1
+1128719243 R06-M1-NE J11-U11  instruction plb error.............0
+1128719251 R06-M1-NE J11-U11  data read plb error...............0
+1128719270 R06-M1-NE J11-U11  data write plb error..............1
+1128719293 R06-M1-NE J11-U11  tlb error.........................0
+1128719316 R06-M1-NE J11-U11  i-cache parity error..............0

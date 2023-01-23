@@ -1,0 +1,12 @@
+1134093484 R63-M0-NE J12-U01  external input interrupt (unit=0x02 bit=0x0e): torus sender z- retransmission error was corrected
+1134093484 R63-M0-NE J12-U01  rts panic! - stopping execution
+1134093484 R63-M0-N8 J10-U01  external input interrupt (unit=0x02 bit=0x0d): torus sender z+ retransmission error was corrected
+1134093485 R63-M0-N8 J10-U01  rts panic! - stopping execution
+1134093487 R63-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41278, Link has been severed
+1134093487 R63-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41277, Link has been severed
+1134093487 R63-M0-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41276, Link has been severed
+1134093487 R63-M0-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41275, Link has been severed
+1134093488 R63-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41274, Link has been severed
+1134093488 R63-M0-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41273, Link has been severed
+1134093488 R63-M0-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41272, Link has been severed
+1134093488 R63-M0-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41271, Link has been severed

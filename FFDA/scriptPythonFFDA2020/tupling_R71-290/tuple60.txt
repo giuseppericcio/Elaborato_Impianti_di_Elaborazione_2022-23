@@ -1,0 +1,2 @@
+1134357635 R71-M0-N4 J18-U01  ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+1134357685 R71-M0-N4 J18-U11  ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error

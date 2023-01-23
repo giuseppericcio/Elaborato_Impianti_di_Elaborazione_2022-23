@@ -1,0 +1,2 @@
+1171783280 tg-login4 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1171783307 tg-login4 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)

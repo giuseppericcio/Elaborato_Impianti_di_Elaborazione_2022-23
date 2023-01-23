@@ -1,0 +1,2 @@
+1171844294 tg-master I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1171844294 tg-master I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)

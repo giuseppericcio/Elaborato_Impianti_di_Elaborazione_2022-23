@@ -1,0 +1,12 @@
+1132057073 R46-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R52-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R60-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R42-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R56-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R00-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R46-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R47-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R50-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R40-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R70-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1132057073 R43-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed

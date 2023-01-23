@@ -1,0 +1,34 @@
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N12. A service action may be required.
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N14. A service action may be required.
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N15. A service action may be required.
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N13. A service action may be required.
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N8. A service action may be required.
+1132234880 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N10. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N11. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N9. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N4. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N6. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N7. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N5. A service action may be required.
+1132234881 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N0. A service action may be required.
+1132234882 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N2. A service action may be required.
+1132234882 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N3. A service action may be required.
+1132234882 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N1. A service action may be required.
+1132234897 R73-M1-N5 J09-U11  Target=ido://FF:F2:9F:16:D5:01:00:0D:60:E9:2A:FE/JTAG/0 Message=Invalid JtagId = ffffffff Run environmental monitor to diagnose possible hardware failure.
+1132234960 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N12. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N14. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N15. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N13. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N8. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N10. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N11. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N9. A service action may be required.
+1132234961 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N4. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N6. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N7. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N5. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N0. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N2. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N3. A service action may be required.
+1132234962 R50-M1-NC J18-U11  Power Good signal deactivated: R73-M1-N1. A service action may be required.
+1132234978 R73-M1-N5 J09-U11  Target=ido://FF:F2:9F:16:D5:01:00:0D:60:E9:2A:FE/JTAG/0 Message=Invalid JtagId = ffffffff Run environmental monitor to diagnose possible hardware failure.

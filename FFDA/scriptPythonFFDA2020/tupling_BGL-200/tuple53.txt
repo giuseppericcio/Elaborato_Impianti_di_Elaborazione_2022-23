@@ -1,0 +1,28 @@
+1129636975 R15-M0-N6 J15-U01  machine check interrupt (bit=0x06): L3 major internal error
+1129636975 R15-M0-N6 J15-U01  instruction address: 0x001428d8
+1129636976 R15-M0-N6 J15-U01  machine check status register: 0xa0000000
+1129636976 R15-M0-N6 J15-U01  summary...........................1
+1129636976 R15-M0-N6 J15-U01  instruction plb error.............0
+1129636976 R15-M0-N6 J15-U01  data read plb error...............1
+1129636977 R15-M0-N6 J15-U01  data write plb error..............0
+1129636977 R15-M0-N6 J15-U01  tlb error.........................0
+1129636977 R15-M0-N6 J15-U01  i-cache parity error..............0
+1129636977 R15-M0-N6 J15-U01  d-cache search parity error.......0
+1129636978 R15-M0-N6 J15-U01  d-cache flush parity error........0
+1129636978 R15-M0-N6 J15-U01  imprecise machine check...........0
+1129636978 R15-M0-N6 J15-U01  machine state register: 0x0002f900
+1129636978 R15-M0-N6 J15-U01  wait state enable.................0
+1129636979 R15-M0-N6 J15-U01  critical input interrupt enable...1
+1129636979 R15-M0-N6 J15-U01  external input interrupt enable...1
+1129636979 R15-M0-N6 J15-U01  problem state (0=sup,1=usr).......1
+1129636979 R15-M0-N6 J15-U01  floating point instr. enabled.....1
+1129636980 R15-M0-N6 J15-U01  machine check enable..............1
+1129636980 R15-M0-N6 J15-U01  floating pt ex mode 0 enable......1
+1129636980 R15-M0-N6 J15-U01  debug wait enable.................0
+1129636981 R15-M0-N6 J15-U01  debug interrupt enable............0
+1129636982 R15-M0-N6 J15-U01  floating pt ex mode 1 enable......1
+1129636984 R15-M0-N6 J15-U01  instruction address space.........0
+1129636987 R15-M0-N6 J15-U01  data address space................0
+1129636995 R15-M0-N6 J15-U01  core configuration register: 0x40002000
+1129637005 R15-M0-N6 J15-U01  disable store gathering..................0
+1129637018 R15-M0-N6 J15-U01  disable apu instruction broadcast........0

@@ -1,0 +1,3 @@
+1132595918 R00-M0-N4 J18-U11  Lustre mount FAILED : bglio3 : block_id : location
+1132595918 R00-M0-N4 J18-U01  Lustre mount FAILED : bglio4 : block_id : location
+1132595918 R00-M0-N0 J18-U01  Lustre mount FAILED : bglio2 : block_id : location

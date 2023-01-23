@@ -1,0 +1,46 @@
+1130003461 R26-M1-ND J14-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1130003461 R26-M1-ND J14-U11  instruction address: 0x0016b348
+1130003461 R26-M1-ND J14-U11  machine check status register: 0x91800000
+1130003461 R26-M1-ND J14-U11  summary...........................1
+1130003461 R26-M1-ND J14-U11  instruction plb error.............0
+1130003462 R26-M1-ND J14-U11  data read plb error...............0
+1130003462 R26-M1-ND J14-U11  data write plb error..............1
+1130003462 R26-M1-ND J14-U11  tlb error.........................0
+1130003462 R26-M1-ND J14-U11  i-cache parity error..............0
+1130003462 R26-M1-ND J14-U11  d-cache search parity error.......0
+1130003463 R26-M1-ND J14-U11  d-cache flush parity error........1
+1130003463 R26-M1-ND J14-U11  imprecise machine check...........1
+1130003466 R26-M1-ND J14-U11  machine state register: 0x0002f900
+1130003470 R26-M1-ND J14-U11  wait state enable.................0
+1130003475 R26-M1-ND J14-U11  critical input interrupt enable...1
+1130003480 R26-M1-ND J14-U11  external input interrupt enable...1
+1130003485 R26-M1-ND J14-U11  problem state (0=sup,1=usr).......1
+1130003490 R26-M1-ND J14-U11  floating point instr. enabled.....1
+1130003496 R26-M1-ND J14-U11  machine check enable..............1
+1130003501 R26-M1-ND J14-U11  floating pt ex mode 0 enable......1
+1130003505 R26-M1-ND J14-U11  debug wait enable.................0
+1130003506 R26-M1-ND J14-U11  debug interrupt enable............0
+1130003506 R26-M1-ND J14-U11  floating pt ex mode 1 enable......1
+1130003507 R26-M1-ND J14-U11  instruction address space.........0
+1130003507 R26-M1-ND J14-U11  data address space................0
+1130003507 R26-M1-ND J14-U11  core configuration register: 0x40002000
+1130003508 R26-M1-ND J14-U11  disable store gathering..................0
+1130003508 R26-M1-ND J14-U11  disable apu instruction broadcast........0
+1130003508 R26-M1-ND J14-U11  disable trace broadcast..................0
+1130003509 R26-M1-ND J14-U11  guaranteed instruction cache block touch.0
+1130003509 R26-M1-ND J14-U11  guaranteed data cache block touch........1
+1130003509 R26-M1-ND J14-U11  force load/store alignment...............0
+1130003509 R26-M1-ND J14-U11  icache prefetch depth....................0
+1130003510 R26-M1-ND J14-U11  icache prefetch threshold................0
+1130003510 R26-M1-ND J14-U11  general purpose registers:
+1130003510 R26-M1-ND J14-U11  0:0016b348 1:0fee9f20 2:1eeeeeee 3:009f3360
+1130003510 R26-M1-ND J14-U11  4:0fee9ff0 5:00000000 6:00000010 7:003b71b8
+1130003511 R26-M1-ND J14-U11  8:00000000 9:ffffffff 10:8c000005 11:00000002
+1130003511 R26-M1-ND J14-U11  12:0024710c 13:1eeeeeee 14:00000e38 15:00038e00
+1130003511 R26-M1-ND J14-U11  16:44000000 17:09593098 18:0a3f0308 19:009c2360
+1130003511 R26-M1-ND J14-U11  20:00000001 21:8c000005 22:00000001 23:0feea0a0
+1130003512 R26-M1-ND J14-U11  24:00000000 25:00000000 26:00000001 27:0fee9fb0
+1130003512 R26-M1-ND J14-U11  28:00000040 29:0feea0f0 30:00000040 31:08dadf10
+1130003512 R26-M1-ND J14-U11  special purpose registers:
+1130003512 R26-M1-ND J14-U11  lr:0016b348 cr:28404844 xer:00000002 ctr:00000000
+1130003512 R26-M1-ND J14-U11  rts panic! - stopping execution

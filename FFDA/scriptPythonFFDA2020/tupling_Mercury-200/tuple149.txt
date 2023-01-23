@@ -1,0 +1,20 @@
+1168668852 tg-c713 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168668852 tg-c713 DEV +Platform PCI Component Error Info Section
+1168668852 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668853 tg-c713 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168668853 tg-c713 DEV +Platform PCI Component Error Info Section
+1168668853 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668853 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668853 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668854 tg-c713 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168668861 tg-c713 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168668861 tg-c713 DEV +Platform PCI Component Error Info Section
+1168668861 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668861 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668862 tg-c713 DEV +END HARDWARE ERROR STATE AT CPE
+1168668862 tg-c713 DEV +Platform Specific Error Info Section
+1168668862 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668862 tg-c713 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168668862 tg-c713 DEV + Platform Specific Error Detail:
+1168668862 tg-c713 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1168668862 tg-c713 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,

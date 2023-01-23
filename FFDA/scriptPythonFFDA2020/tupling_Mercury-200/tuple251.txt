@@ -1,0 +1,24 @@
+1171014150 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171014151 tg-c894 DEV +END HARDWARE ERROR STATE AT CPE
+1171014151 tg-c894 DEV +Platform PCI Component Error Info Section
+1171014151 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171014332 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171014332 tg-c894 DEV +END HARDWARE ERROR STATE AT CPE
+1171014332 tg-c894 DEV +Platform PCI Component Error Info Section
+1171014332 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171014513 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171014513 tg-c894 DEV +Platform PCI Component Error Info Section
+1171014513 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171014694 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171014694 tg-c894 DEV +Platform PCI Component Error Info Section
+1171014694 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171014875 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171014875 tg-c894 DEV +Platform PCI Component Error Info Section
+1171014875 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171015056 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171015056 tg-c894 DEV +Platform PCI Component Error Info Section
+1171015056 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171015243 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171015349 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171015349 tg-c894 DEV +Platform PCI Component Error Info Section
+1171015349 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

@@ -1,0 +1,30 @@
+1174224103 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224103 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224103 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224123 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224123 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224123 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224123 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224124 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224124 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224124 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224124 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224130 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224130 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224131 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224131 tg-c669 DEV +END HARDWARE ERROR STATE AT CPE
+1174224131 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224131 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224131 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224177 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224177 tg-c669 DEV +END HARDWARE ERROR STATE AT CPE
+1174224177 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224177 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224295 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224295 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224295 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224296 tg-c669 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174224296 tg-c669 DEV +END HARDWARE ERROR STATE AT CPE
+1174224296 tg-c669 DEV +Platform PCI Component Error Info Section
+1174224296 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174224296 tg-c669 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

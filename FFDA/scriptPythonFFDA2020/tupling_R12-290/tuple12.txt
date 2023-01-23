@@ -1,0 +1,2 @@
+1129820600 R12-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129820600 R12-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error

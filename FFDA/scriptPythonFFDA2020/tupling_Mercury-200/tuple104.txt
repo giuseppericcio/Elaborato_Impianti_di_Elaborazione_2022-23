@@ -1,0 +1,8 @@
+1168379090 tg-c894 DEV GM: LANAI[x]: LANai detected PARITY error transient c=x rtc=x
+1168379090 tg-c894 DEV GM: LANAI[x]: SRAM PARITY error
+1168379090 tg-c894 DEV GM: NIC firmware error: GM aborted
+1168379090 tg-c894 OTH GM: LANAI[x]: WARNING: libgm gm abort.c:x:gm abort():firmware
+1168379100 tg-c894 DEV firmware error-x:SRAM parity error on NIC, serial no=x
+1168379100 tg-c894 DEV gm.interrupt.type =x x
+1168379100 tg-c894 DEV GM: gm exit() called in the OTH: GM aborted<x>GM: NOTICE: drivers gm lanai command.c:x:gm lanai command report error():OTH
+1168379100 tg-c894 OTH GM: gm exit() called in the OTH: GM aborted<x>GM: NOTICE: drivers gm lanai command.c:x:gm lanai command report error():OTH

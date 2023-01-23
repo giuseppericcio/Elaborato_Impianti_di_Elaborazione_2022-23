@@ -1,0 +1,46 @@
+1130532078 R00-M0-N0 J05-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1130532078 R00-M0-N0 J05-U11  instruction address: 0x00126910
+1130532078 R00-M0-N0 J05-U11  machine check status register: 0x91800000
+1130532078 R00-M0-N0 J05-U11  summary...........................1
+1130532079 R00-M0-N0 J05-U11  instruction plb error.............0
+1130532080 R00-M0-N0 J05-U11  data read plb error...............0
+1130532081 R00-M0-N0 J05-U11  data write plb error..............1
+1130532089 R00-M0-N0 J05-U11  tlb error.........................0
+1130532094 R00-M0-N0 J05-U11  i-cache parity error..............0
+1130532100 R00-M0-N0 J05-U11  d-cache search parity error.......0
+1130532105 R00-M0-N0 J05-U11  d-cache flush parity error........1
+1130532106 R00-M0-N0 J05-U11  imprecise machine check...........1
+1130532109 R00-M0-N0 J05-U11  machine state register: 0x0002f900
+1130532110 R00-M0-N0 J05-U11  wait state enable.................0
+1130532110 R00-M0-N0 J05-U11  critical input interrupt enable...1
+1130532110 R00-M0-N0 J05-U11  external input interrupt enable...1
+1130532111 R00-M0-N0 J05-U11  problem state (0=sup,1=usr).......1
+1130532111 R00-M0-N0 J05-U11  floating point instr. enabled.....1
+1130532111 R00-M0-N0 J05-U11  machine check enable..............1
+1130532111 R00-M0-N0 J05-U11  floating pt ex mode 0 enable......1
+1130532111 R00-M0-N0 J05-U11  debug wait enable.................0
+1130532111 R00-M0-N0 J05-U11  debug interrupt enable............0
+1130532112 R00-M0-N0 J05-U11  floating pt ex mode 1 enable......1
+1130532112 R00-M0-N0 J05-U11  instruction address space.........0
+1130532112 R00-M0-N0 J05-U11  data address space................0
+1130532112 R00-M0-N0 J05-U11  core configuration register: 0x00002000
+1130532112 R00-M0-N0 J05-U11  disable store gathering..................0
+1130532112 R00-M0-N0 J05-U11  disable apu instruction broadcast........0
+1130532113 R00-M0-N0 J05-U11  disable trace broadcast..................0
+1130532113 R00-M0-N0 J05-U11  guaranteed instruction cache block touch.0
+1130532113 R00-M0-N0 J05-U11  guaranteed data cache block touch........1
+1130532113 R00-M0-N0 J05-U11  force load/store alignment...............0
+1130532113 R00-M0-N0 J05-U11  icache prefetch depth....................0
+1130532113 R00-M0-N0 J05-U11  icache prefetch threshold................0
+1130532113 R00-M0-N0 J05-U11  general purpose registers:
+1130532114 R00-M0-N0 J05-U11  0:0000001a 1:0fee9b20 2:1eeeeeee 3:0000001b
+1130532114 R00-M0-N0 J05-U11  4:00aa31f8 5:00000002 6:0000001b 7:00000004
+1130532114 R00-M0-N0 J05-U11  8:00000002 9:00000003 10:0000001a 11:00126890
+1130532114 R00-M0-N0 J05-U11  12:0fee9b70 13:1eeeeeee 14:00240000 15:00000004
+1130532114 R00-M0-N0 J05-U11  16:00000004 17:fffffff8 18:00000010 19:00000020
+1130532114 R00-M0-N0 J05-U11  20:00000008 21:00000028 22:0000001a 23:00000001
+1130532115 R00-M0-N0 J05-U11  24:00000001 25:00b86730 26:00b86588 27:00240000
+1130532115 R00-M0-N0 J05-U11  28:00b86558 29:00230000 30:00000001 31:00aa3f70
+1130532115 R00-M0-N0 J05-U11  special purpose registers:
+1130532115 R00-M0-N0 J05-U11  lr:0010b414 cr:84002842 xer:20000002 ctr:00126890
+1130532115 R00-M0-N0 J05-U11  rts panic! - stopping execution

@@ -1,0 +1,6 @@
+1168882464 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168882483 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168882483 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Read (x) x x x x x x x x x
+1168882669 tg-s176 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168882669 tg-s176 DEV +Platform PCI Component Error Info Section
+1168882669 tg-s176 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

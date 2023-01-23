@@ -1,0 +1,14 @@
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x
+1167857118 tg-c383 I-O error, dev x:x (hda), sector x

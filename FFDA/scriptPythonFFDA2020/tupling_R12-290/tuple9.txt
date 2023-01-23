@@ -1,0 +1,2 @@
+1129418635 R12-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image, Permission denied
+1129418635 R12-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image, Permission denied

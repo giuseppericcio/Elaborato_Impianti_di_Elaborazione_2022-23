@@ -1,0 +1,2 @@
+1132969419 R63-M0-N0 J18-U01  ciod: Error loading /bin/hostname: invalid or missing program image, Exec format error
+1132969419 R63-M0-N0 J18-U11  ciod: Error loading /bin/hostname: invalid or missing program image, Exec format error

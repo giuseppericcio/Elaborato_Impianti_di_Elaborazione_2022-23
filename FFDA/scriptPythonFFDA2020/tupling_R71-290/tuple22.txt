@@ -1,0 +1,2 @@
+1130695719 R71-M0-N4 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory
+1130695719 R71-M0-N4 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image, No such file or directory

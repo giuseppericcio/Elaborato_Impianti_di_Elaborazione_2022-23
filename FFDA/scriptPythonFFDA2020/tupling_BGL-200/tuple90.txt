@@ -1,0 +1,12 @@
+1130255757 R21-M0-ND J04-U01  machine check interrupt (bit=0x06): L3 major internal error
+1130255757 R21-M0-ND J04-U01  instruction address: 0x0048e95c
+1130255758 R21-M0-ND J04-U01  machine check status register: 0xa0000000
+1130255758 R21-M0-ND J04-U01  summary...........................1
+1130255759 R21-M0-ND J04-U01  instruction plb error.............0
+1130255759 R21-M0-ND J04-U01  data read plb error...............1
+1130255760 R21-M0-ND J04-U01  data write plb error..............0
+1130255763 R21-M0-ND J04-U01  tlb error.........................0
+1130255769 R21-M0-ND J04-U01  i-cache parity error..............0
+1130255779 R21-M0-ND J04-U01  d-cache search parity error.......0
+1130255791 R21-M0-ND J04-U01  d-cache flush parity error........0
+1130255808 R21-M0-ND J04-U01  imprecise machine check...........0

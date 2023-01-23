@@ -1,0 +1,16 @@
+1168047647 tg-c685 DEV EXx-fs error (device sd(x,x)): exx get inode loc: unable to read inode block - inode=x block=x
+1168047647 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168047648 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047649 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168047650 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047654 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047654 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047654 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168047660 tg-c685 DEV EXx-fs error (device sd(x,x)): exx get inode loc: unable to read inode block - inode=x block=x
+1168047660 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168047663 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047667 tg-c685 DEV EXx-fs error (device sd(x,x)): exx get inode loc: unable to read inode block - inode=x block=x
+1168047670 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047670 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure
+1168047674 tg-c685 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168047675 tg-c685 DEV EXx-fs error (device sd(x,x)) in x: IO failure

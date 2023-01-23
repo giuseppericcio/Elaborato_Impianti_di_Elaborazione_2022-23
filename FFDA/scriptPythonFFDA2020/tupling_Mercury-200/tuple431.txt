@@ -1,0 +1,5 @@
+1174023869 tg-c685 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1174023869 tg-c685 DEV +Platform PCI Component Error Info Section
+1174023869 tg-c685 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1174023869 tg-c685 DEV + Platform Specific Error Detail:
+1174023869 tg-c685 MEM + Mem Error Detail:

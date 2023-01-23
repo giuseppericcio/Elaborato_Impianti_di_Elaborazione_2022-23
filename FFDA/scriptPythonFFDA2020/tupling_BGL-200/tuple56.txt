@@ -1,0 +1,6 @@
+1129733253 R02-M1-N6 J12-U01  Microloader Assertion
+1129733253 R02-M1-N6 J12-U01  ddrSize == 256x1024x1024 || ddrSize == 512x1024x1024
+1129733408 R02-M1-N6 J12-U01  rts assertion failed: `personality->version == BGLPERSONALITY_VERSION' in `void start()' at start.cc:131
+1129733408 R02-M1-N6 J12-U01  rts assertion failed: `personality->version == BGLPERSONALITY_VERSION' in `void start()' at start.cc:131
+1129733409 R02-M1-N6 J12-U01  rts panic! - stopping execution
+1129733409 R02-M1-N6 J12-U01  rts panic! - stopping execution

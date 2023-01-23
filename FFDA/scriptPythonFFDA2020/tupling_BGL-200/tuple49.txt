@@ -1,0 +1,33 @@
+1129506597 R02-M0-N4 J04-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1129506597 R02-M0-N4 J04-U11  instruction address: 0x00170f54
+1129506597 R02-M0-N4 J04-U11  machine check status register: 0x91800000
+1129506598 R02-M0-N4 J04-U11  summary...........................1
+1129506598 R02-M0-N4 J04-U11  instruction plb error.............0
+1129506598 R02-M0-N4 J04-U11  data read plb error...............0
+1129506598 R02-M0-N4 J04-U11  data write plb error..............1
+1129506599 R02-M0-N4 J04-U11  tlb error.........................0
+1129506599 R02-M0-N4 J04-U11  i-cache parity error..............0
+1129506599 R02-M0-N4 J04-U11  d-cache search parity error.......0
+1129506599 R02-M0-N4 J04-U11  d-cache flush parity error........1
+1129506600 R02-M0-N4 J04-U11  imprecise machine check...........1
+1129506600 R02-M0-N4 J04-U11  machine state register: 0x0002f900
+1129506600 R02-M0-N4 J04-U11  wait state enable.................0
+1129506600 R02-M0-N4 J04-U11  critical input interrupt enable...1
+1129506601 R02-M0-N4 J04-U11  external input interrupt enable...1
+1129506601 R02-M0-N4 J04-U11  problem state (0=sup,1=usr).......1
+1129506601 R02-M0-N4 J04-U11  floating point instr. enabled.....1
+1129506602 R02-M0-N4 J04-U11  machine check enable..............1
+1129506606 R02-M0-N4 J04-U11  floating pt ex mode 0 enable......1
+1129506615 R02-M0-N4 J04-U11  debug wait enable.................0
+1129506628 R02-M0-N4 J04-U11  debug interrupt enable............0
+1129506639 R02-M0-N4 J04-U11  floating pt ex mode 1 enable......1
+1129506650 R02-M0-N4 J04-U11  instruction address space.........0
+1129506660 R02-M0-N4 J04-U11  data address space................0
+1129506670 R02-M0-N4 J04-U11  core configuration register: 0x40002000
+1129506680 R02-M0-N4 J04-U11  disable store gathering..................0
+1129506690 R02-M0-N4 J04-U11  disable apu instruction broadcast........0
+1129506700 R02-M0-N4 J04-U11  disable trace broadcast..................0
+1129506711 R02-M0-N4 J04-U11  guaranteed instruction cache block touch.0
+1129506726 R02-M0-N4 J04-U11  guaranteed data cache block touch........1
+1129506731 R02-M0-N4 J04-U11  force load/store alignment...............0
+1129506732 R02-M0-N4 J04-U11  icache prefetch depth....................0

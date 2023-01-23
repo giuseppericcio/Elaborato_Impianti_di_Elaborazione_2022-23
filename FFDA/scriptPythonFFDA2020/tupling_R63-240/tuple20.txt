@@ -1,0 +1,4 @@
+1130078152 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078152 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078301 R63-M0-N0 J18-U11  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied
+1130078301 R63-M0-N0 J18-U01  ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image, Permission denied

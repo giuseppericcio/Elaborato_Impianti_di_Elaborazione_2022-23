@@ -1,0 +1,14 @@
+1128747957 R23-M1-N0 J17-U11  machine check interrupt
+1128747958 R23-M1-N0 J17-U11  instruction address: 0x0023d12c
+1128747958 R23-M1-N0 J17-U11  machine check status register: 0x81000000
+1128747958 R23-M1-N0 J17-U11  summary...........................1
+1128747958 R23-M1-N0 J17-U11  instruction plb error.............0
+1128747959 R23-M1-N0 J17-U11  data read plb error...............0
+1128747959 R23-M1-N0 J17-U11  data write plb error..............0
+1128747959 R23-M1-N0 J17-U11  tlb error.........................0
+1128747959 R23-M1-N0 J17-U11  i-cache parity error..............0
+1128747960 R23-M1-N0 J17-U11  d-cache search parity error.......0
+1128747960 R23-M1-N0 J17-U11  d-cache flush parity error........1
+1128747963 R23-M1-N0 J17-U11  imprecise machine check...........0
+1128747995 R23-M1-N0 J17-U11  exception syndrome register: 0x01800000
+1128748024 R23-M1-N0 J17-U11  machine check: i-fetch......................0

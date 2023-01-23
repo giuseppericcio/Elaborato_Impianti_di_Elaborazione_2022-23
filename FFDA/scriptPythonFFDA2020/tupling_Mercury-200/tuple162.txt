@@ -1,0 +1,46 @@
+1168770901 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770902 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770902 tg-c550 NET Additional sense indicates Mechanical positioning error
+1168770916 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770916 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770931 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770931 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770931 tg-c550 NET Additional sense indicates Mechanical positioning error
+1168770946 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770946 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770961 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770961 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770976 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770976 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168770991 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168770991 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771006 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771006 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771021 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771021 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771035 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771035 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771050 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771050 tg-c550 NET Additional sense indicates Mechanical positioning error
+1168771065 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771065 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771080 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771080 tg-c550 I-O error: dev x:x, sector x
+1168771080 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771080 tg-c550 NET Additional sense indicates Mechanical positioning error
+1168771095 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771095 tg-c550 I-O error: dev x:x, sector x
+1168771095 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771110 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771110 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771125 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771125 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771140 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771140 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771140 tg-c550 NET Additional sense indicates Mechanical positioning error
+1168771155 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771155 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771169 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771170 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x
+1168771184 tg-c550 I-O SCSI Error: (x:x:x) Status=x (CHECK CONDITION)
+1168771184 tg-c550 I-O scsx: ERROR on channel x, id x, lun x, CDB: Write (x) x x x x x x x x x

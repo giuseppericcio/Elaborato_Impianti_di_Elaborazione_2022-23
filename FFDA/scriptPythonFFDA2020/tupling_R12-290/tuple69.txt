@@ -1,0 +1,2 @@
+1134937934 R12-M0-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45229, Link has been severed
+1134938030 R12-M0-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45230, Link has been severed

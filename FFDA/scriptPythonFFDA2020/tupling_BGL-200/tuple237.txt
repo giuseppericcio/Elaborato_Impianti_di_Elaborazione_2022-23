@@ -1,0 +1,1 @@
+1132706898 R47-M1-NC J18-U11  idoproxy communication failure: BGLERR_IDO_PKT_TIMEOUT connection lost to node/link/service card

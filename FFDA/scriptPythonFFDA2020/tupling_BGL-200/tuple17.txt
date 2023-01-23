@@ -1,0 +1,4 @@
+1128951960 R44-M1-N1 J09-U11  Target=ido://FF:F2:9F:16:BB:5E:00:0D:60:E9:44:A1/JTAG/0 Message=ScomError
+1128952075 R44-M1-N1 J09-U11  Target=ido://FF:F2:9F:16:BB:5E:00:0D:60:E9:44:A1/JTAG/0 Message=Invalid JtagId = ffffffff
+1128952191 R44-M1-N1 J09-U11  Target=ido://FF:F2:9F:16:BB:5E:00:0D:60:E9:44:A1/JTAG/0 Message=Invalid JtagId = ffffffff
+1128952306 R44-M1-N1 J09-U11  Target=ido://FF:F2:9F:16:BB:5E:00:0D:60:E9:44:A1/JTAG/0 Message=Invalid JtagId = ffffffff

@@ -1,0 +1,2 @@
+1167846123 tg-c238 NET connection down
+1167846140 tg-c238 I-O hda: packet command error: error=x

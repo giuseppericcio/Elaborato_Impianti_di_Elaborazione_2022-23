@@ -1,0 +1,195 @@
+1132230742 R36-M1-N0 J16-U11  Machine Check Status Register: 0xa0800000
+1132230742 R36-M1-N0 J16-U11  machine check summary.............1
+1132230742 R36-M1-N0 J16-U11  instruction plb error.............0
+1132230742 R36-M1-N0 J16-U11  data read plb error...............1
+1132230743 R36-M1-N0 J16-U11  data write plb error..............0
+1132230743 R36-M1-N0 J16-U11  tlb error.........................0
+1132230743 R36-M1-N0 J16-U11  i-cache parity error..............0
+1132230743 R36-M1-N0 J16-U11  d-cache search parity error.......0
+1132230743 R36-M1-N0 J16-U11  d-cache flush parity error........0
+1132230743 R36-M1-N0 J16-U11  imprecise machine check...........1
+1132230743 R36-M1-N0 J16-U11  Machine State Register: 0x00003000
+1132230744 R36-M1-N0 J16-U11  wait state enable.................0
+1132230744 R36-M1-N0 J16-U11  critical input interrupt enable...0
+1132230744 R36-M1-N0 J16-U11  external input interrupt enable...0
+1132230744 R36-M1-N0 J16-U11  problem state (0=sup,1=usr).......0
+1132230744 R36-M1-N0 J16-U11  floating point instr. enabled.....1
+1132230744 R36-M1-N0 J16-U11  machine check enable..............1
+1132230745 R36-M1-N0 J16-U11  floating pt ex mode 0 enable......0
+1132230745 R36-M1-N0 J16-U11  debug wait enable.................0
+1132230745 R36-M1-N0 J16-U11  debug interrupt enable............0
+1132230745 R36-M1-N0 J16-U11  floating pt ex mode 1 enable......0
+1132230745 R36-M1-N0 J16-U11  instruction address space.........0
+1132230745 R36-M1-N0 J16-U11  data address space................0
+1132230746 R36-M1-N0 J16-U11  Core Configuration Register 0: 0x00002000
+1132230746 R36-M1-N0 J16-U11  disable store gathering..................0
+1132230746 R36-M1-N0 J16-U11  disable apu instruction broadcast........0
+1132230746 R36-M1-N0 J16-U11  disable trace broadcast..................0
+1132230746 R36-M1-N0 J16-U11  guaranteed instruction cache block touch.0
+1132230746 R36-M1-N0 J16-U11  guaranteed data cache block touch........1
+1132230747 R36-M1-N0 J16-U11  force load/store alignment...............0
+1132230747 R36-M1-N0 J16-U11  icache prefetch depth....................0
+1132230747 R36-M1-N0 J16-U11  icache prefetch threshold................0
+1132230747 R36-M1-N0 J16-U11  L3 global control register: 0x001249f0
+1132230747 R36-M1-N0 J16-U11  start initialization.....................0
+1132230747 R36-M1-N0 J16-U11  start retagging..........................0
+1132230748 R36-M1-N0 J16-U11  start flushing...........................0
+1132230748 R36-M1-N0 J16-U11  start prefetching........................0
+1132230748 R36-M1-N0 J16-U11  disable speculative access...............0
+1132230748 R36-M1-N0 J16-U11  close EDRAM pages as soon as possible....0
+1132230748 R36-M1-N0 J16-U11  size of scratchpad portion of L3.........0 (0M)
+1132230748 R36-M1-N0 J16-U11  disable all access to cache directory....0
+1132230749 R36-M1-N0 J16-U11  write buffer commit threshold............2
+1132230749 R36-M1-N0 J16-U11  size of DDR we are caching...............1 (512M)
+1132230749 R36-M1-N0 J16-U11  prefetch depth for core 0................1
+1132230749 R36-M1-N0 J16-U11  prefetch depth for core 1................1
+1132230749 R36-M1-N0 J16-U11  prefetch depth for PLB slave.............1
+1132230749 R36-M1-N0 J16-U11  max number of outstanding prefetches.....7
+1132230750 R36-M1-N0 J16-U11  turn on hidden refreshes.................1
+1132230750 R36-M1-N0 J16-U11  disable write lines 2:4..................0
+1132230750 R36-M1-N0 J16-U11  L3 ecc control register: 00000000
+1132230750 R36-M1-N0 J16-U11  capture first directory correctable error address..0
+1132230750 R36-M1-N0 J16-U11  capture first directory uncorrectable error address..0
+1132230750 R36-M1-N0 J16-U11  capture first EDRAM correctable error address..0
+1132230751 R36-M1-N0 J16-U11  capture first EDRAM uncorrectable error address..0
+1132230751 R36-M1-N0 J16-U11  capture first EDRAM parity error address..0
+1132230751 R36-M1-N0 J16-U11  capture first DDR uncorrectable error address..0
+1132230751 R36-M1-N0 J16-U11  disable flagging of DDR UE's as major internal error.0
+1132230751 R36-M1-N0 J16-U11  L3 ecc status register: 00200000
+1132230751 R36-M1-N0 J16-U11  correctable error detected in directory 0......0
+1132230752 R36-M1-N0 J16-U11  correctable error detected in directory 1......0
+1132230752 R36-M1-N0 J16-U11  uncorrectable error detected in directory 0....0
+1132230752 R36-M1-N0 J16-U11  uncorrectable error detected in directory 1....0
+1132230752 R36-M1-N0 J16-U11  correctable error detected in EDRAM bank 0.....0
+1132230752 R36-M1-N0 J16-U11  correctable error detected in EDRAM bank 1.....0
+1132230752 R36-M1-N0 J16-U11  uncorrectable error detected in EDRAM bank 0...0
+1132230753 R36-M1-N0 J16-U11  uncorrectable error detected in EDRAM bank 1...0
+1132230753 R36-M1-N0 J16-U11  parity error in bank 0.........................0
+1132230753 R36-M1-N0 J16-U11  parity error in bank 1.........................0
+1132230753 R36-M1-N0 J16-U11  uncorrectable error detected in external DDR...1
+1132230753 R36-M1-N0 J16-U11  parity error in read queue 0...................0
+1132230753 R36-M1-N0 J16-U11  parity error in read queue 1...................0
+1132230754 R36-M1-N0 J16-U11  parity error in read queue PLB.................0
+1132230754 R36-M1-N0 J16-U11  parity error in write buffer...................0
+1132230754 R36-M1-N0 J16-U11  number of correctable errors detected in L3 directories...0
+1132230754 R36-M1-N0 J16-U11  interrupt threshold...0
+1132230754 R36-M1-N0 J16-U11  number of correctable errors detected in L3 EDRAMs........0
+1132230754 R36-M1-N0 J16-U11  interrupt threshold...0
+1132230755 R36-M1-N0 J16-U11  number of lines with parity errors written to L3 EDRAMs...0
+1132230755 R36-M1-N0 J16-U11  DDR machine check register: 0x00000000 0x00010000
+1132230755 R36-M1-N0 J16-U11  memory and bus summary...........................0
+1132230755 R36-M1-N0 J16-U11  command manager unit summary.....................0
+1132230755 R36-M1-N0 J16-U11  memory manager uncorrectable error...............1
+1132230755 R36-M1-N0 J16-U11  memory manager strobe gate.......................0
+1132230756 R36-M1-N0 J16-U11  memory manager address parity error..............0
+1132230756 R36-M1-N0 J16-U11  memory manager miscompare........................0
+1132230756 R36-M1-N0 J16-U11  memory manager address error.....................0
+1132230756 R36-M1-N0 J16-U11  memory manager store buffer parity...............0
+1132230756 R36-M1-N0 J16-U11  memory manager RMW buffer parity.................0
+1132230756 R36-M1-N0 J16-U11  memory manager refresh...........................0
+1132230756 R36-M1-N0 J16-U11  memory manager refresh counter timeout...........0
+1132230757 R36-M1-N0 J16-U11  memory manager refresh contention................0
+1132230757 R36-M1-N0 J16-U11  state machine....................................0
+1132230757 R36-M1-N0 J16-U11  memory manager / command manager address parity..0
+1132230757 R36-M1-N0 J16-U11  regctl scancom interface.........................0
+1132230757 R36-M1-N0 J16-U11  DDR failing info register: DDR Fail Info Register: 0x00000000
+1132230757 R36-M1-N0 J16-U11  capture valid.........0
+1132230758 R36-M1-N0 J16-U11  symbol................0
+1132230758 R36-M1-N0 J16-U11  mask..................0x00
+1132230758 R36-M1-N0 J16-U11  miscompare............0
+1132230758 R36-M1-N0 J16-U11  uncorrectable error...0
+1132230758 R36-M1-N0 J16-U11  address parity error..0
+1132230758 R36-M1-N0 J16-U11  correctable error.....0
+1132230759 R36-M1-N0 J16-U11  qw trapped............0
+1132230759 R36-M1-N0 J16-U11  chip select...........0
+1132230759 R36-M1-N0 J16-U11  DDR failing data registers: 0x00000000 0x00000000
+1132230759 R36-M1-N0 J16-U11  0x00000000 0x00000000
+1132230759 R36-M1-N0 J16-U11  0x00000000 0x00000000
+1132230759 R36-M1-N0 J16-U11  0x00000000 0x00000000
+1132230759 R36-M1-N0 J16-U11  DDR failing address register: 0x00000000 0x00000000
+1132230760 R36-M1-N0 J16-U11  General Purpose Registers:
+1132230760 R36-M1-N0 J16-U11  r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef18
+1132230760 R36-M1-N0 J16-U11  r04=0xffff348c r05=0x33300300 r06=0x0002e924 r07=0x00030000
+1132230760 R36-M1-N0 J16-U11  r08=0x0000ef18 r09=0x00070000 r10=0x000000e0 r11=0x0008885c
+1132230760 R36-M1-N0 J16-U11  r12=0x42000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff
+1132230760 R36-M1-N0 J16-U11  r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000
+1132230761 R36-M1-N0 J16-U11  r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000
+1132230761 R36-M1-N0 J16-U11  r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000
+1132230761 R36-M1-N0 J16-U11  r28=0xffffc0c8 r29=0x0000013f r30=0x0000013f r31=0x0008db74
+1132230761 R36-M1-N0 J16-U11  Special Purpose Registers:
+1132230761 R36-M1-N0 J16-U11  lr=0x00000474 cr=0x42000024 xer=0x20000002 ctr=0x00000000
+1132230761 R36-M1-N0 J16-U11  msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000
+1132230762 R36-M1-N0 J16-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1132230762 R36-M1-N0 J16-U11  Floating Point Status and Control Register: 0x00000000
+1132230762 R36-M1-N0 J16-U11  exception summary........................0
+1132230762 R36-M1-N0 J16-U11  enabled exception summary................0
+1132230762 R36-M1-N0 J16-U11  invalid operation exception summary......0
+1132230762 R36-M1-N0 J16-U11  overflow exception.......................0
+1132230763 R36-M1-N0 J16-U11  underflow exception......................0
+1132230763 R36-M1-N0 J16-U11  divide-by-zero exception.................0
+1132230763 R36-M1-N0 J16-U11  inexact exception........................0
+1132230763 R36-M1-N0 J16-U11  invalid (SNAN)...........................0
+1132230763 R36-M1-N0 J16-U11  invalid (Inf-Inf)........................0
+1132230763 R36-M1-N0 J16-U11  invalid (Inf/Inf)........................0
+1132230764 R36-M1-N0 J16-U11  invalid (Zero/Zero)......................0
+1132230764 R36-M1-N0 J16-U11  invalid (Inf/Zero).......................0
+1132230764 R36-M1-N0 J16-U11  invalid (compare)........................0
+1132230764 R36-M1-N0 J16-U11  fraction rounded.........................0
+1132230764 R36-M1-N0 J16-U11  fraction inexact.........................0
+1132230764 R36-M1-N0 J16-U11  quiet NaN................................0
+1132230764 R36-M1-N0 J16-U11  minus inf................................0
+1132230765 R36-M1-N0 J16-U11  minus normalized number..................0
+1132230765 R36-M1-N0 J16-U11  minus denormalized number................0
+1132230765 R36-M1-N0 J16-U11  minus zero...............................0
+1132230765 R36-M1-N0 J16-U11  plus zero................................0
+1132230765 R36-M1-N0 J16-U11  plus denormalized number.................0
+1132230765 R36-M1-N0 J16-U11  plus normalized number...................0
+1132230765 R36-M1-N0 J16-U11  plus infinity............................0
+1132230766 R36-M1-N0 J16-U11  reserved.................................0
+1132230766 R36-M1-N0 J16-U11  invalid operation exception (software)...0
+1132230766 R36-M1-N0 J16-U11  invalid operation exception (sqrt).......0
+1132230766 R36-M1-N0 J16-U11  invalid operation exception (int cnvt)...0
+1132230766 R36-M1-N0 J16-U11  enable invalid operation exceptions......0
+1132230766 R36-M1-N0 J16-U11  enable overflow exceptions...............0
+1132230767 R36-M1-N0 J16-U11  enable underflow exceptions..............0
+1132230767 R36-M1-N0 J16-U11  enable divide-by-zero exceptions.........0
+1132230767 R36-M1-N0 J16-U11  enable inexact exceptions................0
+1132230767 R36-M1-N0 J16-U11  enable non-IEEE mode.....................0
+1132230767 R36-M1-N0 J16-U11  round nearest............................0
+1132230767 R36-M1-N0 J16-U11  round toward zero........................0
+1132230768 R36-M1-N0 J16-U11  round toward +infinity...................0
+1132230768 R36-M1-N0 J16-U11  round toward -infinity...................0
+1132230768 R36-M1-N0 J16-U11  Floating Point Registers:
+1132230768 R36-M1-N0 J16-U11  fpr0=0xffffffff ffffffff ffffffff ffffffff
+1132230768 R36-M1-N0 J16-U11  fpr1=0xffffffff ffffffff ffffffff ffffffff
+1132230768 R36-M1-N0 J16-U11  fpr2=0xffffffff ffffffff ffffffff ffffffff
+1132230768 R36-M1-N0 J16-U11  fpr3=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr4=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr5=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr6=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr7=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr8=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr9=0xffffffff ffffffff ffffffff ffffffff
+1132230769 R36-M1-N0 J16-U11  fpr10=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr11=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr12=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr13=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr14=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr15=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr16=0xffffffff ffffffff ffffffff ffffffff
+1132230770 R36-M1-N0 J16-U11  fpr17=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr18=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr19=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr20=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr21=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr22=0xffffffff ffffffff ffffffff ffffffff
+1132230771 R36-M1-N0 J16-U11  fpr23=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr24=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr25=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr26=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr27=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr28=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr29=0xffffffff ffffffff ffffffff ffffffff
+1132230772 R36-M1-N0 J16-U11  fpr30=0xffffffff ffffffff ffffffff ffffffff
+1132230773 R36-M1-N0 J16-U11  fpr31=0xffffffff ffffffff ffffffff ffffffff
+1132230773 R36-M1-N0 J16-U11  rts panic! - stopping execution

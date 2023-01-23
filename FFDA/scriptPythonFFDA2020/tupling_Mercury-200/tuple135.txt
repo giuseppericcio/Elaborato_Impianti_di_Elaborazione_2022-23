@@ -1,0 +1,6 @@
+1168579349 tg-c407 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168579349 tg-c407 DEV +Platform PCI Component Error Info Section
+1168579349 tg-c407 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168579461 tg-c401 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168579461 tg-c401 DEV +Platform PCI Component Error Info Section
+1168579461 tg-c401 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

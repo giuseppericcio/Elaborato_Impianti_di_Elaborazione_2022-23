@@ -1,0 +1,29 @@
+1130212702 R02-M0-N6 J16-U01  program interrupt
+1130212702 R02-M0-N6 J16-U01  instruction address: 0x00001b10
+1130212702 R02-M0-N6 J16-U01  exception syndrome register: 0x08000000
+1130212702 R02-M0-N6 J16-U01  machine check: i-fetch......................0
+1130212703 R02-M0-N6 J16-U01  program interrupt: illegal instruction......1
+1130212703 R02-M0-N6 J16-U01  program interrupt: privileged instruction...0
+1130212703 R02-M0-N6 J16-U01  program interrupt: trap instruction.........0
+1130212703 R02-M0-N6 J16-U01  floating point operation....................0
+1130212704 R02-M0-N6 J16-U01  store operation.............................0
+1130212704 R02-M0-N6 J16-U01  data store interrupt caused by dcbf.........0
+1130212704 R02-M0-N6 J16-U01  data store interrupt caused by icbi.........0
+1130212705 R02-M0-N6 J16-U01  auxiliary processor.........................0
+1130212705 R02-M0-N6 J16-U01  program interrupt: unimplemented operation..0
+1130212705 R02-M0-N6 J16-U01  byte ordering exception.....................0
+1130212705 R02-M0-N6 J16-U01  program interrupt: imprecise exception......0
+1130212706 R02-M0-N6 J16-U01  program interrupt: fp cr update.............0
+1130212706 R02-M0-N6 J16-U01  program interrupt: fp compare...............0
+1130212706 R02-M0-N6 J16-U01  program interrupt: fp cr field .............0
+1130212706 R02-M0-N6 J16-U01  machine state register: 0x00001000
+1130212707 R02-M0-N6 J16-U01  wait state enable.................0
+1130212707 R02-M0-N6 J16-U01  critical input interrupt enable...0
+1130212707 R02-M0-N6 J16-U01  external input interrupt enable...0
+1130212708 R02-M0-N6 J16-U01  problem state (0=sup,1=usr).......0
+1130212710 R02-M0-N6 J16-U01  floating point instr. enabled.....0
+1130212713 R02-M0-N6 J16-U01  machine check enable..............1
+1130212720 R02-M0-N6 J16-U01  floating pt ex mode 0 enable......0
+1130212730 R02-M0-N6 J16-U01  debug wait enable.................0
+1130212740 R02-M0-N6 J16-U01  debug interrupt enable............0
+1130212756 R02-M0-N6 J16-U01  floating pt ex mode 1 enable......0

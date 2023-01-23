@@ -1,0 +1,5 @@
+1134773043 R31-M0-N8 J18-U11  Lustre mount FAILED : bglio409 : block_id : location
+1134773049 R55-M0-N8 J18-U01  Lustre mount FAILED : bglio730 : block_id : location
+1134773054 R44-M1-N0 J18-U01  Lustre mount FAILED : bglio582 : block_id : location
+1134773055 R46-M1-NC J18-U01  Lustre mount FAILED : bglio624 : block_id : location
+1134773062 R22-M1-N4 J18-U11  Lustre mount FAILED : bglio295 : block_id : location

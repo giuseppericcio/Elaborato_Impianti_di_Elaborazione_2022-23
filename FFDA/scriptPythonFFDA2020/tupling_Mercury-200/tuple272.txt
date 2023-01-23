@@ -1,0 +1,6 @@
+1171162907 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171162908 tg-c242 DEV +END HARDWARE ERROR STATE AT CPE
+1171162916 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171162916 tg-c242 DEV +Platform PCI Component Error Info Section
+1171162916 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1171162916 tg-c242 DEV + Platform Specific Error Detail:

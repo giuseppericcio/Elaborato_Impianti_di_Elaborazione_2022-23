@@ -1,0 +1,46 @@
+1130810540 R23-M1-N9 J12-U11  machine check interrupt
+1130810541 R23-M1-N9 J12-U11  instruction address: 0x0018fca8
+1130810541 R23-M1-N9 J12-U11  machine check status register: 0x81000000
+1130810541 R23-M1-N9 J12-U11  summary...........................1
+1130810541 R23-M1-N9 J12-U11  instruction plb error.............0
+1130810541 R23-M1-N9 J12-U11  data read plb error...............0
+1130810541 R23-M1-N9 J12-U11  data write plb error..............0
+1130810542 R23-M1-N9 J12-U11  tlb error.........................0
+1130810542 R23-M1-N9 J12-U11  i-cache parity error..............0
+1130810542 R23-M1-N9 J12-U11  d-cache search parity error.......0
+1130810542 R23-M1-N9 J12-U11  d-cache flush parity error........1
+1130810542 R23-M1-N9 J12-U11  imprecise machine check...........0
+1130810542 R23-M1-N9 J12-U11  machine state register: 0x0002f900
+1130810543 R23-M1-N9 J12-U11  wait state enable.................0
+1130810543 R23-M1-N9 J12-U11  critical input interrupt enable...1
+1130810546 R23-M1-N9 J12-U11  external input interrupt enable...1
+1130810549 R23-M1-N9 J12-U11  problem state (0=sup,1=usr).......1
+1130810555 R23-M1-N9 J12-U11  floating point instr. enabled.....1
+1130810560 R23-M1-N9 J12-U11  machine check enable..............1
+1130810566 R23-M1-N9 J12-U11  floating pt ex mode 0 enable......1
+1130810571 R23-M1-N9 J12-U11  debug wait enable.................0
+1130810574 R23-M1-N9 J12-U11  debug interrupt enable............0
+1130810574 R23-M1-N9 J12-U11  floating pt ex mode 1 enable......1
+1130810575 R23-M1-N9 J12-U11  instruction address space.........0
+1130810575 R23-M1-N9 J12-U11  data address space................0
+1130810575 R23-M1-N9 J12-U11  core configuration register: 0x00002000
+1130810575 R23-M1-N9 J12-U11  disable store gathering..................0
+1130810575 R23-M1-N9 J12-U11  disable apu instruction broadcast........0
+1130810575 R23-M1-N9 J12-U11  disable trace broadcast..................0
+1130810576 R23-M1-N9 J12-U11  guaranteed instruction cache block touch.0
+1130810576 R23-M1-N9 J12-U11  guaranteed data cache block touch........1
+1130810576 R23-M1-N9 J12-U11  force load/store alignment...............0
+1130810576 R23-M1-N9 J12-U11  icache prefetch depth....................0
+1130810576 R23-M1-N9 J12-U11  icache prefetch threshold................0
+1130810577 R23-M1-N9 J12-U11  general purpose registers:
+1130810577 R23-M1-N9 J12-U11  0:0000001c 1:0fee9640 2:1eeeeeee 3:00000000
+1130810577 R23-M1-N9 J12-U11  4:0018fc24 5:00210000 6:00000000 7:00000010
+1130810577 R23-M1-N9 J12-U11  8:00241bc0 9:b1140000 10:fff81b00 11:b1140000
+1130810577 R23-M1-N9 J12-U11  12:0020e124 13:1eeeeeee 14:40000000 15:40000000
+1130810577 R23-M1-N9 J12-U11  16:00003b38 17:00003b3a 18:00000000 19:0023ff70
+1130810577 R23-M1-N9 J12-U11  20:00240190 21:00adcb88 22:00005c30 23:0fee9770
+1130810578 R23-M1-N9 J12-U11  24:00000001 25:00000000 26:0fee9780 27:0039a570
+1130810578 R23-M1-N9 J12-U11  28:00399110 29:00000000 30:001758f8 31:0fee9780
+1130810578 R23-M1-N9 J12-U11  special purpose registers:
+1130810578 R23-M1-N9 J12-U11  lr:001758f8 cr:24002842 xer:00000002 ctr:0018fc24
+1130810578 R23-M1-N9 J12-U11  rts panic! - stopping execution

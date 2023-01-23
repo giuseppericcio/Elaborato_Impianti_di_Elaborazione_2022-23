@@ -1,0 +1,22 @@
+1131280295 R21-M0-N4 J14-U01  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1131280295 R21-M0-N4 J14-U01  instruction address: 0x001324b0
+1131280295 R21-M0-N4 J14-U01  machine check status register: 0x91800000
+1131280296 R21-M0-N4 J14-U01  summary...........................1
+1131280296 R21-M0-N4 J14-U01  instruction plb error.............0
+1131280296 R21-M0-N4 J14-U01  data read plb error...............0
+1131280297 R21-M0-N4 J14-U01  data write plb error..............1
+1131280297 R21-M0-N4 J14-U01  tlb error.........................0
+1131280297 R21-M0-N4 J14-U01  i-cache parity error..............0
+1131280298 R21-M0-N4 J14-U01  d-cache search parity error.......0
+1131280298 R21-M0-N4 J14-U01  d-cache flush parity error........1
+1131280298 R21-M0-N4 J14-U01  imprecise machine check...........1
+1131280298 R21-M0-N4 J14-U01  machine state register: 0x0002f900
+1131280299 R21-M0-N4 J14-U01  wait state enable.................0
+1131280299 R21-M0-N4 J14-U01  critical input interrupt enable...1
+1131280299 R21-M0-N4 J14-U01  external input interrupt enable...1
+1131280300 R21-M0-N4 J14-U01  problem state (0=sup,1=usr).......1
+1131280301 R21-M0-N4 J14-U01  floating point instr. enabled.....1
+1131280309 R21-M0-N4 J14-U01  machine check enable..............1
+1131280322 R21-M0-N4 J14-U01  floating pt ex mode 0 enable......1
+1131280336 R21-M0-N4 J14-U01  debug wait enable.................0
+1131280355 R21-M0-N4 J14-U01  debug interrupt enable............0

@@ -1,0 +1,4 @@
+1174929130 tg-master DEV PCI: slot x:x.x has incorrect PCI cache line size of x bytes, correcting to x
+1174929130 tg-master OTH PCI: slot x:x.x has incorrect PCI cache line size of x bytes, correcting to x
+1174929143 tg-master NET connection down
+1174929196 tg-master I-O hda: packet command error: error=x

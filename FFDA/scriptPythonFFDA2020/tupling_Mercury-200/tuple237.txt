@@ -1,0 +1,18 @@
+1170416787 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1170416787 tg-c894 DEV +Platform PCI Component Error Info Section
+1170416787 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1170416788 tg-c894 DEV +END HARDWARE ERROR STATE AT CPE
+1170416788 tg-c894 DEV +Platform PCI Component Error Info Section
+1170416788 tg-c894 DEV +Platform Specific Error Info Section
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1170416788 tg-c894 DEV + Platform Specific Error Detail:
+1170416788 tg-c894 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,
+1170416788 tg-c894 MEM Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,

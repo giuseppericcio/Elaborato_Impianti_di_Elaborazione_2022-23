@@ -1,0 +1,4 @@
+1171222573 tg-c242 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1171222573 tg-c242 DEV +END HARDWARE ERROR STATE AT CPE
+1171222573 tg-c242 DEV +Platform PCI Component Error Info Section
+1171222573 tg-c242 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

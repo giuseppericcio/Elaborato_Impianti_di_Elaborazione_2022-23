@@ -1,0 +1,6 @@
+1133409342 R71-M0-N4 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409494 R71-M0-N4 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409638 R71-M0-N4 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409638 R71-M0-N4 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409772 R71-M0-N4 J18-U11  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409772 R71-M0-N4 J18-U01  ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory

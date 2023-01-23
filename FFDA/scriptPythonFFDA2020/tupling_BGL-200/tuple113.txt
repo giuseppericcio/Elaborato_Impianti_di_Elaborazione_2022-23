@@ -1,0 +1,46 @@
+1130833826 R57-M0-NC J16-U01  machine check interrupt
+1130833826 R57-M0-NC J16-U01  instruction address: 0x0014bf28
+1130833826 R57-M0-NC J16-U01  machine check status register: 0x82000000
+1130833826 R57-M0-NC J16-U01  summary...........................1
+1130833826 R57-M0-NC J16-U01  instruction plb error.............0
+1130833827 R57-M0-NC J16-U01  data read plb error...............0
+1130833828 R57-M0-NC J16-U01  data write plb error..............0
+1130833833 R57-M0-NC J16-U01  tlb error.........................0
+1130833841 R57-M0-NC J16-U01  i-cache parity error..............0
+1130833848 R57-M0-NC J16-U01  d-cache search parity error.......1
+1130833855 R57-M0-NC J16-U01  d-cache flush parity error........0
+1130833861 R57-M0-NC J16-U01  imprecise machine check...........0
+1130833867 R57-M0-NC J16-U01  machine state register: 0x0002f900
+1130833872 R57-M0-NC J16-U01  wait state enable.................0
+1130833874 R57-M0-NC J16-U01  critical input interrupt enable...1
+1130833875 R57-M0-NC J16-U01  external input interrupt enable...1
+1130833877 R57-M0-NC J16-U01  problem state (0=sup,1=usr).......1
+1130833877 R57-M0-NC J16-U01  floating point instr. enabled.....1
+1130833878 R57-M0-NC J16-U01  machine check enable..............1
+1130833878 R57-M0-NC J16-U01  floating pt ex mode 0 enable......1
+1130833879 R57-M0-NC J16-U01  debug wait enable.................0
+1130833880 R57-M0-NC J16-U01  debug interrupt enable............0
+1130833880 R57-M0-NC J16-U01  floating pt ex mode 1 enable......1
+1130833881 R57-M0-NC J16-U01  instruction address space.........0
+1130833881 R57-M0-NC J16-U01  data address space................0
+1130833882 R57-M0-NC J16-U01  core configuration register: 0x00002000
+1130833882 R57-M0-NC J16-U01  disable store gathering..................0
+1130833883 R57-M0-NC J16-U01  disable apu instruction broadcast........0
+1130833884 R57-M0-NC J16-U01  disable trace broadcast..................0
+1130833884 R57-M0-NC J16-U01  guaranteed instruction cache block touch.0
+1130833884 R57-M0-NC J16-U01  guaranteed data cache block touch........1
+1130833885 R57-M0-NC J16-U01  force load/store alignment...............0
+1130833885 R57-M0-NC J16-U01  icache prefetch depth....................0
+1130833886 R57-M0-NC J16-U01  icache prefetch threshold................0
+1130833886 R57-M0-NC J16-U01  general purpose registers:
+1130833887 R57-M0-NC J16-U01  0:00000000 1:0fea0570 2:1eeeeeee 3:003b7760
+1130833887 R57-M0-NC J16-U01  4:003b0000 5:003b0000 6:010743f8 7:0fea0520
+1130833888 R57-M0-NC J16-U01  8:003b7760 9:003b0000 10:ffffffe8 11:01468290
+1130833888 R57-M0-NC J16-U01  12:014681d0 13:1eeeeeee 14:010744c0 15:01468100
+1130833889 R57-M0-NC J16-U01  16:003b7740 17:003b7800 18:000000f3 19:00000010
+1130833889 R57-M0-NC J16-U01  20:00000008 21:00000008 22:00000028 23:ffffff68
+1130833889 R57-M0-NC J16-U01  24:00000008 25:00000008 26:01468040 27:0916aed0
+1130833890 R57-M0-NC J16-U01  28:00000010 29:090d22d0 30:0911d3d0 31:0916b110
+1130833890 R57-M0-NC J16-U01  special purpose registers:
+1130833891 R57-M0-NC J16-U01  lr:0014adec cr:26404244 xer:00000002 ctr:0014ac7c
+1130833891 R57-M0-NC J16-U01  rts panic! - stopping execution

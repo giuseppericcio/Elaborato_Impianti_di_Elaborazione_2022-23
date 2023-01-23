@@ -1,0 +1,2 @@
+1134773859 R71-M0-N4 J18-U11  Lustre mount FAILED : bglio915 : block_id : location
+1134773859 R71-M0-N4 J18-U01  Lustre mount FAILED : bglio916 : block_id : location

@@ -1,0 +1,2 @@
+1129621382 R30-M0-N7 J08-U01  ddr: redundant bit steering failed, sequencer timeout
+1129621382 R30-M0-N7 J08-U01  rts panic! - stopping execution

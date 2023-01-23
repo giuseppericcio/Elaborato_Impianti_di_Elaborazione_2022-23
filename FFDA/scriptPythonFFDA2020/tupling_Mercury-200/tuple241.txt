@@ -1,0 +1,2 @@
+1170491065 tg-c117 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1170491065 tg-c117 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x

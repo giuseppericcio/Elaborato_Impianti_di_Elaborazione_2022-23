@@ -1,0 +1,17 @@
+1128867768 R01-M0-ND J17-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1128867769 R01-M0-ND J17-U11  instruction address: 0x001e4124
+1128867769 R01-M0-ND J17-U11  machine check status register: 0x91800000
+1128867769 R01-M0-ND J17-U11  summary...........................1
+1128867769 R01-M0-ND J17-U11  instruction plb error.............0
+1128867770 R01-M0-ND J17-U11  data read plb error...............0
+1128867770 R01-M0-ND J17-U11  data write plb error..............1
+1128867770 R01-M0-ND J17-U11  tlb error.........................0
+1128867770 R01-M0-ND J17-U11  i-cache parity error..............0
+1128867771 R01-M0-ND J17-U11  d-cache search parity error.......0
+1128867771 R01-M0-ND J17-U11  d-cache flush parity error........1
+1128867771 R01-M0-ND J17-U11  imprecise machine check...........1
+1128867773 R01-M0-ND J17-U11  machine state register: 0x0002f900
+1128867782 R01-M0-ND J17-U11  wait state enable.................0
+1128867802 R01-M0-ND J17-U11  critical input interrupt enable...1
+1128867826 R01-M0-ND J17-U11  external input interrupt enable...1
+1128867851 R01-M0-ND J17-U11  problem state (0=sup,1=usr).......1

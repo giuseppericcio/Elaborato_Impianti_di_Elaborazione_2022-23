@@ -1,0 +1,123 @@
+1130414707 R42-M1-N3 J17-U11  machine check interrupt (bit=0x06): L3 major internal error
+1130414707 R42-M1-N3 J17-U11  instruction address: 0x0014adf8
+1130414708 R42-M1-N3 J17-U11  machine check status register: 0xa0000000
+1130414708 R42-M1-N3 J17-U11  summary...........................1
+1130414709 R42-M1-N3 J17-U11  instruction plb error.............0
+1130414714 R42-M1-N3 J17-U11  data read plb error...............1
+1130414723 R42-M1-N3 J17-U11  data write plb error..............0
+1130414734 R42-M1-N3 J17-U11  tlb error.........................0
+1130414746 R42-M1-N3 J17-U11  i-cache parity error..............0
+1130414759 R42-M1-N3 J17-U11  d-cache search parity error.......0
+1130414773 R42-M1-N3 J17-U11  d-cache flush parity error........0
+1130414785 R42-M1-N3 J17-U11  imprecise machine check...........0
+1130414792 R42-M1-N3 J17-U11  machine state register: 0x0002f900
+1130414794 R42-M1-N3 J17-U11  wait state enable.................0
+1130414794 R42-M1-N3 J17-U11  critical input interrupt enable...1
+1130414795 R42-M1-N3 J17-U11  external input interrupt enable...1
+1130414795 R42-M1-N3 J17-U11  problem state (0=sup,1=usr).......1
+1130414796 R42-M1-N3 J17-U11  floating point instr. enabled.....1
+1130414796 R42-M1-N3 J17-U11  machine check enable..............1
+1130414797 R42-M1-N3 J17-U11  floating pt ex mode 0 enable......1
+1130414797 R42-M1-N3 J17-U11  debug wait enable.................0
+1130414798 R42-M1-N3 J17-U11  debug interrupt enable............0
+1130414798 R42-M1-N3 J17-U11  floating pt ex mode 1 enable......1
+1130414798 R42-M1-N3 J17-U11  instruction address space.........0
+1130414799 R42-M1-N3 J17-U11  data address space................0
+1130414800 R42-M1-N3 J17-U11  core configuration register: 0x00002000
+1130414800 R42-M1-N3 J17-U11  disable store gathering..................0
+1130414800 R42-M1-N3 J17-U11  disable apu instruction broadcast........0
+1130414801 R42-M1-N3 J17-U11  disable trace broadcast..................0
+1130414801 R42-M1-N3 J17-U11  guaranteed instruction cache block touch.0
+1130414802 R42-M1-N3 J17-U11  guaranteed data cache block touch........1
+1130414802 R42-M1-N3 J17-U11  force load/store alignment...............0
+1130414802 R42-M1-N3 J17-U11  icache prefetch depth....................0
+1130414803 R42-M1-N3 J17-U11  icache prefetch threshold................0
+1130414803 R42-M1-N3 J17-U11  L3 global control register: 0x001249f0
+1130414803 R42-M1-N3 J17-U11  start initialization.....................0
+1130414803 R42-M1-N3 J17-U11  start retagging..........................0
+1130414804 R42-M1-N3 J17-U11  start flushing...........................0
+1130414804 R42-M1-N3 J17-U11  start prefetching........................0
+1130414804 R42-M1-N3 J17-U11  disable speculative access...............0
+1130414805 R42-M1-N3 J17-U11  close EDRAM pages as soon as possible....0
+1130414805 R42-M1-N3 J17-U11  size of scratchpad portion of L3.........0 (0M)
+1130414805 R42-M1-N3 J17-U11  disable all access to cache directory....0
+1130414805 R42-M1-N3 J17-U11  write buffer commit threshold............2
+1130414806 R42-M1-N3 J17-U11  size of DDR we are caching...............1 (512M)
+1130414806 R42-M1-N3 J17-U11  prefetch depth for core 0................1
+1130414806 R42-M1-N3 J17-U11  prefetch depth for core 1................1
+1130414806 R42-M1-N3 J17-U11  prefetch depth for PLB slave.............1
+1130414807 R42-M1-N3 J17-U11  max number of outstanding prefetches.....7
+1130414807 R42-M1-N3 J17-U11  turn on hidden refreshes.................1
+1130414807 R42-M1-N3 J17-U11  disable write lines 2:4..................0
+1130414807 R42-M1-N3 J17-U11  L3 ecc control register: 00000000
+1130414807 R42-M1-N3 J17-U11  capture first directory correctable error address..0
+1130414808 R42-M1-N3 J17-U11  capture first directory uncorrectable error address..0
+1130414808 R42-M1-N3 J17-U11  capture first EDRAM correctable error address..0
+1130414808 R42-M1-N3 J17-U11  capture first EDRAM uncorrectable error address..0
+1130414808 R42-M1-N3 J17-U11  capture first EDRAM parity error address..0
+1130414809 R42-M1-N3 J17-U11  capture first DDR uncorrectable error address..0
+1130414809 R42-M1-N3 J17-U11  disable flagging of DDR UE's as major internal error.0
+1130414809 R42-M1-N3 J17-U11  L3 ecc status register: 05000000
+1130414810 R42-M1-N3 J17-U11  correctable error detected in directory 0......0
+1130414810 R42-M1-N3 J17-U11  correctable error detected in directory 1......0
+1130414810 R42-M1-N3 J17-U11  uncorrectable error detected in directory 0....0
+1130414810 R42-M1-N3 J17-U11  uncorrectable error detected in directory 1....0
+1130414811 R42-M1-N3 J17-U11  correctable error detected in EDRAM bank 0.....0
+1130414811 R42-M1-N3 J17-U11  correctable error detected in EDRAM bank 1.....1
+1130414811 R42-M1-N3 J17-U11  uncorrectable error detected in EDRAM bank 0...0
+1130414811 R42-M1-N3 J17-U11  uncorrectable error detected in EDRAM bank 1...1
+1130414812 R42-M1-N3 J17-U11  parity error in bank 0.........................0
+1130414812 R42-M1-N3 J17-U11  parity error in bank 1.........................0
+1130414812 R42-M1-N3 J17-U11  uncorrectable error detected in external DDR...0
+1130414812 R42-M1-N3 J17-U11  parity error in read queue 0...................0
+1130414813 R42-M1-N3 J17-U11  parity error in read queue 1...................0
+1130414813 R42-M1-N3 J17-U11  parity error in read queue PLB.................0
+1130414813 R42-M1-N3 J17-U11  parity error in write buffer...................0
+1130414813 R42-M1-N3 J17-U11  number of correctable errors detected in L3 directories...0
+1130414814 R42-M1-N3 J17-U11  interrupt threshold...0
+1130414814 R42-M1-N3 J17-U11  number of correctable errors detected in L3 EDRAMs........0
+1130414814 R42-M1-N3 J17-U11  interrupt threshold...0
+1130414814 R42-M1-N3 J17-U11  number of lines with parity errors written to L3 EDRAMs...0
+1130414815 R42-M1-N3 J17-U11  DDR machine check register: 0x00000000 0x00000000
+1130414815 R42-M1-N3 J17-U11  memory and bus summary...........................0
+1130414815 R42-M1-N3 J17-U11  command manager unit summary.....................0
+1130414815 R42-M1-N3 J17-U11  memory manager uncorrectable error...............0
+1130414816 R42-M1-N3 J17-U11  memory manager strobe gate.......................0
+1130414816 R42-M1-N3 J17-U11  memory manager address parity error..............0
+1130414816 R42-M1-N3 J17-U11  memory manager miscompare........................0
+1130414816 R42-M1-N3 J17-U11  memory manager address error.....................0
+1130414817 R42-M1-N3 J17-U11  memory manager store buffer parity...............0
+1130414817 R42-M1-N3 J17-U11  memory manager RMW buffer parity.................0
+1130414817 R42-M1-N3 J17-U11  memory manager refresh...........................0
+1130414817 R42-M1-N3 J17-U11  memory manager refresh counter timeout...........0
+1130414818 R42-M1-N3 J17-U11  memory manager refresh contention................0
+1130414818 R42-M1-N3 J17-U11  state machine....................................0
+1130414818 R42-M1-N3 J17-U11  memory manager / command manager address parity..0
+1130414818 R42-M1-N3 J17-U11  regctl scancom interface.........................0
+1130414819 R42-M1-N3 J17-U11  DDR failing info register: 0x00000000
+1130414819 R42-M1-N3 J17-U11  capture valid.........0
+1130414819 R42-M1-N3 J17-U11  symbol................0
+1130414819 R42-M1-N3 J17-U11  mask..................0x00
+1130414820 R42-M1-N3 J17-U11  miscompare............0
+1130414820 R42-M1-N3 J17-U11  uncorrectable error...0
+1130414820 R42-M1-N3 J17-U11  address parity error..0
+1130414820 R42-M1-N3 J17-U11  correctable error.....0
+1130414821 R42-M1-N3 J17-U11  qw trapped............0
+1130414821 R42-M1-N3 J17-U11  chip select...........0
+1130414821 R42-M1-N3 J17-U11  DDR failing data registers: 0x9421ffd0 0x7c0802a6
+1130414821 R42-M1-N3 J17-U11  0x93c10028 0x7c7e1b78
+1130414822 R42-M1-N3 J17-U11  0x746f7275 0x73207265
+1130414822 R42-M1-N3 J17-U11  0x63656976 0x65722078
+1130414822 R42-M1-N3 J17-U11  DDR failing address register: 0x00000000 0x00027560
+1130414822 R42-M1-N3 J17-U11  general purpose registers:
+1130414823 R42-M1-N3 J17-U11  0:00338570 1:0fea0390 2:1eeeeeee 3:027d6c20
+1130414823 R42-M1-N3 J17-U11  4:00338570 5:01cdf9e0 6:09ff3c70 7:00338560
+1130414823 R42-M1-N3 J17-U11  8:ffffffc0 9:00000001 10:ffffffff 11:00146df4
+1130414823 R42-M1-N3 J17-U11  12:002580c0 13:1eeeeeee 14:00036f34 15:0fee0fbc
+1130414824 R42-M1-N3 J17-U11  16:0fea0390 17:00000115 18:00000010 19:0fea0710
+1130414824 R42-M1-N3 J17-U11  20:00000070 21:0fee0710 22:09de9dd0 23:027d6c20
+1130414824 R42-M1-N3 J17-U11  24:01cdf820 25:01cde9e0 26:027d6500 27:00336700
+1130414825 R42-M1-N3 J17-U11  28:09f913d0 29:09ff3c50 30:09ff3cd0 31:09f91410
+1130414825 R42-M1-N3 J17-U11  special purpose registers:
+1130414825 R42-M1-N3 J17-U11  lr:00146ef4 cr:4a404244 xer:20000002 ctr:00146df4
+1130414825 R42-M1-N3 J17-U11  rts panic! - stopping execution

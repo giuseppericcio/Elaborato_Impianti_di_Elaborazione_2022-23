@@ -1,0 +1,2 @@
+1132317388 R63-M0-N0 J18-U01  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied
+1132317452 R63-M0-N0 J18-U11  ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image, Permission denied

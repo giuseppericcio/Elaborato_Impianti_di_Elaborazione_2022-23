@@ -1,0 +1,6 @@
+1133287401 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287401 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287493 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287493 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287527 R63-M0-N0 J18-U11  ciod: Error creating node map from file my_map.txt: No such file or directory
+1133287529 R63-M0-N0 J18-U01  ciod: Error creating node map from file my_map.txt: No such file or directory

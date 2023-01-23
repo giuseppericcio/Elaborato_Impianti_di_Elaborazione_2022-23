@@ -1,0 +1,2 @@
+1134773776 R12-M0-N0 J18-U11  Lustre mount FAILED : bglio161 : block_id : location
+1134773906 R12-M0-N0 J18-U01  Lustre mount FAILED : bglio162 : block_id : location

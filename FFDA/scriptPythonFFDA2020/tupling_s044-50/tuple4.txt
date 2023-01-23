@@ -1,0 +1,2 @@
+1171455345 tg-s044 NET bonx: link status definitely down for interface etx, disabling it.
+1171455345 tg-s044 NET bonx: link status definitely down for interface etx, disabling it.

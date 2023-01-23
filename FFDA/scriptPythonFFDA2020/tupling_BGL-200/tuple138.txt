@@ -1,0 +1,26 @@
+1131206801 R51-M1-N4 J10-U11  machine check interrupt
+1131206801 R51-M1-N4 J10-U11  instruction address: 0x001758c4
+1131206801 R51-M1-N4 J10-U11  machine check status register: 0x81000000
+1131206802 R51-M1-N4 J10-U11  summary...........................1
+1131206802 R51-M1-N4 J10-U11  instruction plb error.............0
+1131206802 R51-M1-N4 J10-U11  data read plb error...............0
+1131206803 R51-M1-N4 J10-U11  data write plb error..............0
+1131206803 R51-M1-N4 J10-U11  tlb error.........................0
+1131206803 R51-M1-N4 J10-U11  i-cache parity error..............0
+1131206803 R51-M1-N4 J10-U11  d-cache search parity error.......0
+1131206804 R51-M1-N4 J10-U11  d-cache flush parity error........1
+1131206804 R51-M1-N4 J10-U11  imprecise machine check...........0
+1131206804 R51-M1-N4 J10-U11  machine state register: 0x0002f900
+1131206804 R51-M1-N4 J10-U11  wait state enable.................0
+1131206805 R51-M1-N4 J10-U11  critical input interrupt enable...1
+1131206805 R51-M1-N4 J10-U11  external input interrupt enable...1
+1131206805 R51-M1-N4 J10-U11  problem state (0=sup,1=usr).......1
+1131206806 R51-M1-N4 J10-U11  floating point instr. enabled.....1
+1131206806 R51-M1-N4 J10-U11  machine check enable..............1
+1131206808 R51-M1-N4 J10-U11  floating pt ex mode 0 enable......1
+1131206811 R51-M1-N4 J10-U11  debug wait enable.................0
+1131206817 R51-M1-N4 J10-U11  debug interrupt enable............0
+1131206825 R51-M1-N4 J10-U11  floating pt ex mode 1 enable......1
+1131206835 R51-M1-N4 J10-U11  instruction address space.........0
+1131206847 R51-M1-N4 J10-U11  data address space................0
+1131206861 R51-M1-N4 J10-U11  core configuration register: 0x00002000

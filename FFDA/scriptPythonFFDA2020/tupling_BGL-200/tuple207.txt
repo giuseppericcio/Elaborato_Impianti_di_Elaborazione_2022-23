@@ -1,0 +1,91 @@
+1132293338 R62-M0-N4 J13-U01  data storage interrupt
+1132293338 R62-M0-N4 J13-U01  floating point unavailable interrupt
+1132293338 R62-M0-N4 J13-U01  instruction address: 0x0000fc68
+1132293338 R62-M0-N4 J13-U01  instruction address: 0x00003740
+1132293338 R62-M0-N4 J13-U01  data address: 0x00006db2
+1132293338 R62-M0-N4 J13-U01  machine state register: 0x00021000
+1132293338 R62-M0-N4 J13-U01  exception syndrome register: 0x00800000
+1132293338 R62-M0-N4 J13-U01  wait state enable.................0
+1132293338 R62-M0-N4 J13-U01  machine check: i-fetch......................0
+1132293339 R62-M0-N4 J13-U01  critical input interrupt enable...1
+1132293339 R62-M0-N4 J13-U01  program interrupt: illegal instruction......0
+1132293339 R62-M0-N4 J13-U01  external input interrupt enable...0
+1132293339 R62-M0-N4 J13-U01  program interrupt: privileged instruction...0
+1132293339 R62-M0-N4 J13-U01  problem state (0=sup,1=usr).......0
+1132293339 R62-M0-N4 J13-U01  program interrupt: trap instruction.........0
+1132293339 R62-M0-N4 J13-U01  floating point instr. enabled.....0
+1132293339 R62-M0-N4 J13-U01  floating point operation....................0
+1132293339 R62-M0-N4 J13-U01  machine check enable..............1
+1132293339 R62-M0-N4 J13-U01  store operation.............................1
+1132293339 R62-M0-N4 J13-U01  floating pt ex mode 0 enable......0
+1132293340 R62-M0-N4 J13-U01  data store interrupt caused by dcbf.........0
+1132293340 R62-M0-N4 J13-U01  debug wait enable.................0
+1132293340 R62-M0-N4 J13-U01  data store interrupt caused by icbi.........0
+1132293340 R62-M0-N4 J13-U01  debug interrupt enable............0
+1132293340 R62-M0-N4 J13-U01  auxiliary processor.........................0
+1132293340 R62-M0-N4 J13-U01  floating pt ex mode 1 enable......0
+1132293340 R62-M0-N4 J13-U01  program interrupt: unimplemented operation..0
+1132293340 R62-M0-N4 J13-U01  instruction address space.........0
+1132293340 R62-M0-N4 J13-U01  byte ordering exception.....................0
+1132293341 R62-M0-N4 J13-U01  data address space................0
+1132293341 R62-M0-N4 J13-U01  program interrupt: imprecise exception......0
+1132293341 R62-M0-N4 J13-U01  core configuration register: 0x00002000
+1132293341 R62-M0-N4 J13-U01  program interrupt: fp cr update.............0
+1132293341 R62-M0-N4 J13-U01  disable store gathering..................0
+1132293341 R62-M0-N4 J13-U01  program interrupt: fp compare...............0
+1132293341 R62-M0-N4 J13-U01  disable apu instruction broadcast........0
+1132293341 R62-M0-N4 J13-U01  program interrupt: fp cr field .............0
+1132293341 R62-M0-N4 J13-U01  disable trace broadcast..................0
+1132293341 R62-M0-N4 J13-U01  machine state register: 0x00003000
+1132293341 R62-M0-N4 J13-U01  guaranteed instruction cache block touch.0
+1132293341 R62-M0-N4 J13-U01  wait state enable.................0
+1132293341 R62-M0-N4 J13-U01  guaranteed data cache block touch........1
+1132293341 R62-M0-N4 J13-U01  critical input interrupt enable...0
+1132293341 R62-M0-N4 J13-U01  force load/store alignment...............0
+1132293341 R62-M0-N4 J13-U01  external input interrupt enable...0
+1132293341 R62-M0-N4 J13-U01  icache prefetch depth....................0
+1132293341 R62-M0-N4 J13-U01  problem state (0=sup,1=usr).......0
+1132293341 R62-M0-N4 J13-U01  icache prefetch threshold................0
+1132293341 R62-M0-N4 J13-U01  floating point instr. enabled.....1
+1132293341 R62-M0-N4 J13-U01  general purpose registers:
+1132293341 R62-M0-N4 J13-U01  machine check enable..............1
+1132293341 R62-M0-N4 J13-U01  0:0000000c 1:0fe9fa20 2:1eeeeeee 3:000000c0
+1132293342 R62-M0-N4 J13-U01  floating pt ex mode 0 enable......0
+1132293342 R62-M0-N4 J13-U01  4:0fee0700 5:0feaf700 6:002a0000 7:00000044
+1132293342 R62-M0-N4 J13-U01  debug wait enable.................0
+1132293342 R62-M0-N4 J13-U01  8:0000002c 9:00000030 10:094a0c00 11:00000000
+1132293342 R62-M0-N4 J13-U01  debug interrupt enable............0
+1132293342 R62-M0-N4 J13-U01  12:0fe9fa40 13:1eeeeeee 14:094231c0 15:800000c0
+1132293342 R62-M0-N4 J13-U01  floating pt ex mode 1 enable......0
+1132293342 R62-M0-N4 J13-U01  16:000070fc 17:00000007 18:00000006 19:00000005
+1132293343 R62-M0-N4 J13-U01  instruction address space.........0
+1132293343 R62-M0-N4 J13-U01  20:0962a620 21:ffffffff 22:08662220 23:3800000c
+1132293343 R62-M0-N4 J13-U01  data address space................0
+1132293343 R62-M0-N4 J13-U01  24:8962a6e0 25:0fee15f4 26:000002d0 27:00545a20
+1132293343 R62-M0-N4 J13-U01  core configuration register: 0x00002000
+1132293343 R62-M0-N4 J13-U01  28:0fee06f4 29:00000033 30:0fea07f0 31:000c65b0
+1132293343 R62-M0-N4 J13-U01  disable store gathering..................0
+1132293343 R62-M0-N4 J13-U01  special purpose registers:
+1132293343 R62-M0-N4 J13-U01  disable apu instruction broadcast........0
+1132293343 R62-M0-N4 J13-U01  lr:0013d978 cr:44404824 xer:20000002 ctr:00000008
+1132293343 R62-M0-N4 J13-U01  disable trace broadcast..................0
+1132293343 R62-M0-N4 J13-U01  rts internal error
+1132293344 R62-M0-N4 J13-U01  guaranteed instruction cache block touch.0
+1132293344 R62-M0-N4 J13-U01  rts panic! - stopping execution
+1132293344 R62-M0-N4 J13-U01  guaranteed data cache block touch........1
+1132293344 R62-M0-N4 J13-U01  force load/store alignment...............0
+1132293344 R62-M0-N4 J13-U01  icache prefetch depth....................0
+1132293344 R62-M0-N4 J13-U01  icache prefetch threshold................0
+1132293344 R62-M0-N4 J13-U01  general purpose registers:
+1132293344 R62-M0-N4 J13-U01  0:0000002f 1:00085fd0 2:1eeeeeee 3:ffffffff
+1132293344 R62-M0-N4 J13-U01  4:00085fd8 5:000865b0 6:00281e74 7:00089414
+1132293344 R62-M0-N4 J13-U01  8:00089414 9:0001c9a0 10:00090000 11:0001cae0
+1132293344 R62-M0-N4 J13-U01  12:00fd1f80 13:00000000 14:0003a045 15:0fee0ac0
+1132293345 R62-M0-N4 J13-U01  16:00000031 17:00000031 18:00000032 19:0fea0700
+1132293345 R62-M0-N4 J13-U01  20:000003df 21:0022536c 22:0fee0700 23:0fea86f8
+1132293345 R62-M0-N4 J13-U01  24:00002d38 25:00000008 26:000865b0 27:00089cd0
+1132293345 R62-M0-N4 J13-U01  28:00553df0 29:002a0000 30:00080000 31:000865b0
+1132293345 R62-M0-N4 J13-U01  special purpose registers:
+1132293345 R62-M0-N4 J13-U01  lr:0000fc5c cr:44404848 xer:00000002 ctr:00000000
+1132293345 R62-M0-N4 J13-U01  rts internal error
+1132293345 R62-M0-N4 J13-U01  rts panic! - stopping execution

@@ -1,0 +1,3 @@
+1130520274 R50-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1130520274 R00-M0-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+1130520274 R60-M1-NC J18-U11  MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed

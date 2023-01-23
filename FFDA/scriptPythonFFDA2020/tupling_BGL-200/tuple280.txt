@@ -1,0 +1,8 @@
+1133397255 R01-M0-NC J18-U11  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397255 R01-M0-NC J18-U01  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N0 J18-U11  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N0 J18-U01  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N4 J18-U01  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N8 J18-U01  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N4 J18-U11  ciod: LOGIN chdir(pwd) failed: No such file or directory
+1133397256 R01-M0-N8 J18-U11  ciod: LOGIN chdir(pwd) failed: No such file or directory

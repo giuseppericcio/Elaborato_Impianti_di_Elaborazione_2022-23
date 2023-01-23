@@ -1,0 +1,46 @@
+1131143766 R35-M1-NA J08-U01  machine check interrupt
+1131143766 R35-M1-NA J08-U01  instruction address: 0x0010eab8
+1131143766 R35-M1-NA J08-U01  machine check status register: 0x81000000
+1131143766 R35-M1-NA J08-U01  summary...........................1
+1131143766 R35-M1-NA J08-U01  instruction plb error.............0
+1131143767 R35-M1-NA J08-U01  data read plb error...............0
+1131143767 R35-M1-NA J08-U01  data write plb error..............0
+1131143767 R35-M1-NA J08-U01  tlb error.........................0
+1131143767 R35-M1-NA J08-U01  i-cache parity error..............0
+1131143767 R35-M1-NA J08-U01  d-cache search parity error.......0
+1131143768 R35-M1-NA J08-U01  d-cache flush parity error........1
+1131143768 R35-M1-NA J08-U01  imprecise machine check...........0
+1131143769 R35-M1-NA J08-U01  machine state register: 0x0002f900
+1131143771 R35-M1-NA J08-U01  wait state enable.................0
+1131143776 R35-M1-NA J08-U01  critical input interrupt enable...1
+1131143783 R35-M1-NA J08-U01  external input interrupt enable...1
+1131143789 R35-M1-NA J08-U01  problem state (0=sup,1=usr).......1
+1131143796 R35-M1-NA J08-U01  floating point instr. enabled.....1
+1131143802 R35-M1-NA J08-U01  machine check enable..............1
+1131143808 R35-M1-NA J08-U01  floating pt ex mode 0 enable......1
+1131143812 R35-M1-NA J08-U01  debug wait enable.................0
+1131143814 R35-M1-NA J08-U01  debug interrupt enable............0
+1131143815 R35-M1-NA J08-U01  floating pt ex mode 1 enable......1
+1131143815 R35-M1-NA J08-U01  instruction address space.........0
+1131143816 R35-M1-NA J08-U01  data address space................0
+1131143816 R35-M1-NA J08-U01  core configuration register: 0x00002000
+1131143816 R35-M1-NA J08-U01  disable store gathering..................0
+1131143817 R35-M1-NA J08-U01  disable apu instruction broadcast........0
+1131143817 R35-M1-NA J08-U01  disable trace broadcast..................0
+1131143817 R35-M1-NA J08-U01  guaranteed instruction cache block touch.0
+1131143818 R35-M1-NA J08-U01  guaranteed data cache block touch........1
+1131143818 R35-M1-NA J08-U01  force load/store alignment...............0
+1131143818 R35-M1-NA J08-U01  icache prefetch depth....................0
+1131143818 R35-M1-NA J08-U01  icache prefetch threshold................0
+1131143818 R35-M1-NA J08-U01  general purpose registers:
+1131143819 R35-M1-NA J08-U01  0:097a3f50 1:0feea610 2:1eeeeeee 3:00003a00
+1131143819 R35-M1-NA J08-U01  4:090a5e00 5:09022c00 6:00083200 7:000020c9
+1131143819 R35-M1-NA J08-U01  8:08f67160 9:ffffffff 10:00000000 11:00000000
+1131143820 R35-M1-NA J08-U01  12:00000000 13:1eeeeeee 14:00000000 15:009c2ad0
+1131143820 R35-M1-NA J08-U01  16:000028c8 17:000007d2 18:00000740 19:0021fa20
+1131143820 R35-M1-NA J08-U01  20:0021fa14 21:0017e860 22:00282c30 23:00017e86
+1131143821 R35-M1-NA J08-U01  24:00000000 25:00000008 26:09771320 27:0976b0e0
+1131143821 R35-M1-NA J08-U01  28:09245580 29:0029b6b0 30:00e9a7a0 31:00e9a730
+1131143821 R35-M1-NA J08-U01  special purpose registers:
+1131143821 R35-M1-NA J08-U01  lr:0010e9a4 cr:44404224 xer:20000002 ctr:00000000
+1131143822 R35-M1-NA J08-U01  rts panic! - stopping execution

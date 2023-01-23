@@ -1,0 +1,137 @@
+1135471551 R41-M0-NE J06-U11  machine check interrupt (bit=0x1d): L2 dcache unit write data parity error
+1135471551 R41-M0-NE J06-U11  instruction address: 0x00318e70
+1135471551 R41-M0-NE J06-U11  Machine Check Status Register: 0x91800000
+1135471551 R41-M0-NE J06-U11  machine check summary.............1
+1135471551 R41-M0-NE J06-U11  instruction plb error.............0
+1135471551 R41-M0-NE J06-U11  data read plb error...............0
+1135471551 R41-M0-NE J06-U11  data write plb error..............1
+1135471552 R41-M0-NE J06-U11  tlb error.........................0
+1135471552 R41-M0-NE J06-U11  i-cache parity error..............0
+1135471552 R41-M0-NE J06-U11  d-cache search parity error.......0
+1135471552 R41-M0-NE J06-U11  d-cache flush parity error........1
+1135471552 R41-M0-NE J06-U11  imprecise machine check...........1
+1135471552 R41-M0-NE J06-U11  Exception Syndrome Register: 0x08000000
+1135471552 R41-M0-NE J06-U11  machine check: i-fetch......................0
+1135471552 R41-M0-NE J06-U11  program interrupt: illegal instruction......1
+1135471553 R41-M0-NE J06-U11  program interrupt: privileged instruction...0
+1135471553 R41-M0-NE J06-U11  program interrupt: trap instruction.........0
+1135471553 R41-M0-NE J06-U11  floating point operation....................0
+1135471553 R41-M0-NE J06-U11  store operation.............................0
+1135471553 R41-M0-NE J06-U11  data store interrupt caused by dcbf.........0
+1135471553 R41-M0-NE J06-U11  data store interrupt caused by icbi.........0
+1135471553 R41-M0-NE J06-U11  auxiliary processor.........................0
+1135471554 R41-M0-NE J06-U11  program interrupt: unimplemented operation..0
+1135471554 R41-M0-NE J06-U11  byte ordering exception.....................0
+1135471554 R41-M0-NE J06-U11  program interrupt: imprecise exception......0
+1135471554 R41-M0-NE J06-U11  program interrupt: fp cr update.............0
+1135471554 R41-M0-NE J06-U11  program interrupt: fp compare...............0
+1135471554 R41-M0-NE J06-U11  program interrupt: fp cr field .............0
+1135471554 R41-M0-NE J06-U11  Machine State Register: 0x0002f900
+1135471555 R41-M0-NE J06-U11  wait state enable.................0
+1135471555 R41-M0-NE J06-U11  critical input interrupt enable...1
+1135471555 R41-M0-NE J06-U11  external input interrupt enable...1
+1135471555 R41-M0-NE J06-U11  problem state (0=sup,1=usr).......1
+1135471555 R41-M0-NE J06-U11  floating point instr. enabled.....1
+1135471556 R41-M0-NE J06-U11  machine check enable..............1
+1135471556 R41-M0-NE J06-U11  floating pt ex mode 0 enable......1
+1135471556 R41-M0-NE J06-U11  debug wait enable.................0
+1135471556 R41-M0-NE J06-U11  debug interrupt enable............0
+1135471556 R41-M0-NE J06-U11  floating pt ex mode 1 enable......1
+1135471556 R41-M0-NE J06-U11  instruction address space.........0
+1135471556 R41-M0-NE J06-U11  data address space................0
+1135471557 R41-M0-NE J06-U11  Core Configuration Register 0: 0x00002000
+1135471557 R41-M0-NE J06-U11  disable store gathering..................0
+1135471557 R41-M0-NE J06-U11  disable apu instruction broadcast........0
+1135471557 R41-M0-NE J06-U11  disable trace broadcast..................0
+1135471557 R41-M0-NE J06-U11  guaranteed instruction cache block touch.0
+1135471557 R41-M0-NE J06-U11  guaranteed data cache block touch........1
+1135471558 R41-M0-NE J06-U11  force load/store alignment...............0
+1135471558 R41-M0-NE J06-U11  icache prefetch depth....................0
+1135471558 R41-M0-NE J06-U11  icache prefetch threshold................0
+1135471558 R41-M0-NE J06-U11  General Purpose Registers:
+1135471558 R41-M0-NE J06-U11  r00=0x00000030 r01=0x0ffe9d50 r02=0x00000000 r03=0x0b592b40
+1135471558 R41-M0-NE J06-U11  r04=0x0b3a4200 r05=0x0000000c r06=0x0000000c r07=0x7ffffff2
+1135471558 R41-M0-NE J06-U11  r08=0x0000029e r09=0x00000000 r10=0x00000004 r11=0x0ffe9c9d
+1135471559 R41-M0-NE J06-U11  r12=0x44844480 r13=0x1eeeeeee r14=0x00000010 r15=0x08adcc70
+1135471559 R41-M0-NE J06-U11  r16=0x00000001 r17=0x00e12310 r18=0x0ffea010 r19=0x00000008
+1135471559 R41-M0-NE J06-U11  r20=0x0b3a49ff r21=0x0b3a2a04 r22=0x0035e908 r23=0x80000003
+1135471559 R41-M0-NE J06-U11  r24=0x80000001 r25=0x003c1920 r26=0x0b60e860 r27=0x0000000c
+1135471559 R41-M0-NE J06-U11  r28=0x0b592b40 r29=0x0000000c r30=0x0b3a420c r31=0x0b592b4c
+1135471559 R41-M0-NE J06-U11  Special Purpose Registers:
+1135471559 R41-M0-NE J06-U11  lr=0x0029f078 cr=0x44844420 xer=0x00000002 ctr=0x00000000
+1135471560 R41-M0-NE J06-U11  msr=0x0002f900 dear=0x00000000 esr=0x08000000 fpscr=0xa7328000
+1135471560 R41-M0-NE J06-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1135471560 R41-M0-NE J06-U11  Floating Point Status and Control Register: 0xa7328000
+1135471560 R41-M0-NE J06-U11  exception summary........................1
+1135471560 R41-M0-NE J06-U11  enabled exception summary................0
+1135471560 R41-M0-NE J06-U11  invalid operation exception summary......1
+1135471561 R41-M0-NE J06-U11  overflow exception.......................0
+1135471561 R41-M0-NE J06-U11  underflow exception......................0
+1135471561 R41-M0-NE J06-U11  divide-by-zero exception.................1
+1135471561 R41-M0-NE J06-U11  inexact exception........................1
+1135471561 R41-M0-NE J06-U11  invalid (SNAN)...........................1
+1135471561 R41-M0-NE J06-U11  invalid (Inf-Inf)........................0
+1135471561 R41-M0-NE J06-U11  invalid (Inf/Inf)........................0
+1135471561 R41-M0-NE J06-U11  invalid (Zero/Zero)......................1
+1135471562 R41-M0-NE J06-U11  invalid (Inf/Zero).......................1
+1135471562 R41-M0-NE J06-U11  invalid (compare)........................0
+1135471562 R41-M0-NE J06-U11  fraction rounded.........................0
+1135471562 R41-M0-NE J06-U11  fraction inexact.........................1
+1135471562 R41-M0-NE J06-U11  quiet NaN................................0
+1135471562 R41-M0-NE J06-U11  minus inf................................0
+1135471562 R41-M0-NE J06-U11  minus normalized number..................1
+1135471563 R41-M0-NE J06-U11  minus denormalized number................0
+1135471563 R41-M0-NE J06-U11  minus zero...............................0
+1135471563 R41-M0-NE J06-U11  plus zero................................0
+1135471563 R41-M0-NE J06-U11  plus denormalized number.................0
+1135471563 R41-M0-NE J06-U11  plus normalized number...................0
+1135471563 R41-M0-NE J06-U11  plus infinity............................0
+1135471563 R41-M0-NE J06-U11  reserved.................................0
+1135471564 R41-M0-NE J06-U11  invalid operation exception (software)...0
+1135471564 R41-M0-NE J06-U11  invalid operation exception (sqrt).......0
+1135471564 R41-M0-NE J06-U11  invalid operation exception (int cnvt)...0
+1135471564 R41-M0-NE J06-U11  enable invalid operation exceptions......0
+1135471564 R41-M0-NE J06-U11  enable overflow exceptions...............0
+1135471564 R41-M0-NE J06-U11  enable underflow exceptions..............0
+1135471564 R41-M0-NE J06-U11  enable divide-by-zero exceptions.........0
+1135471564 R41-M0-NE J06-U11  enable inexact exceptions................0
+1135471565 R41-M0-NE J06-U11  enable non-IEEE mode.....................0
+1135471565 R41-M0-NE J06-U11  round nearest............................0
+1135471565 R41-M0-NE J06-U11  round toward zero........................0
+1135471565 R41-M0-NE J06-U11  round toward +infinity...................0
+1135471565 R41-M0-NE J06-U11  round toward -infinity...................0
+1135471565 R41-M0-NE J06-U11  Floating Point Registers:
+1135471566 R41-M0-NE J06-U11  fpr0=0x00000000 00000000 00000005 43300000
+1135471566 R41-M0-NE J06-U11  fpr1=0x00000000 00000000 00000000 40140000
+1135471566 R41-M0-NE J06-U11  fpr2=0x00000000 00000000 00000000 00000000
+1135471566 R41-M0-NE J06-U11  fpr3=0x00000000 00000000 00000000 40140000
+1135471566 R41-M0-NE J06-U11  fpr4=0x00000000 00000000 00000000 40240000
+1135471566 R41-M0-NE J06-U11  fpr5=0x00000000 00000000 00000000 3c900000
+1135471566 R41-M0-NE J06-U11  fpr6=0x00000000 00000000 00000000 bc900000
+1135471567 R41-M0-NE J06-U11  fpr7=0x00000000 00000000 00000000 43300000
+1135471567 R41-M0-NE J06-U11  fpr8=0x00000000 00000000 ffffffff 3fdfffff
+1135471567 R41-M0-NE J06-U11  fpr9=0x00000000 00000000 82004000 7fffffff
+1135471567 R41-M0-NE J06-U11  fpr10=0x00000000 00000000 82004000 7fffffff
+1135471567 R41-M0-NE J06-U11  fpr11=0x00000000 00000000 00000000 00000000
+1135471567 R41-M0-NE J06-U11  fpr12=0x00000000 00000000 00000000 00000008
+1135471567 R41-M0-NE J06-U11  fpr13=0x00000000 00000000 00000000 00000000
+1135471567 R41-M0-NE J06-U11  fpr14=0xffffffff ffffffff d3c04c7c 3fb774e3
+1135471568 R41-M0-NE J06-U11  fpr15=0xffffffff ffffffff 4420b5f8 bfe05c33
+1135471568 R41-M0-NE J06-U11  fpr16=0xffffffff ffffffff b830572e bfc7c1c1
+1135471568 R41-M0-NE J06-U11  fpr17=0xffffffff ffffffff f6320249 4094834e
+1135471568 R41-M0-NE J06-U11  fpr18=0xffffffff ffffffff a714505d 3f488a60
+1135471568 R41-M0-NE J06-U11  fpr19=0xffffffff ffffffff 8d86925d bf606afe
+1135471568 R41-M0-NE J06-U11  fpr20=0xffffffff ffffffff 0639db77 bf3b93b8
+1135471568 R41-M0-NE J06-U11  fpr21=0xffffffff ffffffff 00000000 3fd00000
+1135471569 R41-M0-NE J06-U11  fpr22=0xffffffff ffffffff 00000000 40640000
+1135471569 R41-M0-NE J06-U11  fpr23=0xffffffff ffffffff 00000000 40640000
+1135471569 R41-M0-NE J06-U11  fpr24=0xffffffff ffffffff 00000000 40640000
+1135471569 R41-M0-NE J06-U11  fpr25=0xffffffff ffffffff 33333333 40873333
+1135471569 R41-M0-NE J06-U11  fpr26=0xffffffff ffffffff 33333333 40873333
+1135471569 R41-M0-NE J06-U11  fpr27=0xffffffff ffffffff 33333333 40873333
+1135471569 R41-M0-NE J06-U11  fpr28=0xffffffff ffffffff 28f5c28f 40128f5c
+1135471569 R41-M0-NE J06-U11  fpr29=0xffffffff ffffffff 28f5c28f 40128f5c
+1135471570 R41-M0-NE J06-U11  fpr30=0xffffffff ffffffff 00000000 3ff00000
+1135471570 R41-M0-NE J06-U11  fpr31=0x00000000 00000000 28f5c28f 40128f5c
+1135471570 R41-M0-NE J06-U11  rts panic! - stopping execution
+1135471577 R42-M0-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46624, Link has been severed

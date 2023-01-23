@@ -1,0 +1,46 @@
+1130834927 R76-M0-N0 J06-U01  machine check interrupt
+1130834927 R76-M0-N0 J06-U01  instruction address: 0x0018e6c4
+1130834927 R76-M0-N0 J06-U01  machine check status register: 0x82000000
+1130834927 R76-M0-N0 J06-U01  summary...........................1
+1130834928 R76-M0-N0 J06-U01  instruction plb error.............0
+1130834928 R76-M0-N0 J06-U01  data read plb error...............0
+1130834928 R76-M0-N0 J06-U01  data write plb error..............0
+1130834928 R76-M0-N0 J06-U01  tlb error.........................0
+1130834928 R76-M0-N0 J06-U01  i-cache parity error..............0
+1130834928 R76-M0-N0 J06-U01  d-cache search parity error.......1
+1130834928 R76-M0-N0 J06-U01  d-cache flush parity error........0
+1130834929 R76-M0-N0 J06-U01  imprecise machine check...........0
+1130834929 R76-M0-N0 J06-U01  machine state register: 0x0002f900
+1130834929 R76-M0-N0 J06-U01  wait state enable.................0
+1130834929 R76-M0-N0 J06-U01  critical input interrupt enable...1
+1130834929 R76-M0-N0 J06-U01  external input interrupt enable...1
+1130834929 R76-M0-N0 J06-U01  problem state (0=sup,1=usr).......1
+1130834930 R76-M0-N0 J06-U01  floating point instr. enabled.....1
+1130834930 R76-M0-N0 J06-U01  machine check enable..............1
+1130834930 R76-M0-N0 J06-U01  floating pt ex mode 0 enable......1
+1130834930 R76-M0-N0 J06-U01  debug wait enable.................0
+1130834930 R76-M0-N0 J06-U01  debug interrupt enable............0
+1130834930 R76-M0-N0 J06-U01  floating pt ex mode 1 enable......1
+1130834931 R76-M0-N0 J06-U01  instruction address space.........0
+1130834931 R76-M0-N0 J06-U01  data address space................0
+1130834931 R76-M0-N0 J06-U01  core configuration register: 0x00002000
+1130834931 R76-M0-N0 J06-U01  disable store gathering..................0
+1130834931 R76-M0-N0 J06-U01  disable apu instruction broadcast........0
+1130834931 R76-M0-N0 J06-U01  disable trace broadcast..................0
+1130834932 R76-M0-N0 J06-U01  guaranteed instruction cache block touch.0
+1130834932 R76-M0-N0 J06-U01  guaranteed data cache block touch........1
+1130834932 R76-M0-N0 J06-U01  force load/store alignment...............0
+1130834932 R76-M0-N0 J06-U01  icache prefetch depth....................0
+1130834933 R76-M0-N0 J06-U01  icache prefetch threshold................0
+1130834934 R76-M0-N0 J06-U01  general purpose registers:
+1130834937 R76-M0-N0 J06-U01  0:afffffff 1:0fee9630 2:1eeeeeee 3:b1145000
+1130834942 R76-M0-N0 J06-U01  4:00398800 5:00398820 6:012c44e0 7:012c4580
+1130834947 R76-M0-N0 J06-U01  8:00000010 9:000000e0 10:00002b20 11:012c19c0
+1130834953 R76-M0-N0 J06-U01  12:44002842 13:1eeeeeee 14:40000000 15:40000000
+1130834959 R76-M0-N0 J06-U01  16:0000228e 17:00001a8e 18:00000000 19:0023ff70
+1130834963 R76-M0-N0 J06-U01  20:00240190 21:012c19c0 22:00005c30 23:0fee9770
+1130834964 R76-M0-N0 J06-U01  24:00000002 25:0039a64c 26:00000008 27:0039a570
+1130834964 R76-M0-N0 J06-U01  28:0039a65c 29:00425270 30:b1145000 31:003986f0
+1130834964 R76-M0-N0 J06-U01  special purpose registers:
+1130834964 R76-M0-N0 J06-U01  lr:0017a538 cr:44002842 xer:00000002 ctr:0017a3dc
+1130834965 R76-M0-N0 J06-U01  rts panic! - stopping execution

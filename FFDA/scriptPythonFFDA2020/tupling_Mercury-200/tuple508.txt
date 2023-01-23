@@ -1,0 +1,2 @@
+1174943925 tg-c196 NET connection down
+1174943943 tg-c196 I-O hda: packet command error: error=x

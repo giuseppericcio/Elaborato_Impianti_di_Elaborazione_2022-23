@@ -1,0 +1,46 @@
+1131146365 R77-M0-NC J03-U11  machine check interrupt
+1131146365 R77-M0-NC J03-U11  instruction address: 0x0010cbb0
+1131146365 R77-M0-NC J03-U11  machine check status register: 0x81000000
+1131146365 R77-M0-NC J03-U11  summary...........................1
+1131146365 R77-M0-NC J03-U11  instruction plb error.............0
+1131146366 R77-M0-NC J03-U11  data read plb error...............0
+1131146366 R77-M0-NC J03-U11  data write plb error..............0
+1131146366 R77-M0-NC J03-U11  tlb error.........................0
+1131146366 R77-M0-NC J03-U11  i-cache parity error..............0
+1131146366 R77-M0-NC J03-U11  d-cache search parity error.......0
+1131146366 R77-M0-NC J03-U11  d-cache flush parity error........1
+1131146366 R77-M0-NC J03-U11  imprecise machine check...........0
+1131146366 R77-M0-NC J03-U11  machine state register: 0x0002f900
+1131146366 R77-M0-NC J03-U11  wait state enable.................0
+1131146367 R77-M0-NC J03-U11  critical input interrupt enable...1
+1131146367 R77-M0-NC J03-U11  external input interrupt enable...1
+1131146368 R77-M0-NC J03-U11  problem state (0=sup,1=usr).......1
+1131146369 R77-M0-NC J03-U11  floating point instr. enabled.....1
+1131146371 R77-M0-NC J03-U11  machine check enable..............1
+1131146372 R77-M0-NC J03-U11  floating pt ex mode 0 enable......1
+1131146373 R77-M0-NC J03-U11  debug wait enable.................0
+1131146374 R77-M0-NC J03-U11  debug interrupt enable............0
+1131146375 R77-M0-NC J03-U11  floating pt ex mode 1 enable......1
+1131146375 R77-M0-NC J03-U11  instruction address space.........0
+1131146375 R77-M0-NC J03-U11  data address space................0
+1131146375 R77-M0-NC J03-U11  core configuration register: 0x00002000
+1131146375 R77-M0-NC J03-U11  disable store gathering..................0
+1131146375 R77-M0-NC J03-U11  disable apu instruction broadcast........0
+1131146376 R77-M0-NC J03-U11  disable trace broadcast..................0
+1131146376 R77-M0-NC J03-U11  guaranteed instruction cache block touch.0
+1131146376 R77-M0-NC J03-U11  guaranteed data cache block touch........1
+1131146376 R77-M0-NC J03-U11  force load/store alignment...............0
+1131146376 R77-M0-NC J03-U11  icache prefetch depth....................0
+1131146376 R77-M0-NC J03-U11  icache prefetch threshold................0
+1131146376 R77-M0-NC J03-U11  general purpose registers:
+1131146376 R77-M0-NC J03-U11  0:00000001 1:0feea2d0 2:1eeeeeee 3:0000025a
+1131146377 R77-M0-NC J03-U11  4:00000007 5:021bf5b8 6:021b75b8 7:01cbad08
+1131146377 R77-M0-NC J03-U11  8:07243b28 9:021b8508 10:021c0508 11:01cb85b8
+1131146377 R77-M0-NC J03-U11  12:074f1b28 13:1eeeeeee 14:00000a63 15:000001f2
+1131146377 R77-M0-NC J03-U11  16:07511b28 17:0750a860 18:074e1b28 19:01caf580
+1131146377 R77-M0-NC J03-U11  20:07505548 21:066add90 22:061add88 23:ffff63c8
+1131146377 R77-M0-NC J03-U11  24:06fc2ba0 25:03fe032c 26:074dc810 27:07e5c53c
+1131146377 R77-M0-NC J03-U11  28:0756c810 29:0755c810 30:0750c810 31:00a6c9f0
+1131146377 R77-M0-NC J03-U11  special purpose registers:
+1131146378 R77-M0-NC J03-U11  lr:0011a0a8 cr:44008222 xer:20000002 ctr:00000069
+1131146378 R77-M0-NC J03-U11  rts panic! - stopping execution

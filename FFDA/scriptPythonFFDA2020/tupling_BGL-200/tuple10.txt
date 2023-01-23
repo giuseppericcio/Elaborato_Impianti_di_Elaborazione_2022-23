@@ -1,0 +1,24 @@
+1128854898 R12-M1-N3 J15-U11  machine check interrupt
+1128854899 R12-M1-N3 J15-U11  instruction address: 0x001e411c
+1128854899 R12-M1-N3 J15-U11  machine check status register: 0x81000000
+1128854899 R12-M1-N3 J15-U11  summary...........................1
+1128854899 R12-M1-N3 J15-U11  instruction plb error.............0
+1128854900 R12-M1-N3 J15-U11  data read plb error...............0
+1128854900 R12-M1-N3 J15-U11  data write plb error..............0
+1128854900 R12-M1-N3 J15-U11  tlb error.........................0
+1128854900 R12-M1-N3 J15-U11  i-cache parity error..............0
+1128854901 R12-M1-N3 J15-U11  d-cache search parity error.......0
+1128854901 R12-M1-N3 J15-U11  d-cache flush parity error........1
+1128854901 R12-M1-N3 J15-U11  imprecise machine check...........0
+1128854901 R12-M1-N3 J15-U11  machine state register: 0x0000f000
+1128854902 R12-M1-N3 J15-U11  wait state enable.................0
+1128854902 R12-M1-N3 J15-U11  critical input interrupt enable...0
+1128854902 R12-M1-N3 J15-U11  external input interrupt enable...1
+1128854902 R12-M1-N3 J15-U11  problem state (0=sup,1=usr).......1
+1128854903 R12-M1-N3 J15-U11  floating point instr. enabled.....1
+1128854903 R12-M1-N3 J15-U11  machine check enable..............1
+1128854904 R12-M1-N3 J15-U11  floating pt ex mode 0 enable......0
+1128854909 R12-M1-N3 J15-U11  debug wait enable.................0
+1128854925 R12-M1-N3 J15-U11  debug interrupt enable............0
+1128854948 R12-M1-N3 J15-U11  floating pt ex mode 1 enable......0
+1128854975 R12-M1-N3 J15-U11  instruction address space.........0

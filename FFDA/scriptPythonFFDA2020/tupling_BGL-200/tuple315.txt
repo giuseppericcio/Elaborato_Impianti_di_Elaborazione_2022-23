@@ -1,0 +1,128 @@
+1133817781 R01-M1-N8 J17-U11  machine check interrupt
+1133817781 R01-M1-N8 J17-U11  instruction address: 0x0020d74c
+1133817782 R01-M1-N8 J17-U11  Machine Check Status Register: 0x81000000
+1133817782 R01-M1-N8 J17-U11  machine check summary.............1
+1133817782 R01-M1-N8 J17-U11  instruction plb error.............0
+1133817782 R01-M1-N8 J17-U11  data read plb error...............0
+1133817782 R01-M1-N8 J17-U11  data write plb error..............0
+1133817782 R01-M1-N8 J17-U11  tlb error.........................0
+1133817782 R01-M1-N8 J17-U11  i-cache parity error..............0
+1133817782 R01-M1-N8 J17-U11  d-cache search parity error.......0
+1133817783 R01-M1-N8 J17-U11  d-cache flush parity error........1
+1133817783 R01-M1-N8 J17-U11  imprecise machine check...........0
+1133817783 R01-M1-N8 J17-U11  Machine State Register: 0x0002f900
+1133817783 R01-M1-N8 J17-U11  wait state enable.................0
+1133817783 R01-M1-N8 J17-U11  critical input interrupt enable...1
+1133817783 R01-M1-N8 J17-U11  external input interrupt enable...1
+1133817783 R01-M1-N8 J17-U11  problem state (0=sup,1=usr).......1
+1133817783 R01-M1-N8 J17-U11  floating point instr. enabled.....1
+1133817784 R01-M1-N8 J17-U11  machine check enable..............1
+1133817784 R01-M1-N8 J17-U11  floating pt ex mode 0 enable......1
+1133817784 R01-M1-N8 J17-U11  debug wait enable.................0
+1133817784 R01-M1-N8 J17-U11  debug interrupt enable............0
+1133817784 R01-M1-N8 J17-U11  floating pt ex mode 1 enable......1
+1133817784 R01-M1-N8 J17-U11  instruction address space.........0
+1133817784 R01-M1-N8 J17-U11  data address space................0
+1133817784 R01-M1-N8 J17-U11  Core Configuration Register 0: 0x00002000
+1133817785 R01-M1-N8 J17-U11  disable store gathering..................0
+1133817785 R01-M1-N8 J17-U11  disable apu instruction broadcast........0
+1133817785 R01-M1-N8 J17-U11  disable trace broadcast..................0
+1133817785 R01-M1-N8 J17-U11  guaranteed instruction cache block touch.0
+1133817785 R01-M1-N8 J17-U11  guaranteed data cache block touch........1
+1133817785 R01-M1-N8 J17-U11  force load/store alignment...............0
+1133817785 R01-M1-N8 J17-U11  icache prefetch depth....................0
+1133817786 R01-M1-N8 J17-U11  icache prefetch threshold................0
+1133817786 R01-M1-N8 J17-U11  General Purpose Registers:
+1133817786 R01-M1-N8 J17-U11  r00=0x00010800 r01=0x1ffa9d80 r02=0x1eeeeeee r03=0x16de0000
+1133817786 R01-M1-N8 J17-U11  r04=0x16632ff0 r05=0x04f29100 r06=0x16df0800 r07=0x00002100
+1133817786 R01-M1-N8 J17-U11  r08=0x16df1400 r09=0x00011400 r10=0x04f3a500 r11=0x00002280
+1133817786 R01-M1-N8 J17-U11  r12=0x00002280 r13=0x1eeeeeee r14=0x00000018 r15=0x00000016
+1133817786 R01-M1-N8 J17-U11  r16=0x16df1610 r17=0x166333d0 r18=0x04f3a5f0 r19=0x04f3a4f0
+1133817786 R01-M1-N8 J17-U11  r20=0x00000017 r21=0x00000010 r22=0x00000180 r23=0x00000000
+1133817787 R01-M1-N8 J17-U11  r24=0x00000003 r25=0x16de0000 r26=0x16630000 r27=0x00000200
+1133817787 R01-M1-N8 J17-U11  r28=0x00000060 r29=0x000000c0 r30=0x04f29300 r31=0x00000002
+1133817787 R01-M1-N8 J17-U11  Special Purpose Registers:
+1133817787 R01-M1-N8 J17-U11  lr=0x0020c48c cr=0x84084044 xer=0x00000002 ctr=0x00000014
+1133817787 R01-M1-N8 J17-U11  msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x8a064000
+1133817787 R01-M1-N8 J17-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1133817787 R01-M1-N8 J17-U11  Floating Point Status and Control Register: 0x8a064000
+1133817788 R01-M1-N8 J17-U11  exception summary........................1
+1133817788 R01-M1-N8 J17-U11  enabled exception summary................0
+1133817788 R01-M1-N8 J17-U11  invalid operation exception summary......0
+1133817788 R01-M1-N8 J17-U11  overflow exception.......................0
+1133817788 R01-M1-N8 J17-U11  underflow exception......................1
+1133817788 R01-M1-N8 J17-U11  divide-by-zero exception.................0
+1133817788 R01-M1-N8 J17-U11  inexact exception........................1
+1133817788 R01-M1-N8 J17-U11  invalid (SNAN)...........................0
+1133817788 R01-M1-N8 J17-U11  invalid (Inf-Inf)........................0
+1133817789 R01-M1-N8 J17-U11  invalid (Inf/Inf)........................0
+1133817789 R01-M1-N8 J17-U11  invalid (Zero/Zero)......................0
+1133817789 R01-M1-N8 J17-U11  invalid (Inf/Zero).......................0
+1133817789 R01-M1-N8 J17-U11  invalid (compare)........................0
+1133817789 R01-M1-N8 J17-U11  fraction rounded.........................1
+1133817789 R01-M1-N8 J17-U11  fraction inexact.........................1
+1133817789 R01-M1-N8 J17-U11  quiet NaN................................0
+1133817789 R01-M1-N8 J17-U11  minus inf................................0
+1133817790 R01-M1-N8 J17-U11  minus normalized number..................0
+1133817790 R01-M1-N8 J17-U11  minus denormalized number................0
+1133817790 R01-M1-N8 J17-U11  minus zero...............................0
+1133817790 R01-M1-N8 J17-U11  plus zero................................0
+1133817790 R01-M1-N8 J17-U11  plus denormalized number.................0
+1133817790 R01-M1-N8 J17-U11  plus normalized number...................1
+1133817790 R01-M1-N8 J17-U11  plus infinity............................0
+1133817791 R01-M1-N8 J17-U11  reserved.................................0
+1133817791 R01-M1-N8 J17-U11  invalid operation exception (software)...0
+1133817791 R01-M1-N8 J17-U11  invalid operation exception (sqrt).......0
+1133817791 R01-M1-N8 J17-U11  invalid operation exception (int cnvt)...0
+1133817791 R01-M1-N8 J17-U11  enable invalid operation exceptions......0
+1133817791 R01-M1-N8 J17-U11  enable overflow exceptions...............0
+1133817791 R01-M1-N8 J17-U11  enable underflow exceptions..............0
+1133817791 R01-M1-N8 J17-U11  enable divide-by-zero exceptions.........0
+1133817792 R01-M1-N8 J17-U11  enable inexact exceptions................0
+1133817792 R01-M1-N8 J17-U11  enable non-IEEE mode.....................0
+1133817792 R01-M1-N8 J17-U11  round nearest............................0
+1133817792 R01-M1-N8 J17-U11  round toward zero........................0
+1133817792 R01-M1-N8 J17-U11  round toward +infinity...................0
+1133817792 R01-M1-N8 J17-U11  round toward -infinity...................0
+1133817792 R01-M1-N8 J17-U11  Floating Point Registers:
+1133817792 R01-M1-N8 J17-U11  fpr0=0xaa997f63 bfb0a518 a9aa63ac bfc740f6
+1133817793 R01-M1-N8 J17-U11  fpr1=0x7b467ada bfbaf6fe b59cf788 bfc09d6c
+1133817793 R01-M1-N8 J17-U11  fpr2=0x57f64e25 bfcb272d e3cdf295 3fcab7f6
+1133817793 R01-M1-N8 J17-U11  fpr3=0x89b8f327 bfa0c49c 9991a9e0 3fc5695e
+1133817793 R01-M1-N8 J17-U11  fpr4=0x5c260bb7 3fd8426b 977893e5 3fba466d
+1133817793 R01-M1-N8 J17-U11  fpr5=0xba8551a2 3fe13b82 93c3f2c1 3fbcbeb6
+1133817793 R01-M1-N8 J17-U11  fpr6=0x0c1ecd0a 3fd03ed8 46d01014 bfc80ca1
+1133817793 R01-M1-N8 J17-U11  fpr7=0x7193139e bfb74002 3710328b bfcb7ed6
+1133817793 R01-M1-N8 J17-U11  fpr8=0x631610da c0262820 2caf34ac c01b0573
+1133817794 R01-M1-N8 J17-U11  fpr9=0xc510b509 40239652 4afb1558 4016863a
+1133817794 R01-M1-N8 J17-U11  fpr10=0xc9a4c09d c01cdf54 343c21a0 bfcefc09
+1133817794 R01-M1-N8 J17-U11  fpr11=0xc8cdfbab c031a8d1 61672fb5 c0322a53
+1133817794 R01-M1-N8 J17-U11  fpr12=0xc7a5252a c02cf64e 81891421 c032cd62
+1133817794 R01-M1-N8 J17-U11  fpr13=0xaf37302b 40250b22 9c0f76af 40218bdb
+1133817794 R01-M1-N8 J17-U11  fpr14=0x101a5a39 bff6fdf9 665dcd85 bffc2f3a
+1133817794 R01-M1-N8 J17-U11  fpr15=0x65ca935a 4017ab30 de2b215b 402defe6
+1133817794 R01-M1-N8 J17-U11  fpr16=0x75d6e2d6 4021f361 4a4cf3ec 4016ad57
+1133817795 R01-M1-N8 J17-U11  fpr17=0x69972dc1 c014873d 8aef55ff c027ac72
+1133817795 R01-M1-N8 J17-U11  fpr18=0xa7b9b409 c01bc613 ee00caaa 3ff73af6
+1133817795 R01-M1-N8 J17-U11  fpr19=0xae6eed33 4013a210 dfa708d6 c032176d
+1133817795 R01-M1-N8 J17-U11  fpr20=0x9649fc51 40146071 a82b8ace 4015122e
+1133817795 R01-M1-N8 J17-U11  fpr21=0x0412cb3b 4004d51e 9c5139cd c0261f66
+1133817795 R01-M1-N8 J17-U11  fpr22=0xaf97827d c01d47fb 83d918e1 402309b8
+1133817795 R01-M1-N8 J17-U11  fpr23=0x2dac6a53 c0061a9c c2f8a41a c008d371
+1133817796 R01-M1-N8 J17-U11  fpr24=0x3ce58ec9 4012c016 8c8da6e4 4019dcc5
+1133817796 R01-M1-N8 J17-U11  fpr25=0xa5ddb768 bfc22b5d 07cbfb97 c023a3bc
+1133817796 R01-M1-N8 J17-U11  fpr26=0x3280142a c016ecfe 225d3696 402e6ee0
+1133817796 R01-M1-N8 J17-U11  fpr27=0xb54328aa 3ff925d0 5f32e549 c000af8c
+1133817796 R01-M1-N8 J17-U11  fpr28=0xfa1099a0 402752a9 4879f9cc 4013ec5c
+1133817796 R01-M1-N8 J17-U11  fpr29=0xdcef816f 3fdf36fa 659f7cfe 40150883
+1133817796 R01-M1-N8 J17-U11  fpr30=0x2f308db2 c01cd896 05613382 4020705d
+1133817796 R01-M1-N8 J17-U11  fpr31=0xc5bef4b8 c008806c e06ca8f9 c02f96a0
+1133817797 R01-M1-N8 J17-U11  rts panic! - stopping execution
+1133817799 R01-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41819, Link has been severed
+1133817799 R01-M1-N0 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41825, Link has been severed
+1133817799 R01-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41818, Link has been severed
+1133817799 R01-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41823, Link has been severed
+1133817799 R01-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41822, Link has been severed
+1133817799 R01-M1-N8 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41821, Link has been severed
+1133817800 R01-M1-N0 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41824, Link has been severed
+1133817800 R01-M1-N8 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41820, Link has been severed

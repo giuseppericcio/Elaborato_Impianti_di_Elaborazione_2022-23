@@ -1,0 +1,9 @@
+1167845528 tg-c238 NET connection down
+1167845545 tg-c238 I-O hda: packet command error: error=x
+1167845732 tg-c383 DEV GM: LANAI[x]: SRAM PARITY error
+1167845732 tg-c383 OTH GM: LANAI[x]: WARNING: libgm gm abort.c:x:gm abort():firmware
+1167845742 tg-c383 DEV firmware error-x:SRAM parity error on NIC, serial no=x
+1167845742 tg-c383 DEV gm.interrupt.type =x x
+1167845742 tg-c383 DEV is->interrupt.last byte.ready =x x
+1167845742 tg-c383 DEV GM: gm exit() called in the OTH: GM aborted<x>GM: NOTICE: drivers gm lanai command.c:x:gm lanai command report error():OTH
+1167845742 tg-c383 OTH GM: gm exit() called in the OTH: GM aborted<x>GM: NOTICE: drivers gm lanai command.c:x:gm lanai command report error():OTH

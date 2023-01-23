@@ -1,0 +1,46 @@
+1130479292 R72-M0-N5 J07-U01  machine check interrupt
+1130479292 R72-M0-N5 J07-U01  instruction address: 0x001285e8
+1130479292 R72-M0-N5 J07-U01  machine check status register: 0x82000000
+1130479292 R72-M0-N5 J07-U01  summary...........................1
+1130479292 R72-M0-N5 J07-U01  instruction plb error.............0
+1130479292 R72-M0-N5 J07-U01  data read plb error...............0
+1130479292 R72-M0-N5 J07-U01  data write plb error..............0
+1130479293 R72-M0-N5 J07-U01  tlb error.........................0
+1130479293 R72-M0-N5 J07-U01  i-cache parity error..............0
+1130479293 R72-M0-N5 J07-U01  d-cache search parity error.......1
+1130479293 R72-M0-N5 J07-U01  d-cache flush parity error........0
+1130479293 R72-M0-N5 J07-U01  imprecise machine check...........0
+1130479293 R72-M0-N5 J07-U01  machine state register: 0x0002f900
+1130479294 R72-M0-N5 J07-U01  wait state enable.................0
+1130479294 R72-M0-N5 J07-U01  critical input interrupt enable...1
+1130479294 R72-M0-N5 J07-U01  external input interrupt enable...1
+1130479294 R72-M0-N5 J07-U01  problem state (0=sup,1=usr).......1
+1130479294 R72-M0-N5 J07-U01  floating point instr. enabled.....1
+1130479294 R72-M0-N5 J07-U01  machine check enable..............1
+1130479295 R72-M0-N5 J07-U01  floating pt ex mode 0 enable......1
+1130479295 R72-M0-N5 J07-U01  debug wait enable.................0
+1130479297 R72-M0-N5 J07-U01  debug interrupt enable............0
+1130479300 R72-M0-N5 J07-U01  floating pt ex mode 1 enable......1
+1130479306 R72-M0-N5 J07-U01  instruction address space.........0
+1130479311 R72-M0-N5 J07-U01  data address space................0
+1130479317 R72-M0-N5 J07-U01  core configuration register: 0x40002000
+1130479322 R72-M0-N5 J07-U01  disable store gathering..................0
+1130479326 R72-M0-N5 J07-U01  disable apu instruction broadcast........0
+1130479327 R72-M0-N5 J07-U01  disable trace broadcast..................0
+1130479327 R72-M0-N5 J07-U01  guaranteed instruction cache block touch.0
+1130479327 R72-M0-N5 J07-U01  guaranteed data cache block touch........1
+1130479328 R72-M0-N5 J07-U01  force load/store alignment...............0
+1130479328 R72-M0-N5 J07-U01  icache prefetch depth....................0
+1130479328 R72-M0-N5 J07-U01  icache prefetch threshold................0
+1130479328 R72-M0-N5 J07-U01  general purpose registers:
+1130479328 R72-M0-N5 J07-U01  0:00002a58 1:0fee9ae0 2:1eeeeeee 3:00d58078
+1130479328 R72-M0-N5 J07-U01  4:8000054b 5:001d7050 6:00d3f6c0 7:001d0000
+1130479328 R72-M0-N5 J07-U01  8:43300000 9:001d8660 10:7ff310ca 11:001db728
+1130479329 R72-M0-N5 J07-U01  12:0fee9b70 13:1eeeeeee 14:00240000 15:00000004
+1130479329 R72-M0-N5 J07-U01  16:00000004 17:fffffff8 18:00000010 19:00000020
+1130479329 R72-M0-N5 J07-U01  20:00000008 21:00000028 22:00000000 23:00000006
+1130479329 R72-M0-N5 J07-U01  24:00b10758 25:00b10378 26:00b101d0 27:00240000
+1130479329 R72-M0-N5 J07-U01  28:00b101a0 29:00230000 30:00000004 31:00aa3bd0
+1130479329 R72-M0-N5 J07-U01  special purpose registers:
+1130479330 R72-M0-N5 J07-U01  lr:001269b0 cr:44002842 xer:20000002 ctr:001268b0
+1130479330 R72-M0-N5 J07-U01  rts panic! - stopping execution

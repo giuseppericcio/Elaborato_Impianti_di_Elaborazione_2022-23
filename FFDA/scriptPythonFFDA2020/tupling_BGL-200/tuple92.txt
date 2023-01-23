@@ -1,0 +1,53 @@
+1130376973 R42-M1-N3 J17-U11  program interrupt
+1130376973 R42-M1-N3 J17-U11  instruction address: 0x00000000
+1130376973 R42-M1-N3 J17-U11  exception syndrome register: 0x08000000
+1130376973 R42-M1-N3 J17-U11  machine check: i-fetch......................0
+1130376974 R42-M1-N3 J17-U11  program interrupt: illegal instruction......1
+1130376974 R42-M1-N3 J17-U11  program interrupt: privileged instruction...0
+1130376974 R42-M1-N3 J17-U11  program interrupt: trap instruction.........0
+1130376974 R42-M1-N3 J17-U11  floating point operation....................0
+1130376975 R42-M1-N3 J17-U11  store operation.............................0
+1130376975 R42-M1-N3 J17-U11  data store interrupt caused by dcbf.........0
+1130376976 R42-M1-N3 J17-U11  data store interrupt caused by icbi.........0
+1130376978 R42-M1-N3 J17-U11  auxiliary processor.........................0
+1130376982 R42-M1-N3 J17-U11  program interrupt: unimplemented operation..0
+1130376990 R42-M1-N3 J17-U11  byte ordering exception.....................0
+1130376999 R42-M1-N3 J17-U11  program interrupt: imprecise exception......0
+1130377010 R42-M1-N3 J17-U11  program interrupt: fp cr update.............0
+1130377025 R42-M1-N3 J17-U11  program interrupt: fp compare...............0
+1130377036 R42-M1-N3 J17-U11  program interrupt: fp cr field .............0
+1130377042 R42-M1-N3 J17-U11  machine state register: 0x00003000
+1130377044 R42-M1-N3 J17-U11  wait state enable.................0
+1130377044 R42-M1-N3 J17-U11  critical input interrupt enable...0
+1130377044 R42-M1-N3 J17-U11  external input interrupt enable...0
+1130377044 R42-M1-N3 J17-U11  problem state (0=sup,1=usr).......0
+1130377045 R42-M1-N3 J17-U11  floating point instr. enabled.....1
+1130377045 R42-M1-N3 J17-U11  machine check enable..............1
+1130377045 R42-M1-N3 J17-U11  floating pt ex mode 0 enable......0
+1130377046 R42-M1-N3 J17-U11  debug wait enable.................0
+1130377046 R42-M1-N3 J17-U11  debug interrupt enable............0
+1130377046 R42-M1-N3 J17-U11  floating pt ex mode 1 enable......0
+1130377046 R42-M1-N3 J17-U11  instruction address space.........0
+1130377047 R42-M1-N3 J17-U11  data address space................0
+1130377047 R42-M1-N3 J17-U11  core configuration register: 0x40002000
+1130377047 R42-M1-N3 J17-U11  disable store gathering..................0
+1130377047 R42-M1-N3 J17-U11  disable apu instruction broadcast........0
+1130377048 R42-M1-N3 J17-U11  disable trace broadcast..................0
+1130377048 R42-M1-N3 J17-U11  guaranteed instruction cache block touch.0
+1130377048 R42-M1-N3 J17-U11  guaranteed data cache block touch........1
+1130377049 R42-M1-N3 J17-U11  force load/store alignment...............0
+1130377049 R42-M1-N3 J17-U11  icache prefetch depth....................0
+1130377049 R42-M1-N3 J17-U11  icache prefetch threshold................0
+1130377049 R42-M1-N3 J17-U11  general purpose registers:
+1130377050 R42-M1-N3 J17-U11  0:00000000 1:00085fa0 2:1eeeeeee 3:00000000
+1130377050 R42-M1-N3 J17-U11  4:000099c8 5:00000000 6:00009c70 7:00040000
+1130377050 R42-M1-N3 J17-U11  8:000099c8 9:00000000 10:00084fc0 11:00084fb0
+1130377050 R42-M1-N3 J17-U11  12:00084fa0 13:1eeeeeee 14:1f0995a0 15:004c2450
+1130377051 R42-M1-N3 J17-U11  16:20202020 17:00587ae0 18:00000001 19:00000023
+1130377051 R42-M1-N3 J17-U11  20:00000090 21:005561a0 22:00100000 23:00000004
+1130377051 R42-M1-N3 J17-U11  24:005a8a10 25:00085e80 26:00010000 27:00000000
+1130377051 R42-M1-N3 J17-U11  28:c2a385eb 29:c2a67df3 30:c2a9cc0d 31:c2ad4d2b
+1130377052 R42-M1-N3 J17-U11  special purpose registers:
+1130377052 R42-M1-N3 J17-U11  lr:00000000 cr:24422448 xer:20000002 ctr:00009c70
+1130377052 R42-M1-N3 J17-U11  rts internal error
+1130377053 R42-M1-N3 J17-U11  rts panic! - stopping execution

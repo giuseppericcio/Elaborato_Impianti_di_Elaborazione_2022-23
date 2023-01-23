@@ -1,0 +1,46 @@
+1131691007 R44-M0-N9 J08-U11  machine check interrupt
+1131691007 R44-M0-N9 J08-U11  instruction address: 0x0013e2ac
+1131691007 R44-M0-N9 J08-U11  machine check status register: 0x81000000
+1131691007 R44-M0-N9 J08-U11  summary...........................1
+1131691007 R44-M0-N9 J08-U11  instruction plb error.............0
+1131691007 R44-M0-N9 J08-U11  data read plb error...............0
+1131691008 R44-M0-N9 J08-U11  data write plb error..............0
+1131691008 R44-M0-N9 J08-U11  tlb error.........................0
+1131691008 R44-M0-N9 J08-U11  i-cache parity error..............0
+1131691008 R44-M0-N9 J08-U11  d-cache search parity error.......0
+1131691009 R44-M0-N9 J08-U11  d-cache flush parity error........1
+1131691012 R44-M0-N9 J08-U11  imprecise machine check...........0
+1131691016 R44-M0-N9 J08-U11  machine state register: 0x0002f900
+1131691019 R44-M0-N9 J08-U11  wait state enable.................0
+1131691021 R44-M0-N9 J08-U11  critical input interrupt enable...1
+1131691024 R44-M0-N9 J08-U11  external input interrupt enable...1
+1131691025 R44-M0-N9 J08-U11  problem state (0=sup,1=usr).......1
+1131691028 R44-M0-N9 J08-U11  floating point instr. enabled.....1
+1131691031 R44-M0-N9 J08-U11  machine check enable..............1
+1131691033 R44-M0-N9 J08-U11  floating pt ex mode 0 enable......1
+1131691034 R44-M0-N9 J08-U11  debug wait enable.................0
+1131691034 R44-M0-N9 J08-U11  debug interrupt enable............0
+1131691034 R44-M0-N9 J08-U11  floating pt ex mode 1 enable......1
+1131691034 R44-M0-N9 J08-U11  instruction address space.........0
+1131691035 R44-M0-N9 J08-U11  data address space................0
+1131691035 R44-M0-N9 J08-U11  core configuration register: 0x00002000
+1131691035 R44-M0-N9 J08-U11  disable store gathering..................0
+1131691035 R44-M0-N9 J08-U11  disable apu instruction broadcast........0
+1131691035 R44-M0-N9 J08-U11  disable trace broadcast..................0
+1131691036 R44-M0-N9 J08-U11  guaranteed instruction cache block touch.0
+1131691036 R44-M0-N9 J08-U11  guaranteed data cache block touch........1
+1131691036 R44-M0-N9 J08-U11  force load/store alignment...............0
+1131691036 R44-M0-N9 J08-U11  icache prefetch depth....................0
+1131691037 R44-M0-N9 J08-U11  icache prefetch threshold................0
+1131691037 R44-M0-N9 J08-U11  general purpose registers:
+1131691037 R44-M0-N9 J08-U11  0:00000000 1:0fe9fa20 2:1eeeeeee 3:00000000
+1131691037 R44-M0-N9 J08-U11  4:0fee0700 5:0fea0700 6:002a0000 7:00000016
+1131691037 R44-M0-N9 J08-U11  8:0000002c 9:00000030 10:009c94f0 11:0fe9fb40
+1131691037 R44-M0-N9 J08-U11  12:00247e20 13:1eeeeeee 14:00034a8d 15:0fee0a34
+1131691038 R44-M0-N9 J08-U11  16:0000002a 17:0000002a 18:0000002b 19:0fea0700
+1131691038 R44-M0-N9 J08-U11  20:00000656 21:0022536c 22:0fee0700 23:0fea86f8
+1131691038 R44-M0-N9 J08-U11  24:00002c18 25:000247e2 26:00000eaa 27:000247b4
+1131691038 R44-M0-N9 J08-U11  28:00003aa8 29:0a025dcc 30:0a025dc4 31:0a025dc8
+1131691038 R44-M0-N9 J08-U11  special purpose registers:
+1131691038 R44-M0-N9 J08-U11  lr:0013d978 cr:48404822 xer:00000002 ctr:001c0e84
+1131691039 R44-M0-N9 J08-U11  rts panic! - stopping execution

@@ -1,0 +1,6 @@
+1167670847 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1167670847 tg-c238 DEV +END HARDWARE ERROR STATE AT CPE
+1167670847 tg-c238 DEV +Platform PCI Component Error Info Section
+1167670847 tg-c238 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1167670847 tg-c238 DEV + Platform Specific Error Detail:
+1167670848 tg-c238 DEV +BEGIN HARDWARE ERROR STATE AT CPE

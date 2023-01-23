@@ -1,0 +1,67 @@
+1168103773 tg-master NET setting node state to down
+1168103773 tg-master NET setting node state to down
+1168103773 tg-master NET setting node state to down
+1168103774 tg-master NET setting node state to down
+1168103774 tg-master NET setting node state to down
+1168103779 tg-master NET setting node state to down
+1168103779 tg-master NET setting node state to down
+1168103780 tg-master NET setting node state to down
+1168103780 tg-master NET setting node state to down
+1168103781 tg-master NET setting node state to down
+1168103783 tg-master NET setting node state to down
+1168103786 tg-master NET setting node state to down
+1168103786 tg-master NET setting node state to down
+1168103786 tg-master NET setting node state to down
+1168103788 tg-master NET setting node state to down
+1168103788 tg-master NET setting node state to down
+1168103789 tg-master NET setting node state to down
+1168103790 tg-master NET setting node state to down
+1168103790 tg-master NET setting node state to down
+1168103791 tg-master NET setting node state to down
+1168103791 tg-master NET setting node state to down
+1168103791 tg-master NET setting node state to down
+1168103792 tg-master NET setting node state to down
+1168103792 tg-master NET setting node state to down
+1168103792 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103794 tg-master NET setting node state to down
+1168103795 tg-master NET setting node state to down
+1168103797 tg-master NET setting node state to down
+1168103822 tg-c735 DEV +BEGIN HARDWARE ERROR STATE AT CPE
+1168103822 tg-c735 DEV +Platform PCI Component Error Info Section
+1168103822 tg-c735 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168103822 tg-c735 DEV Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103914 tg-c696 I-O error, dev x:x (hda), sector x
+1168103985 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down
+1168104044 tg-master NET setting node state to down

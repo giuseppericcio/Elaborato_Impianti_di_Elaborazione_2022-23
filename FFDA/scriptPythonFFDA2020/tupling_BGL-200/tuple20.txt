@@ -1,0 +1,12 @@
+1129097689 R07-M0-NE J10-U11  machine check interrupt
+1129097690 R07-M0-NE J10-U11  instruction address: 0x004ed230
+1129097690 R07-M0-NE J10-U11  machine check status register: 0x81000000
+1129097690 R07-M0-NE J10-U11  summary...........................1
+1129097690 R07-M0-NE J10-U11  instruction plb error.............0
+1129097691 R07-M0-NE J10-U11  data read plb error...............0
+1129097699 R07-M0-NE J10-U11  data write plb error..............0
+1129097709 R07-M0-NE J10-U11  tlb error.........................0
+1129097726 R07-M0-NE J10-U11  i-cache parity error..............0
+1129097748 R07-M0-NE J10-U11  d-cache search parity error.......0
+1129097764 R07-M0-NE J10-U11  d-cache flush parity error........1
+1129097776 R07-M0-NE J10-U11  imprecise machine check...........0

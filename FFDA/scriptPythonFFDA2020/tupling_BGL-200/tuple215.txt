@@ -1,0 +1,46 @@
+1132477956 R61-M1-N6 J15-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1132477957 R61-M1-N6 J15-U11  instruction address: 0x0010ec34
+1132477957 R61-M1-N6 J15-U11  machine check status register: 0x91800000
+1132477957 R61-M1-N6 J15-U11  summary...........................1
+1132477958 R61-M1-N6 J15-U11  instruction plb error.............0
+1132477958 R61-M1-N6 J15-U11  data read plb error...............0
+1132477961 R61-M1-N6 J15-U11  data write plb error..............1
+1132477971 R61-M1-N6 J15-U11  tlb error.........................0
+1132477987 R61-M1-N6 J15-U11  i-cache parity error..............0
+1132478002 R61-M1-N6 J15-U11  d-cache search parity error.......0
+1132478021 R61-M1-N6 J15-U11  d-cache flush parity error........1
+1132478034 R61-M1-N6 J15-U11  imprecise machine check...........1
+1132478047 R61-M1-N6 J15-U11  machine state register: 0x0002f900
+1132478051 R61-M1-N6 J15-U11  wait state enable.................0
+1132478054 R61-M1-N6 J15-U11  critical input interrupt enable...1
+1132478055 R61-M1-N6 J15-U11  external input interrupt enable...1
+1132478056 R61-M1-N6 J15-U11  problem state (0=sup,1=usr).......1
+1132478057 R61-M1-N6 J15-U11  floating point instr. enabled.....1
+1132478058 R61-M1-N6 J15-U11  machine check enable..............1
+1132478060 R61-M1-N6 J15-U11  floating pt ex mode 0 enable......1
+1132478060 R61-M1-N6 J15-U11  debug wait enable.................0
+1132478061 R61-M1-N6 J15-U11  debug interrupt enable............0
+1132478062 R61-M1-N6 J15-U11  floating pt ex mode 1 enable......1
+1132478063 R61-M1-N6 J15-U11  instruction address space.........0
+1132478064 R61-M1-N6 J15-U11  data address space................0
+1132478064 R61-M1-N6 J15-U11  core configuration register: 0x00002000
+1132478065 R61-M1-N6 J15-U11  disable store gathering..................0
+1132478066 R61-M1-N6 J15-U11  disable apu instruction broadcast........0
+1132478066 R61-M1-N6 J15-U11  disable trace broadcast..................0
+1132478067 R61-M1-N6 J15-U11  guaranteed instruction cache block touch.0
+1132478067 R61-M1-N6 J15-U11  guaranteed data cache block touch........1
+1132478068 R61-M1-N6 J15-U11  force load/store alignment...............0
+1132478068 R61-M1-N6 J15-U11  icache prefetch depth....................0
+1132478069 R61-M1-N6 J15-U11  icache prefetch threshold................0
+1132478070 R61-M1-N6 J15-U11  general purpose registers:
+1132478070 R61-M1-N6 J15-U11  0:00008908 1:0feea610 2:1eeeeeee 3:000015e7
+1132478070 R61-M1-N6 J15-U11  4:000017e7 5:0afdb950 6:00057980 7:000015e7
+1132478071 R61-M1-N6 J15-U11  8:099729f0 9:ffffffff 10:00000000 11:00000000
+1132478071 R61-M1-N6 J15-U11  12:00000000 13:1eeeeeee 14:00000000 15:00fc2ad0
+1132478072 R61-M1-N6 J15-U11  16:00001de7 17:00000be2 18:000008e6 19:0021fa20
+1132478072 R61-M1-N6 J15-U11  20:0021fa14 21:001cb690 22:00282c30 23:0001cb69
+1132478073 R61-M1-N6 J15-U11  24:00000000 25:00000008 26:0b8dedf0 27:0b8d8980
+1132478073 R61-M1-N6 J15-U11  28:0b8d2510 29:0029b6b0 30:0189a800 31:0189a790
+1132478074 R61-M1-N6 J15-U11  special purpose registers:
+1132478074 R61-M1-N6 J15-U11  lr:0010e9a4 cr:88404824 xer:20000002 ctr:00000000
+1132478075 R61-M1-N6 J15-U11  rts panic! - stopping execution

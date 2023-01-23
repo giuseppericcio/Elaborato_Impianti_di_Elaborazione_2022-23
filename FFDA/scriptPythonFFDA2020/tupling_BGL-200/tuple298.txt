@@ -1,0 +1,32 @@
+1133625430 R47-M1-N4 J17-U11  instruction TLB error interrupt
+1133625430 R47-M1-N4 J17-U11  instruction address: 0xa77cb150
+1133625431 R47-M1-N4 J17-U11  Machine State Register: 0x00000000
+1133625431 R47-M1-N4 J17-U11  wait state enable.................0
+1133625431 R47-M1-N4 J17-U11  critical input interrupt enable...0
+1133625431 R47-M1-N4 J17-U11  external input interrupt enable...0
+1133625431 R47-M1-N4 J17-U11  problem state (0=sup,1=usr).......0
+1133625431 R47-M1-N4 J17-U11  floating point instr. enabled.....0
+1133625431 R47-M1-N4 J17-U11  machine check enable..............0
+1133625432 R47-M1-N4 J17-U11  floating pt ex mode 0 enable......0
+1133625432 R47-M1-N4 J17-U11  debug wait enable.................0
+1133625432 R47-M1-N4 J17-U11  debug interrupt enable............0
+1133625432 R47-M1-N4 J17-U11  floating pt ex mode 1 enable......0
+1133625432 R47-M1-N4 J17-U11  instruction address space.........0
+1133625432 R47-M1-N4 J17-U11  data address space................0
+1133625432 R47-M1-N4 J17-U11  Core Configuration Register 0: 0x00002000
+1133625432 R47-M1-N4 J17-U11  disable store gathering..................0
+1133625433 R47-M1-N4 J17-U11  disable apu instruction broadcast........0
+1133625433 R47-M1-N4 J17-U11  disable trace broadcast..................0
+1133625433 R47-M1-N4 J17-U11  guaranteed instruction cache block touch.0
+1133625433 R47-M1-N4 J17-U11  guaranteed data cache block touch........1
+1133625433 R47-M1-N4 J17-U11  force load/store alignment...............0
+1133625433 R47-M1-N4 J17-U11  icache prefetch depth....................0
+1133625433 R47-M1-N4 J17-U11  icache prefetch threshold................0
+1133625433 R47-M1-N4 J17-U11  General Purpose Registers:
+1133625434 R47-M1-N4 J17-U11  r00=0x0000f000 r01=0x0000f000 r02=0x1eeeeeee r03=0x2ddddddd
+1133625434 R47-M1-N4 J17-U11  r04=0x09600ff0 r05=0x06900ff0 r06=0x0a069000 r07=0x05096000
+1133625434 R47-M1-N4 J17-U11  r08=0x0a069000 r09=0x05096000 r10=0x078e6d40 r11=0x0b4d9e80
+1133625542 R47-M1-N4 J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:34926, Link has been severed
+1133625543 R47-M1-N4 J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:34925, Link has been severed
+1133625551 R47-M1-NC J18-U11  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:34932, Link has been severed
+1133625552 R47-M1-NC J18-U01  ciod: Error reading message prefix on CioStream socket to 172.16.96.116:34931, Link has been severed

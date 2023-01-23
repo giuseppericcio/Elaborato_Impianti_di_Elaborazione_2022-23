@@ -1,0 +1,23 @@
+1129190071 R25-M0-NE J17-U11  machine check interrupt
+1129190072 R25-M0-NE J17-U11  instruction address: 0x0023d170
+1129190072 R25-M0-NE J17-U11  machine check status register: 0x81000000
+1129190072 R25-M0-NE J17-U11  summary...........................1
+1129190072 R25-M0-NE J17-U11  instruction plb error.............0
+1129190073 R25-M0-NE J17-U11  data read plb error...............0
+1129190073 R25-M0-NE J17-U11  data write plb error..............0
+1129190073 R25-M0-NE J17-U11  tlb error.........................0
+1129190073 R25-M0-NE J17-U11  i-cache parity error..............0
+1129190074 R25-M0-NE J17-U11  d-cache search parity error.......0
+1129190074 R25-M0-NE J17-U11  d-cache flush parity error........1
+1129190074 R25-M0-NE J17-U11  imprecise machine check...........0
+1129190074 R25-M0-NE J17-U11  machine state register: 0x0002f900
+1129190075 R25-M0-NE J17-U11  wait state enable.................0
+1129190075 R25-M0-NE J17-U11  critical input interrupt enable...1
+1129190075 R25-M0-NE J17-U11  external input interrupt enable...1
+1129190076 R25-M0-NE J17-U11  problem state (0=sup,1=usr).......1
+1129190076 R25-M0-NE J17-U11  floating point instr. enabled.....1
+1129190076 R25-M0-NE J17-U11  machine check enable..............1
+1129190077 R25-M0-NE J17-U11  floating pt ex mode 0 enable......1
+1129190085 R25-M0-NE J17-U11  debug wait enable.................0
+1129190109 R25-M0-NE J17-U11  debug interrupt enable............0
+1129190139 R25-M0-NE J17-U11  floating pt ex mode 1 enable......1

@@ -1,0 +1,46 @@
+1132553873 R40-M1-ND J15-U01  machine check interrupt
+1132553873 R40-M1-ND J15-U01  instruction address: 0x0016a6bc
+1132553874 R40-M1-ND J15-U01  machine check status register: 0x81000000
+1132553874 R40-M1-ND J15-U01  summary...........................1
+1132553874 R40-M1-ND J15-U01  instruction plb error.............0
+1132553875 R40-M1-ND J15-U01  data read plb error...............0
+1132553875 R40-M1-ND J15-U01  data write plb error..............0
+1132553875 R40-M1-ND J15-U01  tlb error.........................0
+1132553875 R40-M1-ND J15-U01  i-cache parity error..............0
+1132553876 R40-M1-ND J15-U01  d-cache search parity error.......0
+1132553876 R40-M1-ND J15-U01  d-cache flush parity error........1
+1132553876 R40-M1-ND J15-U01  imprecise machine check...........0
+1132553876 R40-M1-ND J15-U01  machine state register: 0x0002f900
+1132553877 R40-M1-ND J15-U01  wait state enable.................0
+1132553877 R40-M1-ND J15-U01  critical input interrupt enable...1
+1132553877 R40-M1-ND J15-U01  external input interrupt enable...1
+1132553877 R40-M1-ND J15-U01  problem state (0=sup,1=usr).......1
+1132553878 R40-M1-ND J15-U01  floating point instr. enabled.....1
+1132553878 R40-M1-ND J15-U01  machine check enable..............1
+1132553878 R40-M1-ND J15-U01  floating pt ex mode 0 enable......1
+1132553878 R40-M1-ND J15-U01  debug wait enable.................0
+1132553879 R40-M1-ND J15-U01  debug interrupt enable............0
+1132553881 R40-M1-ND J15-U01  floating pt ex mode 1 enable......1
+1132553886 R40-M1-ND J15-U01  instruction address space.........0
+1132553895 R40-M1-ND J15-U01  data address space................0
+1132553904 R40-M1-ND J15-U01  core configuration register: 0x00002000
+1132553911 R40-M1-ND J15-U01  disable store gathering..................0
+1132553919 R40-M1-ND J15-U01  disable apu instruction broadcast........0
+1132553931 R40-M1-ND J15-U01  disable trace broadcast..................0
+1132553945 R40-M1-ND J15-U01  guaranteed instruction cache block touch.0
+1132553953 R40-M1-ND J15-U01  guaranteed data cache block touch........1
+1132553958 R40-M1-ND J15-U01  force load/store alignment...............0
+1132553958 R40-M1-ND J15-U01  icache prefetch depth....................0
+1132553958 R40-M1-ND J15-U01  icache prefetch threshold................0
+1132553959 R40-M1-ND J15-U01  general purpose registers:
+1132553959 R40-M1-ND J15-U01  0:0016af30 1:0feea5e0 2:1eeeeeee 3:097b2d30
+1132553959 R40-M1-ND J15-U01  4:002890a4 5:00000000 6:0feea670 7:00000001
+1132553959 R40-M1-ND J15-U01  8:ffff8002 9:00000000 10:00000001 11:097b2d3c
+1132553960 R40-M1-ND J15-U01  12:20404882 13:1eeeeeee 14:00000000 15:00fc4070
+1132553960 R40-M1-ND J15-U01  16:09a0a578 17:0a04b7c8 18:0a047ba8 19:0a0600a8
+1132553960 R40-M1-ND J15-U01  20:0a041688 21:40000000 22:003b8f38 23:0feea6d8
+1132553960 R40-M1-ND J15-U01  24:00000024 25:0988d050 26:4c00080b 27:00000001
+1132553961 R40-M1-ND J15-U01  28:0feea670 29:00000001 30:0000e8b0 31:097b2d30
+1132553961 R40-M1-ND J15-U01  special purpose registers:
+1132553961 R40-M1-ND J15-U01  lr:0016af30 cr:20404882 xer:20000002 ctr:001c1554
+1132553961 R40-M1-ND J15-U01  rts panic! - stopping execution

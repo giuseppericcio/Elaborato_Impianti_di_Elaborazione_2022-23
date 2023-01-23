@@ -1,0 +1,62 @@
+1132551086 R52-M0-N2 J13-U11  machine check interrupt
+1132551086 R52-M0-N2 J13-U11  instruction address: 0x0014cf54
+1132551086 R52-M0-N2 J13-U11  machine check status register: 0x81000000
+1132551086 R52-M0-N2 J13-U11  summary...........................1
+1132551087 R52-M0-N2 J13-U11  instruction plb error.............0
+1132551087 R52-M0-N2 J13-U11  data read plb error...............0
+1132551087 R52-M0-N2 J13-U11  data write plb error..............0
+1132551087 R52-M0-N2 J13-U11  tlb error.........................0
+1132551088 R52-M0-N2 J13-U11  i-cache parity error..............0
+1132551088 R52-M0-N2 J13-U11  d-cache search parity error.......0
+1132551088 R52-M0-N2 J13-U11  d-cache flush parity error........1
+1132551088 R52-M0-N2 J13-U11  imprecise machine check...........0
+1132551089 R52-M0-N2 J13-U11  exception syndrome register: 0x02000000
+1132551089 R52-M0-N2 J13-U11  machine check: i-fetch......................0
+1132551089 R52-M0-N2 J13-U11  program interrupt: illegal instruction......0
+1132551089 R52-M0-N2 J13-U11  program interrupt: privileged instruction...0
+1132551090 R52-M0-N2 J13-U11  program interrupt: trap instruction.........1
+1132551090 R52-M0-N2 J13-U11  floating point operation....................0
+1132551090 R52-M0-N2 J13-U11  store operation.............................0
+1132551091 R52-M0-N2 J13-U11  data store interrupt caused by dcbf.........0
+1132551091 R52-M0-N2 J13-U11  data store interrupt caused by icbi.........0
+1132551091 R52-M0-N2 J13-U11  auxiliary processor.........................0
+1132551092 R52-M0-N2 J13-U11  program interrupt: unimplemented operation..0
+1132551093 R52-M0-N2 J13-U11  byte ordering exception.....................0
+1132551096 R52-M0-N2 J13-U11  program interrupt: imprecise exception......0
+1132551104 R52-M0-N2 J13-U11  program interrupt: fp cr update.............0
+1132551115 R52-M0-N2 J13-U11  program interrupt: fp compare...............0
+1132551124 R52-M0-N2 J13-U11  program interrupt: fp cr field .............0
+1132551132 R52-M0-N2 J13-U11  machine state register: 0x0002f900
+1132551139 R52-M0-N2 J13-U11  wait state enable.................0
+1132551153 R52-M0-N2 J13-U11  critical input interrupt enable...1
+1132551166 R52-M0-N2 J13-U11  external input interrupt enable...1
+1132551174 R52-M0-N2 J13-U11  problem state (0=sup,1=usr).......1
+1132551178 R52-M0-N2 J13-U11  floating point instr. enabled.....1
+1132551179 R52-M0-N2 J13-U11  machine check enable..............1
+1132551179 R52-M0-N2 J13-U11  floating pt ex mode 0 enable......1
+1132551179 R52-M0-N2 J13-U11  debug wait enable.................0
+1132551180 R52-M0-N2 J13-U11  debug interrupt enable............0
+1132551180 R52-M0-N2 J13-U11  floating pt ex mode 1 enable......1
+1132551180 R52-M0-N2 J13-U11  instruction address space.........0
+1132551181 R52-M0-N2 J13-U11  data address space................0
+1132551181 R52-M0-N2 J13-U11  core configuration register: 0x00002000
+1132551181 R52-M0-N2 J13-U11  disable store gathering..................0
+1132551181 R52-M0-N2 J13-U11  disable apu instruction broadcast........0
+1132551182 R52-M0-N2 J13-U11  disable trace broadcast..................0
+1132551182 R52-M0-N2 J13-U11  guaranteed instruction cache block touch.0
+1132551182 R52-M0-N2 J13-U11  guaranteed data cache block touch........1
+1132551183 R52-M0-N2 J13-U11  force load/store alignment...............0
+1132551183 R52-M0-N2 J13-U11  icache prefetch depth....................0
+1132551183 R52-M0-N2 J13-U11  icache prefetch threshold................0
+1132551183 R52-M0-N2 J13-U11  general purpose registers:
+1132551184 R52-M0-N2 J13-U11  0:00000010 1:0fea03d0 2:1eeeeeee 3:00000050
+1132551184 R52-M0-N2 J13-U11  4:ffffffe0 5:01b1cd70 6:09b5dcb0 7:00000018
+1132551184 R52-M0-N2 J13-U11  8:01b1cf10 9:00000028 10:ffffffe8 11:01b1ce58
+1132551184 R52-M0-N2 J13-U11  12:01b1cd90 13:1eeeeeee 14:0000676f 15:0fee10c4
+1132551185 R52-M0-N2 J13-U11  16:0000007d 17:000000e2 18:000000e3 19:0fea0700
+1132551185 R52-M0-N2 J13-U11  20:000000eb 21:00226734 22:09b23610 23:01b1cca0
+1132551185 R52-M0-N2 J13-U11  24:01e14120 25:0036a010 26:01d7b860 27:09b5dc90
+1132551185 R52-M0-N2 J13-U11  28:01b1b920 29:09b23610 30:00000008 31:003b8cb0
+1132551186 R52-M0-N2 J13-U11  special purpose registers:
+1132551186 R52-M0-N2 J13-U11  lr:0014b4f4 cr:2a404828 xer:20000002 ctr:0014b34c
+1132551186 R52-M0-N2 J13-U11  rts panic! - stopping execution

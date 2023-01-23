@@ -1,0 +1,2 @@
+1133971809 R63-M0-N0 J18-U11  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image
+1133971809 R63-M0-N0 J18-U01  ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image

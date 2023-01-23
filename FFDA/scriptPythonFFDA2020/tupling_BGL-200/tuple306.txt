@@ -1,0 +1,6 @@
+1133722855 R66-M1-NC J18-U11  idoproxy communication failure: socket closed
+1133722855 R62-M1-NC J18-U11  idoproxy communication failure: socket closed
+1133722855 R62-M0-NC J18-U11  idoproxy communication failure: socket closed
+1133722855 R63-M0-NC J18-U11  idoproxy communication failure: socket closed
+1133722855 R50-M1-NC J18-U11  idoproxy communication failure: socket closed
+1133722855 R60-M1-NC J18-U11  idoproxy communication failure: socket closed

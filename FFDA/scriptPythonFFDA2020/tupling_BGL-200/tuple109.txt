@@ -1,0 +1,17 @@
+1130703684 R75-M0-NF J09-U01  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1130703685 R75-M0-NF J09-U01  instruction address: 0x00017500
+1130703685 R75-M0-NF J09-U01  machine check status register: 0x91800000
+1130703685 R75-M0-NF J09-U01  summary...........................1
+1130703685 R75-M0-NF J09-U01  instruction plb error.............0
+1130703686 R75-M0-NF J09-U01  data read plb error...............0
+1130703686 R75-M0-NF J09-U01  data write plb error..............1
+1130703686 R75-M0-NF J09-U01  tlb error.........................0
+1130703686 R75-M0-NF J09-U01  i-cache parity error..............0
+1130703687 R75-M0-NF J09-U01  d-cache search parity error.......0
+1130703687 R75-M0-NF J09-U01  d-cache flush parity error........1
+1130703689 R75-M0-NF J09-U01  imprecise machine check...........1
+1130703693 R75-M0-NF J09-U01  machine state register: 0x00003000
+1130703700 R75-M0-NF J09-U01  wait state enable.................0
+1130703710 R75-M0-NF J09-U01  critical input interrupt enable...0
+1130703721 R75-M0-NF J09-U01  external input interrupt enable...0
+1130703736 R75-M0-NF J09-U01  problem state (0=sup,1=usr).......0

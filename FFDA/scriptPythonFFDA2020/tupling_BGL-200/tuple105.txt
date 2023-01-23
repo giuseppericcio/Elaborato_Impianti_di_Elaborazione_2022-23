@@ -1,0 +1,46 @@
+1130630295 R33-M0-N5 J09-U01  machine check interrupt
+1130630295 R33-M0-N5 J09-U01  instruction address: 0x001271c8
+1130630295 R33-M0-N5 J09-U01  machine check status register: 0x82000000
+1130630295 R33-M0-N5 J09-U01  summary...........................1
+1130630295 R33-M0-N5 J09-U01  instruction plb error.............0
+1130630296 R33-M0-N5 J09-U01  data read plb error...............0
+1130630296 R33-M0-N5 J09-U01  data write plb error..............0
+1130630296 R33-M0-N5 J09-U01  tlb error.........................0
+1130630296 R33-M0-N5 J09-U01  i-cache parity error..............0
+1130630296 R33-M0-N5 J09-U01  d-cache search parity error.......1
+1130630297 R33-M0-N5 J09-U01  d-cache flush parity error........0
+1130630297 R33-M0-N5 J09-U01  imprecise machine check...........0
+1130630297 R33-M0-N5 J09-U01  machine state register: 0x0002f900
+1130630297 R33-M0-N5 J09-U01  wait state enable.................0
+1130630298 R33-M0-N5 J09-U01  critical input interrupt enable...1
+1130630298 R33-M0-N5 J09-U01  external input interrupt enable...1
+1130630300 R33-M0-N5 J09-U01  problem state (0=sup,1=usr).......1
+1130630304 R33-M0-N5 J09-U01  floating point instr. enabled.....1
+1130630309 R33-M0-N5 J09-U01  machine check enable..............1
+1130630315 R33-M0-N5 J09-U01  floating pt ex mode 0 enable......1
+1130630321 R33-M0-N5 J09-U01  debug wait enable.................0
+1130630326 R33-M0-N5 J09-U01  debug interrupt enable............0
+1130630330 R33-M0-N5 J09-U01  floating pt ex mode 1 enable......1
+1130630331 R33-M0-N5 J09-U01  instruction address space.........0
+1130630331 R33-M0-N5 J09-U01  data address space................0
+1130630331 R33-M0-N5 J09-U01  core configuration register: 0x00002000
+1130630331 R33-M0-N5 J09-U01  disable store gathering..................0
+1130630331 R33-M0-N5 J09-U01  disable apu instruction broadcast........0
+1130630332 R33-M0-N5 J09-U01  disable trace broadcast..................0
+1130630332 R33-M0-N5 J09-U01  guaranteed instruction cache block touch.0
+1130630332 R33-M0-N5 J09-U01  guaranteed data cache block touch........1
+1130630332 R33-M0-N5 J09-U01  force load/store alignment...............0
+1130630332 R33-M0-N5 J09-U01  icache prefetch depth....................0
+1130630332 R33-M0-N5 J09-U01  icache prefetch threshold................0
+1130630333 R33-M0-N5 J09-U01  general purpose registers:
+1130630333 R33-M0-N5 J09-U01  0:0000001d 1:0fee9ac0 2:1eeeeeee 3:00aa6e30
+1130630333 R33-M0-N5 J09-U01  4:00000000 5:0000001c 6:00ea3b20 7:001d0000
+1130630333 R33-M0-N5 J09-U01  8:43300000 9:001d8680 10:800d2fd0 11:001db450
+1130630333 R33-M0-N5 J09-U01  12:0fee9b10 13:1eeeeeee 14:00aa3580 15:00000020
+1130630333 R33-M0-N5 J09-U01  16:00000000 17:00000008 18:fffffff8 19:00aaa200
+1130630334 R33-M0-N5 J09-U01  20:00000000 21:00000000 22:00000000 23:000001b8
+1130630334 R33-M0-N5 J09-U01  24:00000148 25:00ae99f8 26:00240000 27:00230000
+1130630334 R33-M0-N5 J09-U01  28:00000010 29:001d6f20 30:00aa3260 31:00aa3580
+1130630334 R33-M0-N5 J09-U01  special purpose registers:
+1130630334 R33-M0-N5 J09-U01  lr:00127374 cr:44402842 xer:20000002 ctr:00127110
+1130630334 R33-M0-N5 J09-U01  rts panic! - stopping execution
