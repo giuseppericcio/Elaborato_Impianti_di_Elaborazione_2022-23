@@ -1,2 +1,3 @@
-# Elaborato_ImpiantidiElaborazione_2022-23
-prova prova sa sa
+# Elaborato di Impianti di Elaborazione - a.a. 2022-23
+
+TO BE DONE
